@@ -1,0 +1,48 @@
+{
+  "category": "animals",
+  "items": [
+    {"id":"lion","image":"lion.png","translations":{"mr":"सिंह","hi":"शेर","en":"Lion"}},
+    {"id":"tiger","image":"tiger.png","translations":{"mr":"वाघ","hi":"बाघ","en":"Tiger"}},
+    {"id":"elephant","image":"elephant.png","translations":{"mr":"हत्ती","hi":"हाथी","en":"Elephant"}},
+    {"id":"dog","image":"dog.png","translations":{"mr":"कुत्रा","hi":"कुत्ता","en":"Dog"}},
+    {"id":"cat","image":"cat.png","translations":{"mr":"मांजर","hi":"बिल्ली","en":"Cat"}},
+    {"id":"cow","image":"cow.png","translations":{"mr":"गाय","hi":"गाय","en":"Cow"}},
+    {"id":"buffalo","image":"buffalo.png","translations":{"mr":"म्हैस","hi":"भैंस","en":"Buffalo"}},
+    {"id":"goat","image":"goat.png","translations":{"mr":"शेळी","hi":"बकरी","en":"Goat"}},
+    {"id":"sheep","image":"sheep.png","translations":{"mr":"मेंढी","hi":"भेड़","en":"Sheep"}},
+    {"id":"horse","image":"horse.png","translations":{"mr":"घोडा","hi":"घोड़ा","en":"Horse"}},
+
+    {"id":"camel","image":"camel.png","translations":{"mr":"ऊंट","hi":"ऊंट","en":"Camel"}},
+    {"id":"monkey","image":"monkey.png","translations":{"mr":"माकड","hi":"बंदर","en":"Monkey"}},
+    {"id":"bear","image":"bear.png","translations":{"mr":"अस्वल","hi":"भालू","en":"Bear"}},
+    {"id":"deer","image":"deer.png","translations":{"mr":"हरिण","hi":"हिरण","en":"Deer"}},
+    {"id":"fox","image":"fox.png","translations":{"mr":"कोल्हा","hi":"लोमड़ी","en":"Fox"}},
+    {"id":"wolf","image":"wolf.png","translations":{"mr":"लांडगा","hi":"भेड़िया","en":"Wolf"}},
+    {"id":"leopard","image":"leopard.png","translations":{"mr":"चित्ता","hi":"तेंदुआ","en":"Leopard"}},
+    {"id":"cheetah","image":"cheetah.png","translations":{"mr":"चीत्या","hi":"चीता","en":"Cheetah"}},
+    {"id":"kangaroo","image":"kangaroo.png","translations":{"mr":"कांगारू","hi":"कंगारू","en":"Kangaroo"}},
+    {"id":"zebra","image":"zebra.png","translations":{"mr":"झेब्रा","hi":"ज़ेब्रा","en":"Zebra"}},
+
+    {"id":"giraffe","image":"giraffe.png","translations":{"mr":"जिराफ","hi":"जिराफ","en":"Giraffe"}},
+    {"id":"hippopotamus","image":"hippo.png","translations":{"mr":"दरियाई घोडा","hi":"दरियाई घोड़ा","en":"Hippopotamus"}},
+    {"id":"rhinoceros","image":"rhino.png","translations":{"mr":"गेंडा","hi":"गैंडा","en":"Rhinoceros"}},
+    {"id":"squirrel","image":"squirrel.png","translations":{"mr":"खार","hi":"गिलहरी","en":"Squirrel"}},
+    {"id":"rat","image":"rat.png","translations":{"mr":"उंदीर","hi":"चूहा","en":"Rat"}},
+    {"id":"rabbit","image":"rabbit.png","translations":{"mr":"ससा","hi":"खरगोश","en":"Rabbit"}},
+    {"id":"pig","image":"pig.png","translations":{"mr":"डुक्कर","hi":"सूअर","en":"Pig"}},
+    {"id":"donkey","image":"donkey.png","translations":{"mr":"गाढव","hi":"गधा","en":"Donkey"}},
+    {"id":"yak","image":"yak.png","translations":{"mr":"याक","hi":"याक","en":"Yak"}},
+    {"id":"bison","image":"bison.png","translations":{"mr":"बायसन","hi":"बाइसन","en":"Bison"}},
+
+    {"id":"otter","image":"otter.png","translations":{"mr":"ऊद","hi":"ऊदबिलाव","en":"Otter"}},
+    {"id":"weasel","image":"weasel.png","translations":{"mr":"नेवला","hi":"नेवला","en":"Weasel"}},
+    {"id":"mongoose","image":"mongoose.png","translations":{"mr":"मुंगूस","hi":"नेवला","en":"Mongoose"}},
+    {"id":"porcupine","image":"porcupine.png","translations":{"mr":"साळिंदर","hi":"साही","en":"Porcupine"}},
+    {"id":"armadillo","image":"armadillo.png","translations":{"mr":"आर्माडिलो","hi":"आर्माडिलो","en":"Armadillo"}},
+    {"id":"sloth","image":"sloth.png","translations":{"mr":"स्लॉथ","hi":"सुस्त जानवर","en":"Sloth"}},
+    {"id":"antelope","image":"antelope.png","translations":{"mr":"हरिण (प्रकार)","hi":"मृग","en":"Antelope"}},
+    {"id":"hyena","image":"hyena.png","translations":{"mr":"तरस","hi":"लकड़बग्घा","en":"Hyena"}},
+    {"id":"lynx","image":"lynx.png","translations":{"mr":"लिंक्स","hi":"लिंक्स","en":"Lynx"}},
+    {"id":"panther","image":"panther.png","translations":{"mr":"काळा बिबट्या","hi":"काला तेंदुआ","en":"Panther"}}
+  ]
+}

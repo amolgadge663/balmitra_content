@@ -1,0 +1,15 @@
+{
+  "category": "shapes",
+  "items": [
+    {"id":"circle","mr":"वर्तुळ","hi":"वृत्त","en":"Circle"},
+    {"id":"square","mr":"चौरस","hi":"वर्ग","en":"Square"},
+    {"id":"triangle","mr":"त्रिकोण","hi":"त्रिभुज","en":"Triangle"},
+    {"id":"rectangle","mr":"आयत","hi":"आयत","en":"Rectangle"},
+    {"id":"oval","mr":"अंडाकृती","hi":"अंडाकार","en":"Oval"},
+    {"id":"diamond","mr":"हिरा","hi":"हीरा","en":"Diamond"},
+    {"id":"star","mr":"तारा","hi":"तारा","en":"Star"},
+    {"id":"heart","mr":"हृदय","hi":"दिल","en":"Heart"},
+    {"id":"pentagon","mr":"पंचकोन","hi":"पंचभुज","en":"Pentagon"},
+    {"id":"hexagon","mr":"षटकोन","hi":"षट्भुज","en":"Hexagon"}
+  ]
+}

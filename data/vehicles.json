@@ -1,0 +1,48 @@
+{
+  "category": "vehicles",
+  "items": [
+    {"id":"car","image":"car.png","translations":{"mr":"कार","hi":"कार","en":"Car"}},
+    {"id":"bus","image":"bus.png","translations":{"mr":"बस","hi":"बस","en":"Bus"}},
+    {"id":"bike","image":"bike.png","translations":{"mr":"बाईक","hi":"बाइक","en":"Bike"}},
+    {"id":"truck","image":"truck.png","translations":{"mr":"ट्रक","hi":"ट्रक","en":"Truck"}},
+    {"id":"auto","image":"auto.png","translations":{"mr":"रिक्षा","hi":"ऑटो","en":"Auto Rickshaw"}},
+    {"id":"train","image":"train.png","translations":{"mr":"रेल्वे","hi":"ट्रेन","en":"Train"}},
+    {"id":"aeroplane","image":"plane.png","translations":{"mr":"विमान","hi":"हवाई जहाज","en":"Aeroplane"}},
+    {"id":"ship","image":"ship.png","translations":{"mr":"जहाज","hi":"जहाज","en":"Ship"}},
+    {"id":"boat","image":"boat.png","translations":{"mr":"नौका","hi":"नाव","en":"Boat"}},
+    {"id":"cycle","image":"cycle.png","translations":{"mr":"सायकल","hi":"साइकिल","en":"Bicycle"}},
+
+    {"id":"helicopter","image":"helicopter.png","translations":{"mr":"हेलिकॉप्टर","hi":"हेलीकॉप्टर","en":"Helicopter"}},
+    {"id":"metro","image":"metro.png","translations":{"mr":"मेट्रो","hi":"मेट्रो","en":"Metro"}},
+    {"id":"tram","image":"tram.png","translations":{"mr":"ट्राम","hi":"ट्राम","en":"Tram"}},
+    {"id":"van","image":"van.png","translations":{"mr":"व्हॅन","hi":"वैन","en":"Van"}},
+    {"id":"jeep","image":"jeep.png","translations":{"mr":"जीप","hi":"जीप","en":"Jeep"}},
+    {"id":"tractor","image":"tractor.png","translations":{"mr":"ट्रॅक्टर","hi":"ट्रैक्टर","en":"Tractor"}},
+    {"id":"bulldozer","image":"bulldozer.png","translations":{"mr":"बुलडोझर","hi":"बुलडोज़र","en":"Bulldozer"}},
+    {"id":"crane","image":"crane.png","translations":{"mr":"क्रेन","hi":"क्रेन","en":"Crane"}},
+    {"id":"ambulance","image":"ambulance.png","translations":{"mr":"रुग्णवाहिका","hi":"एम्बुलेंस","en":"Ambulance"}},
+    {"id":"fire_engine","image":"fire.png","translations":{"mr":"दमकल","hi":"फायर ब्रिगेड","en":"Fire Engine"}},
+
+    {"id":"police_car","image":"police.png","translations":{"mr":"पोलीस गाडी","hi":"पुलिस गाड़ी","en":"Police Car"}},
+    {"id":"taxi","image":"taxi.png","translations":{"mr":"टॅक्सी","hi":"टैक्सी","en":"Taxi"}},
+    {"id":"pickup","image":"pickup.png","translations":{"mr":"पिकअप","hi":"पिकअप","en":"Pickup Truck"}},
+    {"id":"scooter","image":"scooter.png","translations":{"mr":"स्कूटर","hi":"स्कूटर","en":"Scooter"}},
+    {"id":"sports_car","image":"sports.png","translations":{"mr":"स्पोर्ट्स कार","hi":"स्पोर्ट्स कार","en":"Sports Car"}},
+    {"id":"electric_car","image":"electric.png","translations":{"mr":"इलेक्ट्रिक कार","hi":"इलेक्ट्रिक कार","en":"Electric Car"}},
+    {"id":"rocket","image":"rocket.png","translations":{"mr":"रॉकेट","hi":"रॉकेट","en":"Rocket"}},
+    {"id":"submarine","image":"submarine.png","translations":{"mr":"पाणबुडी","hi":"पनडुब्बी","en":"Submarine"}},
+    {"id":"yacht","image":"yacht.png","translations":{"mr":"यॉट","hi":"यॉट","en":"Yacht"}},
+    {"id":"canoe","image":"canoe.png","translations":{"mr":"कॅनो","hi":"डोंगी","en":"Canoe"}},
+
+    {"id":"skateboard","image":"skateboard.png","translations":{"mr":"स्केटबोर्ड","hi":"स्केटबोर्ड","en":"Skateboard"}},
+    {"id":"roller_skates","image":"roller.png","translations":{"mr":"रोलर स्केट्स","hi":"रोलर स्केट्स","en":"Roller Skates"}},
+    {"id":"snowmobile","image":"snowmobile.png","translations":{"mr":"स्नोमोबाईल","hi":"स्नोमोबाइल","en":"Snowmobile"}},
+    {"id":"hovercraft","image":"hovercraft.png","translations":{"mr":"होवरक्राफ्ट","hi":"होवरक्राफ्ट","en":"Hovercraft"}},
+    {"id":"segway","image":"segway.png","translations":{"mr":"सेगवे","hi":"सेगवे","en":"Segway"}},
+    {"id":"golf_cart","image":"golf.png","translations":{"mr":"गोल्फ कार्ट","hi":"गोल्फ कार्ट","en":"Golf Cart"}},
+    {"id":"forklift","image":"forklift.png","translations":{"mr":"फोर्कलिफ्ट","hi":"फोर्कलिफ्ट","en":"Forklift"}},
+    {"id":"tank","image":"tank.png","translations":{"mr":"टँक","hi":"टैंक","en":"Tank"}},
+    {"id":"fighter_jet","image":"jet.png","translations":{"mr":"लढाऊ विमान","hi":"फाइटर जेट","en":"Fighter Jet"}},
+    {"id":"glider","image":"glider.png","translations":{"mr":"ग्लायडर","hi":"ग्लाइडर","en":"Glider"}}
+  ]
+}

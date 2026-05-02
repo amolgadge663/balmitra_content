@@ -1,0 +1,12 @@
+{
+  "category": "days",
+  "items": [
+    {"id":"monday","mr":"सोमवार","hi":"सोमवार","en":"Monday"},
+    {"id":"tuesday","mr":"मंगळवार","hi":"मंगलवार","en":"Tuesday"},
+    {"id":"wednesday","mr":"बुधवार","hi":"बुधवार","en":"Wednesday"},
+    {"id":"thursday","mr":"गुरुवार","hi":"गुरुवार","en":"Thursday"},
+    {"id":"friday","mr":"शुक्रवार","hi":"शुक्रवार","en":"Friday"},
+    {"id":"saturday","mr":"शनिवार","hi":"शनिवार","en":"Saturday"},
+    {"id":"sunday","mr":"रविवार","hi":"रविवार","en":"Sunday"}
+  ]
+}

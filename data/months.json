@@ -1,0 +1,30 @@
+{
+  "category": "months",
+  "items": [
+    {"id":"january","mr":"जानेवारी","hi":"जनवरी","en":"January"},
+    {"id":"february","mr":"फेब्रुवारी","hi":"फरवरी","en":"February"},
+    {"id":"march","mr":"मार्च","hi":"मार्च","en":"March"},
+    {"id":"april","mr":"एप्रिल","hi":"अप्रैल","en":"April"},
+    {"id":"may","mr":"मे","hi":"मई","en":"May"},
+    {"id":"june","mr":"जून","hi":"जून","en":"June"},
+    {"id":"july","mr":"जुलै","hi":"जुलाई","en":"July"},
+    {"id":"august","mr":"ऑगस्ट","hi":"अगस्त","en":"August"},
+    {"id":"september","mr":"सप्टेंबर","hi":"सितंबर","en":"September"},
+    {"id":"october","mr":"ऑक्टोबर","hi":"अक्टूबर","en":"October"},
+    {"id":"november","mr":"नोव्हेंबर","hi":"नवंबर","en":"November"},
+    {"id":"december","mr":"डिसेंबर","hi":"दिसंबर","en":"December"},
+
+    {"id":"chaitra","mr":"चैत्र","hi":"चैत्र","en":"Chaitra"},
+    {"id":"vaishakh","mr":"वैशाख","hi":"वैशाख","en":"Vaishakh"},
+    {"id":"jyestha","mr":"ज्येष्ठ","hi":"ज्येष्ठ","en":"Jyestha"},
+    {"id":"ashadh","mr":"आषाढ","hi":"आषाढ़","en":"Ashadh"},
+    {"id":"shravan","mr":"श्रावण","hi":"श्रावण","en":"Shravan"},
+    {"id":"bhadrapad","mr":"भाद्रपद","hi":"भाद्रपद","en":"Bhadrapad"},
+    {"id":"ashwin","mr":"आश्विन","hi":"आश्विन","en":"Ashwin"},
+    {"id":"kartik","mr":"कार्तिक","hi":"कार्तिक","en":"Kartik"},
+    {"id":"margashirsha","mr":"मार्गशीर्ष","hi":"मार्गशीर्ष","en":"Margashirsha"},
+    {"id":"paush","mr":"पौष","hi":"पौष","en":"Paush"},
+    {"id":"magh","mr":"माघ","hi":"माघ","en":"Magh"},
+    {"id":"phalgun","mr":"फाल्गुन","hi":"फाल्गुन","en":"Phalgun"}
+  ]
+}
