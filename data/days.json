@@ -1,12 +1,12 @@
 {
   "category": "days",
   "items": [
-    {"id":"monday","mr":"सोमवार","hi":"सोमवार","en":"Monday"},
-    {"id":"tuesday","mr":"मंगळवार","hi":"मंगलवार","en":"Tuesday"},
-    {"id":"wednesday","mr":"बुधवार","hi":"बुधवार","en":"Wednesday"},
-    {"id":"thursday","mr":"गुरुवार","hi":"गुरुवार","en":"Thursday"},
-    {"id":"friday","mr":"शुक्रवार","hi":"शुक्रवार","en":"Friday"},
-    {"id":"saturday","mr":"शनिवार","hi":"शनिवार","en":"Saturday"},
-    {"id":"sunday","mr":"रविवार","hi":"रविवार","en":"Sunday"}
+    {"id":"monday","translations":{"mr":"सोमवार","hi":"सोमवार","en":"Monday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/monday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/monday.mp3"},
+    {"id":"tuesday","translations":{"mr":"मंगळवार","hi":"मंगलवार","en":"Tuesday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/tuesday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/tuesday.mp3"},
+    {"id":"wednesday","translations":{"mr":"बुधवार","hi":"बुधवार","en":"Wednesday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/wednesday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/wednesday.mp3"},
+    {"id":"thursday","translations":{"mr":"गुरुवार","hi":"गुरुवार","en":"Thursday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/thursday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/thursday.mp3"},
+    {"id":"friday","translations":{"mr":"शुक्रवार","hi":"शुक्रवार","en":"Friday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/friday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/friday.mp3"},
+    {"id":"saturday","translations":{"mr":"शनिवार","hi":"शनिवार","en":"Saturday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/saturday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/saturday.mp3"},
+    {"id":"sunday","translations":{"mr":"रविवार","hi":"रविवार","en":"Sunday"},"image":"https://amolgadge663.github.io/balmitra_content/images/days/sunday.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/days/sunday.mp3"}
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "category": "abcd",
+  "items": [
+    {"id":"a","translations":{"mr":"ए","hi":"ए","en":"A"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/a.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/a.mp3"},
+    {"id":"b","translations":{"mr":"बी","hi":"बी","en":"B"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/b.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/b.mp3"},
+    {"id":"c","translations":{"mr":"सी","hi":"सी","en":"C"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/c.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/c.mp3"},
+    {"id":"d","translations":{"mr":"डी","hi":"डी","en":"D"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/d.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/d.mp3"},
+    {"id":"e","translations":{"mr":"ई","hi":"ई","en":"E"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/e.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/e.mp3"},
+    {"id":"f","translations":{"mr":"एफ","hi":"एफ","en":"F"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/f.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/f.mp3"},
+    {"id":"g","translations":{"mr":"जी","hi":"जी","en":"G"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/g.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/g.mp3"},
+    {"id":"h","translations":{"mr":"एच","hi":"एच","en":"H"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/h.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/h.mp3"},
+    {"id":"i","translations":{"mr":"आय","hi":"आई","en":"I"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/i.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/i.mp3"},
+    {"id":"j","translations":{"mr":"जे","hi":"जे","en":"J"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/j.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/j.mp3"},
+    {"id":"k","translations":{"mr":"के","hi":"के","en":"K"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/k.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/k.mp3"},
+    {"id":"l","translations":{"mr":"एल","hi":"एल","en":"L"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/l.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/l.mp3"},
+    {"id":"m","translations":{"mr":"एम","hi":"एम","en":"M"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/m.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/m.mp3"},
+    {"id":"n","translations":{"mr":"एन","hi":"एन","en":"N"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/n.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/n.mp3"},
+    {"id":"o","translations":{"mr":"ओ","hi":"ओ","en":"O"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/o.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/o.mp3"},
+    {"id":"p","translations":{"mr":"पी","hi":"पी","en":"P"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/p.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/p.mp3"},
+    {"id":"q","translations":{"mr":"क्यू","hi":"क्यू","en":"Q"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/q.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/q.mp3"},
+    {"id":"r","translations":{"mr":"आर","hi":"आर","en":"R"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/r.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/r.mp3"},
+    {"id":"s","translations":{"mr":"एस","hi":"एस","en":"S"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/s.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/s.mp3"},
+    {"id":"t","translations":{"mr":"टी","hi":"टी","en":"T"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/t.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/t.mp3"},
+    {"id":"u","translations":{"mr":"यू","hi":"यू","en":"U"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/u.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/u.mp3"},
+    {"id":"v","translations":{"mr":"व्ही","hi":"वी","en":"V"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/v.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/v.mp3"},
+    {"id":"w","translations":{"mr":"डब्लू","hi":"डब्लू","en":"W"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/w.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/w.mp3"},
+    {"id":"x","translations":{"mr":"एक्स","hi":"एक्स","en":"X"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/x.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/x.mp3"},
+    {"id":"y","translations":{"mr":"वाय","hi":"वाई","en":"Y"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/y.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/y.mp3"},
+    {"id":"z","translations":{"mr":"झेड","hi":"ज़ेड","en":"Z"},"image":"https://amolgadge663.github.io/balmitra_content/images/abcd/z.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/abcd/z.mp3"}
+  ]
+}

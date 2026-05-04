@@ -1,0 +1,71 @@
+{
+  "category": "seasons",
+  "items": [
+    {
+      "id": "spring",
+      "translations": { "mr": "वसंत ऋतू", "hi": "वसंत ऋतु", "en": "Spring" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/spring.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/spring.mp3"
+    },
+    {
+      "id": "summer",
+      "translations": { "mr": "उन्हाळा", "hi": "गर्मी", "en": "Summer" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/summer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/summer.mp3"
+    },
+    {
+      "id": "monsoon",
+      "translations": { "mr": "पावसाळा", "hi": "वर्षा ऋतु", "en": "Monsoon" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/monsoon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/monsoon.mp3"
+    },
+    {
+      "id": "autumn",
+      "translations": { "mr": "शरद ऋतू", "hi": "शरद ऋतु", "en": "Autumn" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/autumn.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/autumn.mp3"
+    },
+    {
+      "id": "winter",
+      "translations": { "mr": "हिवाळा", "hi": "सर्दी", "en": "Winter" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/winter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/winter.mp3"
+    },
+    {
+      "id": "vasant",
+      "translations": { "mr": "वसंत", "hi": "वसंत", "en": "Vasant (Spring)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/vasant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/vasant.mp3"
+    },
+    {
+      "id": "grishma",
+      "translations": { "mr": "ग्रीष्म", "hi": "ग्रीष्म", "en": "Grishma (Summer)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/grishma.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/grishma.mp3"
+    },
+    {
+      "id": "varsha",
+      "translations": { "mr": "वर्षा", "hi": "वर्षा", "en": "Varsha (Monsoon)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/varsha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/varsha.mp3"
+    },
+    {
+      "id": "sharad",
+      "translations": { "mr": "शरद", "hi": "शरद", "en": "Sharad (Autumn)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/sharad.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/sharad.mp3"
+    },
+    {
+      "id": "hemant",
+      "translations": { "mr": "हेमंत", "hi": "हेमंत", "en": "Hemant (Pre-Winter)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/hemant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/hemant.mp3"
+    },
+    {
+      "id": "shishir",
+      "translations": { "mr": "शिशिर", "hi": "शिशिर", "en": "Shishir (Winter)" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/shishir.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/seasons/shishir.mp3"
+    }
+  ]
+}

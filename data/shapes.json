@@ -1,15 +1,15 @@
 {
   "category": "shapes",
   "items": [
-    {"id":"circle","mr":"वर्तुळ","hi":"वृत्त","en":"Circle"},
-    {"id":"square","mr":"चौरस","hi":"वर्ग","en":"Square"},
-    {"id":"triangle","mr":"त्रिकोण","hi":"त्रिभुज","en":"Triangle"},
-    {"id":"rectangle","mr":"आयत","hi":"आयत","en":"Rectangle"},
-    {"id":"oval","mr":"अंडाकृती","hi":"अंडाकार","en":"Oval"},
-    {"id":"diamond","mr":"हिरा","hi":"हीरा","en":"Diamond"},
-    {"id":"star","mr":"तारा","hi":"तारा","en":"Star"},
-    {"id":"heart","mr":"हृदय","hi":"दिल","en":"Heart"},
-    {"id":"pentagon","mr":"पंचकोन","hi":"पंचभुज","en":"Pentagon"},
-    {"id":"hexagon","mr":"षटकोन","hi":"षट्भुज","en":"Hexagon"}
+    {"id":"circle","translations":{"mr":"वर्तुळ","hi":"वृत्त","en":"Circle"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/circle.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/circle.mp3"},
+    {"id":"square","translations":{"mr":"चौरस","hi":"वर्ग","en":"Square"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/square.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/square.mp3"},
+    {"id":"triangle","translations":{"mr":"त्रिकोण","hi":"त्रिभुज","en":"Triangle"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/triangle.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/triangle.mp3"},
+    {"id":"rectangle","translations":{"mr":"आयत","hi":"आयत","en":"Rectangle"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/rectangle.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/rectangle.mp3"},
+    {"id":"oval","translations":{"mr":"अंडाकृती","hi":"अंडाकार","en":"Oval"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/oval.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/oval.mp3"},
+    {"id":"diamond","translations":{"mr":"हिरा","hi":"हीरा","en":"Diamond"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/diamond.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/diamond.mp3"},
+    {"id":"star","translations":{"mr":"तारा","hi":"तारा","en":"Star"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/star.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/star.mp3"},
+    {"id":"heart","translations":{"mr":"हृदय","hi":"दिल","en":"Heart"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/heart.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/heart.mp3"},
+    {"id":"pentagon","translations":{"mr":"पंचकोन","hi":"पंचभुज","en":"Pentagon"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/pentagon.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/pentagon.mp3"},
+    {"id":"hexagon","translations":{"mr":"षटकोन","hi":"षट्भुज","en":"Hexagon"},"image":"https://amolgadge663.github.io/balmitra_content/images/shapes/hexagon.png","audio":"https://amolgadge663.github.io/balmitra_content/audios/shapes/hexagon.mp3"}
   ]
 }

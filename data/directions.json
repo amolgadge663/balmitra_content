@@ -1,0 +1,95 @@
+{
+  "category": "directions",
+  "items": [
+    {
+      "id": "north",
+      "translations": { "mr": "उत्तर", "hi": "उत्तर", "en": "North" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/north.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/north.mp3"
+    },
+    {
+      "id": "south",
+      "translations": { "mr": "दक्षिण", "hi": "दक्षिण", "en": "South" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/south.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/south.mp3"
+    },
+    {
+      "id": "east",
+      "translations": { "mr": "पूर्व", "hi": "पूर्व", "en": "East" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/east.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/east.mp3"
+    },
+    {
+      "id": "west",
+      "translations": { "mr": "पश्चिम", "hi": "पश्चिम", "en": "West" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/west.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/west.mp3"
+    },
+    {
+      "id": "northeast",
+      "translations": { "mr": "ईशान्य", "hi": "उत्तर-पूर्व", "en": "Northeast" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/northeast.mp3"
+    },
+    {
+      "id": "northwest",
+      "translations": { "mr": "वायव्य", "hi": "उत्तर-पश्चिम", "en": "Northwest" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/northwest.mp3"
+    },
+    {
+      "id": "southeast",
+      "translations": { "mr": "आग्नेय", "hi": "दक्षिण-पूर्व", "en": "Southeast" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/southeast.mp3"
+    },
+    {
+      "id": "southwest",
+      "translations": { "mr": "नैऋत्य", "hi": "दक्षिण-पश्चिम", "en": "Southwest" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/southwest.mp3"
+    },
+    {
+      "id": "up",
+      "translations": { "mr": "वर", "hi": "ऊपर", "en": "Up" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/up.mp3"
+    },
+    {
+      "id": "down",
+      "translations": { "mr": "खाली", "hi": "नीचे", "en": "Down" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/down.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/down.mp3"
+    },
+    {
+      "id": "left",
+      "translations": { "mr": "डावे", "hi": "बायाँ", "en": "Left" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/left.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/left.mp3"
+    },
+    {
+      "id": "right",
+      "translations": { "mr": "उजवे", "hi": "दायाँ", "en": "Right" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/right.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/right.mp3"
+    },
+    {
+      "id": "forward",
+      "translations": { "mr": "पुढे", "hi": "आगे", "en": "Forward" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/forward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/forward.mp3"
+    },
+    {
+      "id": "backward",
+      "translations": { "mr": "मागे", "hi": "पीछे", "en": "Backward" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/backward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/backward.mp3"
+    },
+    {
+      "id": "center",
+      "translations": { "mr": "मध्य", "hi": "केंद्र", "en": "Center" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/center.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/directions/center.mp3"
+    }
+  ]
+}

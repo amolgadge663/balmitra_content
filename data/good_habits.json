@@ -1,0 +1,125 @@
+{
+  "category": "good_habits",
+  "items": [
+    {
+      "id": "brush_teeth",
+      "translations": { "mr": "दात घासणे", "hi": "दाँत साफ करना", "en": "Brush Teeth" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/brush_teeth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/brush_teeth.mp3"
+    },
+    {
+      "id": "wash_hands",
+      "translations": { "mr": "हात धुणे", "hi": "हाथ धोना", "en": "Wash Hands" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/wash_hands.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/wash_hands.mp3"
+    },
+    {
+      "id": "eat_healthy",
+      "translations": { "mr": "पौष्टिक जेवण करणे", "hi": "पौष्टिक खाना खाना", "en": "Eat Healthy" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/eat_healthy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/eat_healthy.mp3"
+    },
+    {
+      "id": "drink_water",
+      "translations": { "mr": "पाणी पिणे", "hi": "पानी पीना", "en": "Drink Water" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/drink_water.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/drink_water.mp3"
+    },
+    {
+      "id": "exercise",
+      "translations": { "mr": "व्यायाम करणे", "hi": "व्यायाम करना", "en": "Exercise" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/exercise.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/exercise.mp3"
+    },
+    {
+      "id": "sleep_early",
+      "translations": { "mr": "लवकर झोपणे", "hi": "जल्दी सोना", "en": "Sleep Early" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/sleep_early.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/sleep_early.mp3"
+    },
+    {
+      "id": "read_books",
+      "translations": { "mr": "पुस्तके वाचणे", "hi": "किताबें पढ़ना", "en": "Read Books" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/read_books.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/read_books.mp3"
+    },
+    {
+      "id": "help_others",
+      "translations": { "mr": "इतरांना मदत करणे", "hi": "दूसरों की मदद करना", "en": "Help Others" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/help_others.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/help_others.mp3"
+    },
+    {
+      "id": "say_thank_you",
+      "translations": { "mr": "धन्यवाद म्हणणे", "hi": "धन्यवाद कहना", "en": "Say Thank You" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/say_thank_you.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/say_thank_you.mp3"
+    },
+    {
+      "id": "say_sorry",
+      "translations": { "mr": "माफी मागणे", "hi": "माफी माँगना", "en": "Say Sorry" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/say_sorry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/say_sorry.mp3"
+    },
+    {
+      "id": "be_honest",
+      "translations": { "mr": "प्रामाणिक असणे", "hi": "ईमानदार रहना", "en": "Be Honest" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/be_honest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/be_honest.mp3"
+    },
+    {
+      "id": "keep_clean",
+      "translations": { "mr": "स्वच्छता राखणे", "hi": "साफ-सफाई रखना", "en": "Keep Clean" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/keep_clean.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/keep_clean.mp3"
+    },
+    {
+      "id": "respect_elders",
+      "translations": { "mr": "वडीलधाऱ्यांचा आदर करणे", "hi": "बड़ों का सम्मान करना", "en": "Respect Elders" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/respect_elders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/respect_elders.mp3"
+    },
+    {
+      "id": "save_water",
+      "translations": { "mr": "पाणी वाचवणे", "hi": "पानी बचाना", "en": "Save Water" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/save_water.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/save_water.mp3"
+    },
+    {
+      "id": "save_electricity",
+      "translations": { "mr": "वीज वाचवणे", "hi": "बिजली बचाना", "en": "Save Electricity" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/save_electricity.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/save_electricity.mp3"
+    },
+    {
+      "id": "plant_trees",
+      "translations": { "mr": "झाडे लावणे", "hi": "पेड़ लगाना", "en": "Plant Trees" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/plant_trees.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/plant_trees.mp3"
+    },
+    {
+      "id": "share_food",
+      "translations": { "mr": "जेवण वाटणे", "hi": "खाना बाँटना", "en": "Share Food" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/share_food.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/share_food.mp3"
+    },
+    {
+      "id": "be_kind",
+      "translations": { "mr": "दयाळू असणे", "hi": "दयालु रहना", "en": "Be Kind" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/be_kind.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/be_kind.mp3"
+    },
+    {
+      "id": "no_littering",
+      "translations": { "mr": "कचरा न टाकणे", "hi": "कूड़ा न फैलाना", "en": "No Littering" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/no_littering.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/no_littering.mp3"
+    },
+    {
+      "id": "wear_seatbelt",
+      "translations": { "mr": "सीटबेल्ट लावणे", "hi": "सीटबेल्ट पहनना", "en": "Wear Seatbelt" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/wear_seatbelt.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/good_habits/wear_seatbelt.mp3"
+    }
+  ]
+}

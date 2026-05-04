@@ -1,0 +1,95 @@
+{
+  "category": "my_family",
+  "items": [
+    {
+      "id": "father",
+      "translations": { "mr": "बाबा", "hi": "पिताजी", "en": "Father" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/father.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/father.mp3"
+    },
+    {
+      "id": "mother",
+      "translations": { "mr": "आई", "hi": "माँ", "en": "Mother" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/mother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/mother.mp3"
+    },
+    {
+      "id": "brother",
+      "translations": { "mr": "भाऊ", "hi": "भाई", "en": "Brother" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/brother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/brother.mp3"
+    },
+    {
+      "id": "sister",
+      "translations": { "mr": "ताई", "hi": "दीदी", "en": "Sister" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/sister.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/sister.mp3"
+    },
+    {
+      "id": "grandfather",
+      "translations": { "mr": "आजोबा", "hi": "दादाजी", "en": "Grandfather" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandfather.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/grandfather.mp3"
+    },
+    {
+      "id": "grandmother",
+      "translations": { "mr": "आजी", "hi": "दादीजी", "en": "Grandmother" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandmother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/grandmother.mp3"
+    },
+    {
+      "id": "uncle",
+      "translations": { "mr": "काका", "hi": "चाचा", "en": "Uncle" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/uncle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/uncle.mp3"
+    },
+    {
+      "id": "aunt",
+      "translations": { "mr": "काकी", "hi": "चाची", "en": "Aunt" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/aunt.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/aunt.mp3"
+    },
+    {
+      "id": "cousin",
+      "translations": { "mr": "चुलत भाऊ/बहीण", "hi": "चचेरा भाई/बहन", "en": "Cousin" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/cousin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/cousin.mp3"
+    },
+    {
+      "id": "son",
+      "translations": { "mr": "मुलगा", "hi": "बेटा", "en": "Son" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/son.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/son.mp3"
+    },
+    {
+      "id": "daughter",
+      "translations": { "mr": "मुलगी", "hi": "बेटी", "en": "Daughter" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/daughter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/daughter.mp3"
+    },
+    {
+      "id": "husband",
+      "translations": { "mr": "नवरा", "hi": "पति", "en": "Husband" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/husband.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/husband.mp3"
+    },
+    {
+      "id": "wife",
+      "translations": { "mr": "बायको", "hi": "पत्नी", "en": "Wife" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/wife.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/wife.mp3"
+    },
+    {
+      "id": "baby",
+      "translations": { "mr": "बाळ", "hi": "शिशु", "en": "Baby" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/baby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/baby.mp3"
+    },
+    {
+      "id": "family",
+      "translations": { "mr": "कुटुंब", "hi": "परिवार", "en": "Family" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/family.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/my_family/family.mp3"
+    }
+  ]
+}

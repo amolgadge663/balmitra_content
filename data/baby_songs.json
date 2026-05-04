@@ -1,0 +1,588 @@
+{
+  "category": "baby_songs",
+  "items": [
+    {
+      "id": "twinkle_twinkle",
+      "translations": { "mr": "चमचम चांदणी", "hi": "टिमटिम तारे", "en": "Twinkle Twinkle Little Star" },
+      "detail": {
+        "mr": "चमचम चमचम चांदणी, आकाशात चमके रे!\nकाय आहेस तू कोण, हिऱ्यासारखी चमके रे!\nआकाशात उंच उंच, सर्वांना प्रकाश दे!\nचमचम चमचम चांदणी, आकाशात चमके रे!",
+        "hi": "टिमटिम टिमटिम छोटे तारे, आसमान में चमको सारे!\nकैसा है तू कौन है तू, हीरे जैसा चमके तू!\nऊँचे ऊँचे आसमान में, सबको रोशनी देता है!\nटिमटिम टिमटिम छोटे तारे, आसमान में चमको सारे!",
+        "en": "Twinkle twinkle little star, how I wonder what you are!\nUp above the world so high, like a diamond in the sky!\nWhen the blazing sun is gone, when he nothing shines upon,\nTwinkle twinkle little star, how I wonder what you are!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/twinkle_twinkle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/twinkle_twinkle.mp3"
+    },
+    {
+      "id": "johny_johny",
+      "translations": { "mr": "जॉनी जॉनी हो का बाबा", "hi": "जॉनी जॉनी हाँ पापा", "en": "Johny Johny Yes Papa" },
+      "detail": {
+        "mr": "जॉनी जॉनी! - हो बाबा!\nसाखर खातोस? - नाही बाबा!\nखोटं सांगतोस? - नाही बाबा!\nतोंड उघड! - हाहाहा!",
+        "hi": "जॉनी जॉनी! - हाँ पापा!\nशक्कर खाते? - नहीं पापा!\nझूठ बोलते? - नहीं पापा!\nमुँह खोलो! - हाहाहा!",
+        "en": "Johny Johny! - Yes Papa!\nEating sugar? - No Papa!\nTelling lies? - No Papa!\nOpen your mouth! - Ha ha ha!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/johny_johny.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/johny_johny.mp3"
+    },
+    {
+      "id": "baa_baa_black_sheep",
+      "translations": { "mr": "मेंढी मेंढी काळी मेंढी", "hi": "मिमियाती काली भेड़", "en": "Baa Baa Black Sheep" },
+      "detail": {
+        "mr": "मेंढी मेंढी काळी मेंढी, तुझ्याकडे लोकर आहे का?\nहो मालकिणी, हो मालकिणी, तीन पोते भरायला!\nएक पोते मालकासाठी, एक पोते मालकिणीसाठी,\nएक पोते त्या छोट्या मुलासाठी जो गल्लीत राहतो!",
+        "hi": "मिमियाती काली भेड़, क्या तेरे पास ऊन है?\nहाँ मालिक, हाँ मालिक, तीन थैले भरे हैं!\nएक थैला मालिक के लिए, एक थैला मालकिन के लिए,\nएक थैला उस छोटे लड़के के लिए जो गली में रहता है!",
+        "en": "Baa baa black sheep, have you any wool?\nYes sir yes sir three bags full!\nOne for the master one for the dame,\nOne for the little boy who lives down the lane!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baa_baa_black_sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/baa_baa_black_sheep.mp3"
+    },
+    {
+      "id": "humpty_dumpty",
+      "translations": { "mr": "हम्प्टी डम्प्टी", "hi": "हम्प्टी डम्प्टी", "en": "Humpty Dumpty" },
+      "detail": {
+        "mr": "हम्प्टी डम्प्टी भिंतीवर बसला, हम्प्टी डम्प्टी खाली पडला!\nराजाचे सर्व घोडे आणि राजाचे सर्व सैनिक,\nहम्प्टीला परत जोडू शकले नाहीत!",
+        "hi": "हम्प्टी डम्प्टी दीवार पर बैठा, हम्प्टी डम्प्टी नीचे गिरा!\nराजा के सारे घोड़े और राजा के सारे सिपाही,\nहम्प्टी को फिर से जोड़ नहीं सके!",
+        "en": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall!\nAll the king's horses and all the king's men,\nCouldn't put Humpty together again!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/humpty_dumpty.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/humpty_dumpty.mp3"
+    },
+    {
+      "id": "jack_jill",
+      "translations": { "mr": "जॅक आणि जिल", "hi": "जैक और जिल", "en": "Jack and Jill" },
+      "detail": {
+        "mr": "जॅक आणि जिल टेकडीवर गेले, पाण्याने भरलेली बादली आणायला!\nजॅक पडला आणि मुकुट फुटला, जिलही मागून पडली!",
+        "hi": "जैक और जिल पहाड़ी पर गए, पानी से भरी बाल्टी लाने को!\nजैक गिरा और सिर फूटा, जिल भी पीछे से गिर गई!",
+        "en": "Jack and Jill went up the hill to fetch a pail of water!\nJack fell down and broke his crown, and Jill came tumbling after!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_jill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/jack_jill.mp3"
+    },
+    {
+      "id": "row_your_boat",
+      "translations": { "mr": "नाव वल्हवा", "hi": "नाव चलाओ", "en": "Row Row Row Your Boat" },
+      "detail": {
+        "mr": "वल्ह वल्ह वल्ह नाव, हळूहळू प्रवाहात!\nआनंदाने आनंदाने, जगण्याचे स्वप्न आहे!",
+        "hi": "चलाओ चलाओ अपनी नाव, धीरे-धीरे धारे में!\nखुशी से खुशी से खुशी से, ज़िंदगी एक सपना है!",
+        "en": "Row row row your boat gently down the stream!\nMerrily merrily merrily merrily, life is but a dream!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/row_your_boat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/row_your_boat.mp3"
+    },
+    {
+      "id": "mary_lamb",
+      "translations": { "mr": "मेरीची कोकरू", "hi": "मैरी का मेमना", "en": "Mary Had a Little Lamb" },
+      "detail": {
+        "mr": "मेरीकडे एक छोटी कोकरू होती, तिचे लोकर पांढरे होते!\nमेरी जिथे जाई तिथे कोकरू मागे येई!\nएक दिवस ती शाळेत गेली, कोकरूही मागे आली!\nमुलांना खूप मजा वाटली, शिक्षक हसत राहिले!",
+        "hi": "मैरी के पास एक छोटा मेमना था, उसका ऊन सफेद था!\nमैरी जहाँ जाती वहाँ मेमना पीछे आता!\nएक दिन वह स्कूल गई, मेमना भी पीछे आया!\nबच्चों को बड़ा मज़ा आया, शिक्षक हँसते रहे!",
+        "en": "Mary had a little lamb its fleece was white as snow!\nEverywhere that Mary went the lamb was sure to go!\nIt followed her to school one day which was against the rules!\nIt made the children laugh and play to see a lamb at school!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mary_lamb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/mary_lamb.mp3"
+    },
+    {
+      "id": "wheels_bus",
+      "translations": { "mr": "बसचे चाक गरगर फिरते", "hi": "बस के पहिए घूमते हैं", "en": "Wheels on the Bus" },
+      "detail": {
+        "mr": "बसचे चाक गरगर फिरते, गरगर फिरते, गरगर फिरते!\nबसचे चाक गरगर फिरते, सारा दिवस!\nबसचा दरवाजा उघडबंद होतो, सारा दिवस!\nबसचे बाळ रडत आहे, सारा दिवस!",
+        "hi": "बस के पहिए घूमते हैं, घूमते हैं, घूमते हैं!\nबस के पहिए घूमते हैं, सारे दिन!\nबस का दरवाज़ा खुलता बंद होता है, सारे दिन!\nबस में बच्चा रोता है, सारे दिन!",
+        "en": "The wheels on the bus go round and round, round and round!\nThe wheels on the bus go round and round all day long!\nThe doors on the bus go open and shut all day long!\nThe babies on the bus go waa waa waa all day long!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/wheels_bus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/wheels_bus.mp3"
+    },
+    {
+      "id": "old_macdonald",
+      "translations": { "mr": "जुना मॅकडोनाल्ड शेतकरी", "hi": "बूढ़े मैकडोनाल्ड का खेत", "en": "Old MacDonald Had a Farm" },
+      "detail": {
+        "mr": "मॅकडोनाल्डचे शेत होते, ई आय ई आय ओ!\nत्या शेतावर गाय होती, ई आय ई आय ओ!\nहिकडे म्हं म्हं, तिकडे म्हं म्हं, सगळीकडे म्हं म्हं!\nमॅकडोनाल्डचे शेत होते, ई आय ई आय ओ!",
+        "hi": "मैकडोनाल्ड का एक खेत था, ई आई ई आई ओ!\nउस खेत में एक गाय थी, ई आई ई आई ओ!\nइधर म्यू म्यू, उधर म्यू म्यू, हर जगह म्यू म्यू!\nमैकडोनाल्ड का एक खेत था, ई आई ई आई ओ!",
+        "en": "Old MacDonald had a farm E-I-E-I-O!\nAnd on his farm he had a cow E-I-E-I-O!\nWith a moo moo here and a moo moo there!\nHere a moo there a moo everywhere a moo moo!\nOld MacDonald had a farm E-I-E-I-O!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/old_macdonald.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/old_macdonald.mp3"
+    },
+    {
+      "id": "itsy_bitsy",
+      "translations": { "mr": "छोटी कोळी चढे वर", "hi": "छोटी मकड़ी चढ़ी ऊपर", "en": "Itsy Bitsy Spider" },
+      "detail": {
+        "mr": "छोटी छोटी कोळी नळीवर चढली!\nपाऊस आला आणि तिला खाली वाहवले!\nऊन आले आणि पाणी सुकले!\nछोटी छोटी कोळी पुन्हा वर चढली!",
+        "hi": "छोटी-छोटी मकड़ी पाइप पर चढ़ी!\nबारिश आई और उसे बहा ले गई!\nधूप निकली और पानी सूख गया!\nछोटी-छोटी मकड़ी फिर से ऊपर चढ़ी!",
+        "en": "The itsy bitsy spider went up the water spout!\nDown came the rain and washed the spider out!\nOut came the sun and dried up all the rain!\nAnd the itsy bitsy spider went up the spout again!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/itsy_bitsy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/itsy_bitsy.mp3"
+    },
+    {
+      "id": "five_little_ducks",
+      "translations": { "mr": "पाच छोटी बदके", "hi": "पाँच छोटे बत्तख", "en": "Five Little Ducks" },
+      "detail": {
+        "mr": "पाच छोटी बदके पाण्यात खेळायला गेली!\nडोंगरावर आणि दऱ्यात दूर!\nआईने क्वॅक क्वॅक क्वॅक केले!\nफक्त चार बदके घरी परत आली!",
+        "hi": "पाँच छोटे बत्तख पानी में खेलने गए!\nपहाड़ों और घाटियों में दूर!\nमाँ ने क्वेक क्वेक क्वेक किया!\nसिर्फ चार बत्तख घर वापस आए!",
+        "en": "Five little ducks went out one day over the hills and far away!\nMother duck said quack quack quack quack!\nBut only four little ducks came back!\n...And no little ducks came back.\nSad mother duck went out one day!\nAnd all five little ducks came back!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_ducks.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/five_little_ducks.mp3"
+    },
+    {
+      "id": "head_shoulders",
+      "translations": { "mr": "डोके, खांदे, गुडघे, पाय", "hi": "सिर, कंधे, घुटने, पाँव", "en": "Head Shoulders Knees and Toes" },
+      "detail": {
+        "mr": "डोके, खांदे, गुडघे, पाय, गुडघे, पाय!\nडोके, खांदे, गुडघे, पाय, गुडघे, पाय!\nडोळे, कान, तोंड आणि नाक!\nडोके, खांदे, गुडघे, पाय, गुडघे, पाय!",
+        "hi": "सिर, कंधे, घुटने, पाँव, घुटने, पाँव!\nसिर, कंधे, घुटने, पाँव, घुटने, पाँव!\nआँखें, कान, मुँह और नाक!\nसिर, कंधे, घुटने, पाँव, घुटने, पाँव!",
+        "en": "Head shoulders knees and toes, knees and toes!\nHead shoulders knees and toes, knees and toes!\nAnd eyes and ears and mouth and nose!\nHead shoulders knees and toes, knees and toes!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/head_shoulders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/head_shoulders.mp3"
+    },
+    {
+      "id": "if_happy",
+      "translations": { "mr": "आनंदी असशील तर टाळ्या वाजव", "hi": "खुश हो तो ताली बजाओ", "en": "If You're Happy and You Know It" },
+      "detail": {
+        "mr": "आनंदी असशील आणि तुला माहीत असेल तर टाळ्या वाजव!\nआनंदी असशील आणि तुला माहीत असेल तर टाळ्या वाजव!\nआनंदी असशील आणि खरोखर तुला दाखवायचे असेल,\nआनंदी असशील आणि तुला माहीत असेल तर टाळ्या वाजव!",
+        "hi": "खुश हो और यह जानते हो तो ताली बजाओ!\nखुश हो और यह जानते हो तो ताली बजाओ!\nखुश हो और सच में दिखाना चाहते हो,\nखुश हो और यह जानते हो तो ताली बजाओ!",
+        "en": "If you're happy and you know it clap your hands!\nIf you're happy and you know it clap your hands!\nIf you're happy and you know it and you really want to show it,\nIf you're happy and you know it clap your hands!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/if_happy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/if_happy.mp3"
+    },
+    {
+      "id": "good_morning",
+      "translations": { "mr": "सुप्रभात गाणे", "hi": "सुप्रभात गीत", "en": "Good Morning Song" },
+      "detail": {
+        "mr": "सुप्रभात सुप्रभात, नवा दिवस उजाडला!\nपक्षी गाणे गातात, फुले उमलली!\nचल उठ चल शाळेला, आई पाहते वाट!\nसुप्रभात सुप्रभात, नवा दिवस उजाडला!",
+        "hi": "सुप्रभात सुप्रभात, नया दिन आया!\nपंछी गाना गाते हैं, फूल खिले हैं!\nचलो उठो स्कूल चलो, माँ देख रही है!\nसुप्रभात सुप्रभात, नया दिन आया!",
+        "en": "Good morning good morning, a brand new day is here!\nThe birds are singing happily and flowers are blooming!\nGet up get up go to school, Mama is waiting for you!\nGood morning good morning, a brand new day is here!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/good_morning.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/good_morning.mp3"
+    },
+    {
+      "id": "rain_rain_go_away",
+      "translations": { "mr": "पाऊस पाऊस जा रे जा", "hi": "बारिश बारिश जा जा जा", "en": "Rain Rain Go Away" },
+      "detail": {
+        "mr": "पाऊस पाऊस जा रे जा, छोटा जॉनी खेळायला जाईल!\nपाऊस पाऊस जा रे जा, उद्या येणार परत ये!",
+        "hi": "बारिश बारिश जा जा जा, छोटा जॉनी खेलने जाएगा!\nबारिश बारिश जा जा जा, कल दोबारा आ जाना!",
+        "en": "Rain rain go away, come again another day!\nLittle Johnny wants to play, rain rain go away!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rain_rain_go_away.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/rain_rain_go_away.mp3"
+    },
+    {
+      "id": "yere_yere_pavsa",
+      "translations": { "mr": "ये रे ये रे पावसा", "hi": "आओ आओ बारिश", "en": "Come Come Oh Rain" },
+      "detail": {
+        "mr": "ये रे ये रे पावसा, तुला देतो पैसा!\nपैसा झाला खोटा, पाऊस आला मोठा!\nये रे ये रे पावसा, झाडे माया करतात!\nमाती ओली ओली होते, शेती फुलून येते!",
+        "hi": "आओ आओ बारिश, तुम्हें दूँगा पैसा!\nपैसा निकला झूठा, बारिश आई मोटी!\nआओ आओ बारिश, पेड़ खुश हो जाते!\nमिट्टी भीग जाती है, खेत हरे हो जाते!",
+        "en": "Come come oh rain, I will give you money!\nThe money turned out fake, the rain came down heavy!\nCome come oh rain, the trees are waiting for you!\nThe earth gets wet and green, the farms begin to bloom!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/yere_yere_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/yere_yere_pavsa.mp3"
+    },
+    {
+      "id": "chanda_mama",
+      "translations": { "mr": "चंदा मामा ये रे", "hi": "चंदा मामा आ जाओ", "en": "Come Oh Moon" },
+      "detail": {
+        "mr": "चंदा मामा ये रे ये रे, दुधाचा घागर घे रे घे रे!\nचांदण्यात खेळू आम्ही, गोड गाणे गाऊ आम्ही!\nचंदा मामा ये रे ये रे, बाळाला झोपव रे!",
+        "hi": "चंदा मामा आ जाओ, दूध की डोंगी लाओ!\nचाँदनी में खेलेंगे हम, मीठे गाने गाएँगे हम!\nचंदा मामा आ जाओ, बच्चे को सुलाओ!",
+        "en": "Come oh Moon come come, bring a bowl of milk and come!\nWe will play in the moonlight, we will sing sweet songs!\nCome oh Moon come come, put our baby to sleep!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/chanda_mama.mp3"
+    },
+    {
+      "id": "aala_paus",
+      "translations": { "mr": "आला पाऊस आला", "hi": "बारिश आई बारिश आई", "en": "The Rain Has Come" },
+      "detail": {
+        "mr": "आला पाऊस आला, वारा सोबत आला!\nझाडे डोलू लागली, पाने भिजू लागली!\nछत्री घे रे छत्री घे, भिजू नकोस रे!\nआला पाऊस आला, आनंद घेऊन आला!",
+        "hi": "बारिश आई बारिश आई, हवा के साथ आई!\nपेड़ झूमने लगे, पत्ते भीगने लगे!\nछाता ले लो छाता लो, भीगो मत तुम!\nबारिश आई बारिश आई, खुशी लेकर आई!",
+        "en": "The rain has come the rain has come, it came with the wind!\nThe trees began to sway, the leaves began to drip!\nTake your umbrella now, don't get wet in the rain!\nThe rain has come the rain has come, it brings joy to all!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aala_paus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/aala_paus.mp3"
+    },
+    {
+      "id": "chittu_chirri",
+      "translations": { "mr": "चिट्टू चिर्री उडे वर", "hi": "चिड़िया उड़ी ऊपर", "en": "The Little Sparrow Flies" },
+      "detail": {
+        "mr": "चिट्टू चिर्री उडे वर, आकाशात जाई!\nचिमणी चिमणी छोटी चिमणी, गाणे गात राही!\nझाडावर घरटे केले, पिल्लांना वाढवले!\nचिट्टू चिर्री उडे वर, आकाशात जाई!",
+        "hi": "चिड़िया उड़ी ऊपर, आसमान में गई!\nछोटी-छोटी चिड़िया, गाना गाती रही!\nपेड़ पर घोंसला बनाया, बच्चों को पाला!\nचिड़िया उड़ी ऊपर, आसमान में गई!",
+        "en": "The little sparrow flies up high into the sky!\nTweet tweet little birdie singing all the way!\nBuild a nest up in the tree, raise your babies there!\nThe little sparrow flies up high into the sky!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chittu_chirri.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/chittu_chirri.mp3"
+    },
+    {
+      "id": "lakdi_ki_kathi",
+      "translations": { "mr": "लाकडाचा घोडा", "hi": "लकड़ी की काठी", "en": "Wooden Horse" },
+      "detail": {
+        "mr": "लाकडाची काठी, काठीवर घोडा!\nघोड्यावर बसला राजा, राजाने दिला घोडा!\nघोडा म्हणे दौडतो, राजा म्हणे चालतो!\nलाकडाची काठी, काठीवर घोडा!",
+        "hi": "लकड़ी की काठी, काठी पर घोड़ा!\nघोड़े पर बैठा राजा, राजा ने दिया घोड़ा!\nघोड़ा बोले दौड़ूँगा, राजा बोले चलूँगा!\nलकड़ी की काठी, काठी पर घोड़ा!",
+        "en": "Wooden stick, horse on the stick!\nRiding on the horse, the little king!\nHorse says I will gallop, king says I will ride!\nWooden stick, horse on the stick, what a lovely ride!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/lakdi_ki_kathi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/lakdi_ki_kathi.mp3"
+    },
+    {
+      "id": "mera_naam_chu_chu",
+      "translations": { "mr": "माझे नाव चू चू", "hi": "मेरा नाम चू चू", "en": "My Name is Chu Chu" },
+      "detail": {
+        "mr": "माझे नाव चू चू, मी एक उंदीर आहे!\nचीज खातो भरपूर, मांजरीला घाबरतो!\nचू चू चू चू धावतो मी, बिळात लपतो मी!\nमाझे नाव चू चू, मी एक उंदीर आहे!",
+        "hi": "मेरा नाम चू चू, मैं एक चूहा हूँ!\nपनीर खाता हूँ खूब, बिल्ली से डरता हूँ!\nचू चू चू चू दौड़ता हूँ, बिल में छुपता हूँ!\nमेरा नाम चू चू, मैं एक चूहा हूँ!",
+        "en": "My name is Chu Chu, I am a little mouse!\nI eat lots of cheese, I am afraid of the cat!\nChu chu chu chu I run and run, I hide inside my hole!\nMy name is Chu Chu, I am a little mouse!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mera_naam_chu_chu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/mera_naam_chu_chu.mp3"
+    },
+    {
+      "id": "nani_teri_morni",
+      "translations": { "mr": "नानीची मोरणी", "hi": "नानी तेरी मोरनी", "en": "Grandma's Peacock" },
+      "detail": {
+        "mr": "नानीची मोरणी, तिला अंडी घातली!\nअंड्यातून पिल्ले आली, पिल्ले नाचू लागली!\nनानीने पाहिले आणि आनंदाने हसली!\nनानीची मोरणी, सर्वांना आनंद देते!",
+        "hi": "नानी की मोरनी, उसने अंडे दिए!\nअंडों से चूज़े निकले, चूज़े नाचने लगे!\nनानी ने देखा और खुशी से हँसी!\nनानी की मोरनी, सबको खुशी देती है!",
+        "en": "Grandma's peacock laid some eggs one day!\nFrom the eggs came little chicks and they began to dance!\nGrandma watched them and laughed with delight!\nGrandma's peacock brings joy to everyone!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nani_teri_morni.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/nani_teri_morni.mp3"
+    },
+    {
+      "id": "machhli_jal_ki_rani",
+      "translations": { "mr": "माशी पाण्याची राणी", "hi": "मछली जल की रानी है", "en": "Fish is the Queen of Water" },
+      "detail": {
+        "mr": "माशी पाण्याची राणी आहे, जीवन तिचे पाणी आहे!\nहाताने पकडले तर, पटकन निसटून जाते!\nपाण्यात पोहते माशी, आनंदाने खेळते!\nमाशी पाण्याची राणी, सर्वांना शिकवते!",
+        "hi": "मछली जल की रानी है, जीवन उसका पानी है!\nहाथ लगाओ तो, झट से दूर भाग जाती है!\nपानी में तैरती मछली, खुशी से खेलती है!\nमछली जल की रानी, सबको सिखाती है!",
+        "en": "Fish is the queen of water, water is her life!\nIf you touch her with your hand she swims away so fast!\nFish swims happily in the water all day long!\nFish the queen of water teaches us to be free!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/machhli_jal_ki_rani.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/machhli_jal_ki_rani.mp3"
+    },
+    {
+      "id": "chanda_mama_door_ke",
+      "translations": { "mr": "चंदा मामा दूर के", "hi": "चंदा मामा दूर के", "en": "Moon Uncle Far Away" },
+      "detail": {
+        "mr": "चंदा मामा दूर के, पुए पकाए गूर के!\nआप खाए थाळीत, मुलाला दिले परातीत!\nचंदा मामा दूर के, रात्री झोपवतात!\nतारे मोजत मोजत, बाळ झोपून जाते!",
+        "hi": "चंदा मामा दूर के, पूए पकाए गुड़ के!\nआप खाया थाली में, बच्चे को दिया परात में!\nचंदा मामा दूर के, रात को सुलाते हैं!\nतारे गिनते-गिनते, बच्चा सो जाता है!",
+        "en": "Moon uncle far away, cooking sweet pancakes!\nYou eat from a plate, you give the child a bowl!\nMoon uncle far away, you help babies sleep at night!\nCounting stars one by one, baby drifts off to sleep!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama_door_ke.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/chanda_mama_door_ke.mp3"
+    },
+    {
+      "id": "ek_do_teen",
+      "translations": { "mr": "एक दोन तीन", "hi": "एक दो तीन", "en": "One Two Three" },
+      "detail": {
+        "mr": "एक दोन तीन चार पाच, सहा सात आठ नऊ दहा!\nआंगठा दाखव, बोटे दाखव, हाताने मोजूया!\nएक दोन तीन चार पाच, मजेत मोजूया सर्व!",
+        "hi": "एक दो तीन चार पाँच, छह सात आठ नौ दस!\nअँगूठा दिखाओ, उँगली दिखाओ, हाथों से गिनो!\nएक दो तीन चार पाँच, मज़े से गिनो सब!",
+        "en": "One two three four five, six seven eight nine ten!\nShow your thumb, show your fingers, count them with your hands!\nOne two three four five, let us count with lots of fun!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ek_do_teen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/ek_do_teen.mp3"
+    },
+    {
+      "id": "hathi_raja",
+      "translations": { "mr": "हत्ती राजा कुठे चाललात", "hi": "हाथी राजा कहाँ चले", "en": "Where Are You Going Elephant King" },
+      "detail": {
+        "mr": "हत्ती राजा कुठे चाललात, सोंड हलवत चाललात!\nजंगलात जातो मी, फुले तोडायला!\nसोंड वाकवून पाणी पितो, मुलांना आनंद देतो!\nहत्ती राजा मोठे आहे, सर्वांचा लाडका आहे!",
+        "hi": "हाथी राजा कहाँ चले, सूँड हिलाते चले!\nजंगल में जा रहा हूँ, फूल तोड़ने को!\nसूँड झुकाकर पानी पीता, बच्चों को खुश करता!\nहाथी राजा बड़ा है, सबका प्यारा है!",
+        "en": "Where are you going elephant king, swinging your long trunk!\nI am going to the jungle to pick some flowers!\nI drink water with my trunk and make children happy!\nElephant king is so big and loved by everyone!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hathi_raja.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/hathi_raja.mp3"
+    },
+    {
+      "id": "pooja_tulsi",
+      "translations": { "mr": "तुळशीची पूजा", "hi": "तुलसी की पूजा", "en": "Tulsi Worship Song" },
+      "detail": {
+        "mr": "तुळशी माये तुळशी माये, तुला वाहतो फुले!\nआरोग्य दे आशीर्वाद दे, घर भरू दे आनंदे!\nसंध्याकाळी दिवा लावतो, तुझ्यापुढे नमस्कार!\nतुळशी माये तुळशी माये, पावन करशील आम्हाला!",
+        "hi": "तुलसी माँ तुलसी माँ, तुम्हें चढ़ाते हैं फूल!\nस्वास्थ्य दो आशीर्वाद दो, घर भर दो खुशी से!\nशाम को दीप जलाते हैं, तुम्हारे आगे नमस्कार!\nतुलसी माँ तुलसी माँ, हमें पवित्र करती हो!",
+        "en": "Holy Tulsi oh Tulsi, we offer you flowers!\nBless us with good health, fill our home with joy!\nWe light a lamp at dusk and bow before you!\nHoly Tulsi oh Tulsi, you keep our family pure!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pooja_tulsi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/pooja_tulsi.mp3"
+    },
+    {
+      "id": "nanachi_goshta",
+      "translations": { "mr": "नानाची गोष्ट", "hi": "नाना की कहानी", "en": "Grandpa's Story Song" },
+      "detail": {
+        "mr": "नाना सांग गोष्ट, नाना सांग गोष्ट!\nसिंहाची गोष्ट, जंगलाची गोष्ट!\nमुले बसली जवळी, नानाने सांगितली!\nनाना सांग गोष्ट, झोपेपर्यंत सांग!",
+        "hi": "नाना सुनाओ कहानी, नाना सुनाओ कहानी!\nशेर की कहानी, जंगल की कहानी!\nबच्चे बैठे पास में, नाना ने सुनाई!\nनाना सुनाओ कहानी, सोने तक सुनाओ!",
+        "en": "Grandpa tell a story, Grandpa tell a story!\nTell us about the lion, tell us about the jungle!\nChildren sit beside you, Grandpa tells his tales!\nGrandpa tell a story, tell it till we fall asleep!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nanachi_goshta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/nanachi_goshta.mp3"
+    },
+    {
+      "id": "balgeet_pavsa",
+      "translations": { "mr": "बालगीत पाऊस", "hi": "बारिश का बालगीत", "en": "Children's Rain Song" },
+      "detail": {
+        "mr": "पाऊस पडतो टप टप टप, माती ओली होती!\nबेडूक उड्या मारतात, मुले खेळतात!\nकागदाची होडी सोडू, पाण्यात ढकलू!\nपाऊस पडतो टप टप टप, आनंद देतो सर्वांना!",
+        "hi": "बारिश गिरती टप टप टप, मिट्टी भीग जाती!\nमेंढक कूदते हैं, बच्चे खेलते हैं!\nकागज़ की नाव बनाएँ, पानी में छोड़ें!\nबारिश गिरती टप टप टप, सबको खुशी देती!",
+        "en": "Rain falls drip drip drip, the soil becomes wet!\nFrogs jump all around, children come out to play!\nLet us make a paper boat and float it in the puddle!\nRain falls drip drip drip, it brings joy to everyone!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balgeet_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/balgeet_pavsa.mp3"
+    },
+    {
+      "id": "majha_babu",
+      "translations": { "mr": "माझा बाबू", "hi": "मेरा बच्चा", "en": "My Little Baby" },
+      "detail": {
+        "mr": "माझा बाबू छोटा बाबू, हसत खेळत असतो!\nआईच्या कुशीत झोपतो, स्वप्नात हसतो!\nचंदा मामा दिसतो त्याला, फुले देतो त्याला!\nमाझा बाबू छोटा बाबू, सर्वांचा लाडका आहे!",
+        "hi": "मेरा बच्चा छोटा बच्चा, हँसता खेलता रहता!\nमाँ की गोद में सोता है, सपनों में हँसता है!\nचंदा मामा दिखता है उसे, फूल देता है उसे!\nमेरा बच्चा छोटा बच्चा, सबका प्यारा है!",
+        "en": "My little baby laughs and plays all day!\nSleeps in mama's arms and smiles in sweet dreams!\nThe moon uncle visits him and brings him flowers!\nMy little baby is loved by everyone!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/majha_babu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/majha_babu.mp3"
+    },
+    {
+      "id": "abc_song",
+      "translations": { "mr": "अ ब क गाणे", "hi": "ए बी सी गाना", "en": "ABC Song" },
+      "detail": {
+        "mr": "A B C D E F G, H I J K L M N O P!\nQ R S, T U V, W X Y and Z!\nआता मला A B C माहीत झाले, तुम्ही माझ्यासोबत म्हणा!",
+        "hi": "A B C D E F G, H I J K L M N O P!\nQ R S, T U V, W X Y and Z!\nअब मुझे A B C आ गई, तुम भी मेरे साथ बोलो!",
+        "en": "A B C D E F G, H I J K L M N O P!\nQ R S, T U V, W X Y and Z!\nNow I know my ABCs, next time won't you sing with me!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/abc_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/abc_song.mp3"
+    },
+    {
+      "id": "butterfly_song",
+      "translations": { "mr": "फुलपाखराचे गाणे", "hi": "तितली का गाना", "en": "Butterfly Song" },
+      "detail": {
+        "mr": "फुलपाखरू उडते उडते, रंगीबेरंगी उडते!\nफुलावर बसते गोड, मध चाखते गोड!\nपंख पसरवते छान, आकाशात जाते!\nफुलपाखरू उडते उडते, सर्वांना आनंद देते!",
+        "hi": "तितली उड़ती है उड़ती है, रंग-बिरंगी उड़ती है!\nफूल पर बैठती प्यारी, मधु चखती प्यारी!\nपंख फैलाती सुंदर, आसमान में जाती!\nतितली उड़ती है उड़ती है, सबको खुशी देती है!",
+        "en": "Butterfly flutters and flies, colourful wings in the sky!\nSitting on a flower so sweet, tasting nectar so sweet!\nSpreading beautiful wings wide, flying up so high!\nButterfly flutters and flies, bringing joy to all!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/butterfly_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/butterfly_song.mp3"
+    },
+    {
+      "id": "shapes_song",
+      "translations": { "mr": "आकारांचे गाणे", "hi": "आकार का गाना", "en": "Shapes Song" },
+      "detail": {
+        "mr": "गोल गोल वर्तुळ आहे, चौकोन चार कोन आहे!\nत्रिकोण तीन कोन आहे, आयत लांब आहे!\nआकार शिकूया आपण, आनंदाने मोजूया!\nगोल गोल वर्तुळ आहे, सुंदर जग दिसते!",
+        "hi": "गोल-गोल वृत्त है, चौकोर के चार कोने हैं!\nतिकोना के तीन कोने हैं, आयत लंबा है!\nआकार सीखें हम, खुशी से गिनें!\nगोल-गोल वृत्त है, सुंदर दुनिया दिखती है!",
+        "en": "Round and round is a circle, square has four equal sides!\nTriangle has three corners, rectangle is long and wide!\nLet us learn our shapes today, counting them with fun!\nRound and round is a circle, the world looks beautiful!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/shapes_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/shapes_song.mp3"
+    },
+    {
+      "id": "colors_song",
+      "translations": { "mr": "रंगांचे गाणे", "hi": "रंगों का गाना", "en": "Colors Song" },
+      "detail": {
+        "mr": "लाल, निळा, हिरवा, पिवळा, किती रंग सुंदर!\nनारंगी, जांभळा, गुलाबी, पांढरा, काळा!\nआकाशात इंद्रधनुष्य, सात रंग घेऊन!\nरंगांचे जग किती सुंदर, आनंदाने गाऊ!",
+        "hi": "लाल, नीला, हरा, पीला, कितने रंग सुंदर!\nनारंगी, बैंगनी, गुलाबी, सफेद, काला!\nआसमान में इंद्रधनुष, सात रंग लेकर!\nरंगों की दुनिया कितनी सुंदर, खुशी से गाएँ!",
+        "en": "Red blue green and yellow, so many beautiful colors!\nOrange purple pink and white and black!\nRainbow in the sky with seven colors bright!\nThe world of colors is so beautiful, let us sing!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/colors_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/colors_song.mp3"
+    },
+    {
+      "id": "baby_shark",
+      "translations": { "mr": "बेबी शार्क", "hi": "बेबी शार्क", "en": "Baby Shark" },
+      "detail": {
+        "mr": "बेबी शार्क डू डू डू, बेबी शार्क!\nआई शार्क डू डू डू, आई शार्क!\nबाबा शार्क डू डू डू, बाबा शार्क!\nआजी शार्क डू डू डू, आजी शार्क!",
+        "hi": "बेबी शार्क डू डू डू, बेबी शार्क!\nमम्मी शार्क डू डू डू, मम्मी शार्क!\nपापा शार्क डू डू डू, पापा शार्क!\nदादी शार्क डू डू डू, दादी शार्क!",
+        "en": "Baby shark doo doo doo, baby shark!\nMommy shark doo doo doo, mommy shark!\nDaddy shark doo doo doo, daddy shark!\nGrandma shark doo doo doo, grandma shark!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baby_shark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/baby_shark.mp3"
+    },
+    {
+      "id": "five_little_monkeys",
+      "translations": { "mr": "पाच छोटी माकडे", "hi": "पाँच छोटे बंदर", "en": "Five Little Monkeys" },
+      "detail": {
+        "mr": "पाच छोटी माकडे झाडावर उड्या मारत होती!\nएक पडले डोक्यावर, आईने डॉक्टरला बोलावले!\nडॉक्टर म्हणाले — झाडावर उड्या मारू नका!\nचार राहिली, मग तीन, दोन, एक!",
+        "hi": "पाँच छोटे बंदर पेड़ पर कूद रहे थे!\nएक गिरा सिर पर, माँ ने डॉक्टर को बुलाया!\nडॉक्टर बोले — पेड़ पर कूदो मत!\nचार रहे, फिर तीन, दो, एक!",
+        "en": "Five little monkeys jumping on the tree!\nOne fell down and bumped his head!\nMama called the doctor and the doctor said,\nNo more monkeys jumping on the tree!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_monkeys.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/five_little_monkeys.mp3"
+    },
+    {
+      "id": "hickory_dickory",
+      "translations": { "mr": "हिकरी डिकरी डॉक", "hi": "हिकरी डिकरी डॉक", "en": "Hickory Dickory Dock" },
+      "detail": {
+        "mr": "हिकरी डिकरी डॉक, उंदीर घड्याळावर चढला!\nघड्याळाने एक वाजवले, उंदीर खाली पळाला!\nहिकरी डिकरी डॉक!",
+        "hi": "हिकरी डिकरी डॉक, चूहा घड़ी पर चढ़ गया!\nघड़ी ने एक बजाया, चूहा नीचे भाग गया!\nहिकरी डिकरी डॉक!",
+        "en": "Hickory dickory dock, the mouse ran up the clock!\nThe clock struck one, the mouse ran down!\nHickory dickory dock!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hickory_dickory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/hickory_dickory.mp3"
+    },
+    {
+      "id": "london_bridge",
+      "translations": { "mr": "लंडन पूल पडे", "hi": "लंदन का पुल टूटा", "en": "London Bridge is Falling Down" },
+      "detail": {
+        "mr": "लंडनचा पूल पडतो, पडतो, पडतो!\nलंडनचा पूल पडतो, माझ्या सुंदर बाळी!\nत्याला बांधा सोन्याने, सोन्याने, सोन्याने!\nत्याला बांधा सोन्याने, माझ्या सुंदर बाळी!",
+        "hi": "लंदन का पुल टूट रहा है, टूट रहा है, टूट रहा है!\nलंदन का पुल टूट रहा है, मेरी प्यारी गुड़िया!\nइसे बनाओ सोने से, सोने से, सोने से!\nइसे बनाओ सोने से, मेरी प्यारी गुड़िया!",
+        "en": "London Bridge is falling down, falling down, falling down!\nLondon Bridge is falling down, my fair lady!\nBuild it up with gold and silver, gold and silver!\nBuild it up with gold and silver, my fair lady!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/london_bridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/london_bridge.mp3"
+    },
+    {
+      "id": "pat_a_cake",
+      "translations": { "mr": "पॅट ए केक", "hi": "पैट ए केक", "en": "Pat a Cake" },
+      "detail": {
+        "mr": "पॅट ए केक, पॅट ए केक, बेकरमन!\nमला एक केक बनव जितक्या लवकर होईल!\nत्याला थापट आणि त्याला टोच,\nत्यावर B लिही आणि ते ओव्हनमध्ये टाक!",
+        "hi": "पैट ए केक, पैट ए केक, बेकरमैन!\nमेरे लिए जल्दी से एक केक बनाओ!\nउसे थपथपाओ और उसे चुभाओ,\nउस पर B लिखो और ओवन में डालो!",
+        "en": "Pat a cake pat a cake baker's man!\nBake me a cake as fast as you can!\nPat it and prick it and mark it with B,\nAnd put it in the oven for baby and me!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pat_a_cake.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/pat_a_cake.mp3"
+    },
+    {
+      "id": "little_miss_muffet",
+      "translations": { "mr": "छोटी मिस मफेट", "hi": "छोटी मिस मफेट", "en": "Little Miss Muffet" },
+      "detail": {
+        "mr": "छोटी मिस मफेट टेकूवर बसली, दह्यभात खात होती!\nएक मोठी कोळी आली आणि तिच्याजवळ बसली!\nती घाबरली आणि पळून गेली!",
+        "hi": "छोटी मिस मफेट टीले पर बैठी, दही खा रही थी!\nएक बड़ी मकड़ी आई और उसके पास बैठ गई!\nवह डर गई और भाग गई!",
+        "en": "Little Miss Muffet sat on a tuffet eating her curds and whey!\nThere came a big spider who sat down beside her,\nAnd frightened Miss Muffet away!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/little_miss_muffet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/little_miss_muffet.mp3"
+    },
+    {
+      "id": "jack_be_nimble",
+      "translations": { "mr": "जॅक चपळ आहे", "hi": "जैक चुस्त है", "en": "Jack Be Nimble" },
+      "detail": {
+        "mr": "जॅक चपळ आहे, जॅक वेगवान आहे!\nजॅक मेणबत्तीवरून उडी मारतो!",
+        "hi": "जैक चुस्त है, जैक तेज़ है!\nजैक मोमबत्ती के ऊपर से कूदता है!",
+        "en": "Jack be nimble, Jack be quick!\nJack jump over the candlestick!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_be_nimble.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/jack_be_nimble.mp3"
+    },
+    {
+      "id": "star_light",
+      "translations": { "mr": "तारा तारा चमक माझा", "hi": "तारे की रोशनी", "en": "Star Light Star Bright" },
+      "detail": {
+        "mr": "तारा तारा चमक, पहिला तारा रात्री!\nमला इच्छा करायची आहे, इच्छा करायची आहे रात्री!\nदेवा माझी इच्छा पूर्ण कर, आज रात्री!",
+        "hi": "तारे की रोशनी, रात का पहला तारा!\nमुझे इच्छा करनी है, इच्छा करनी है रात को!\nभगवान मेरी इच्छा पूरी करो, आज रात!",
+        "en": "Star light star bright, first star I see tonight!\nWish I may wish I might, have the wish I wish tonight!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/star_light.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/star_light.mp3"
+    },
+    {
+      "id": "ting_ting_ghanta",
+      "translations": { "mr": "टिंग टिंग घंटा वाजे", "hi": "टिंग टिंग घंटी बजी", "en": "Ting Ting the Bell Rings" },
+      "detail": {
+        "mr": "टिंग टिंग घंटा वाजे, शाळेची वेळ झाली!\nदप्तर घेऊन चल रे, आई वाट पाहते!\nटिंग टिंग घंटा वाजे, मित्र बोलावतात!\nशाळेत जाऊ आपण, खूप काही शिकूया!",
+        "hi": "टिंग टिंग घंटी बजी, स्कूल का वक्त हुआ!\nबस्ता लेकर चलो, माँ राह देख रही!\nटिंग टिंग घंटी बजी, दोस्त बुला रहे!\nस्कूल चलें हम सब, बहुत कुछ सीखेंगे!",
+        "en": "Ting ting the bell rings, it is time for school!\nPick up your bag and go, mama is waiting!\nTing ting the bell rings, your friends are calling!\nLet us go to school today and learn so many things!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ting_ting_ghanta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/ting_ting_ghanta.mp3"
+    },
+    {
+      "id": "aai_gaan",
+      "translations": { "mr": "आईचे गाणे", "hi": "माँ का गाना", "en": "Mommy's Lullaby" },
+      "detail": {
+        "mr": "झोप रे बाळा झोप रे बाळा, आईच्या कुशीत झोप!\nचंदा मामा येईल, गोड स्वप्न आणेल!\nझोप रे बाळा झोप रे बाळा, थकलेले डोळे मीट!\nआईचे प्रेम अनंत आहे, सदा तुझ्यासोबत!",
+        "hi": "सो जा बच्चा सो जा, माँ की गोद में सो!\nचंदा मामा आएगा, मीठे सपने लाएगा!\nसो जा बच्चा सो जा, थकी आँखें मूँद ले!\nमाँ का प्यार अनंत है, सदा तेरे साथ है!",
+        "en": "Sleep my baby sleep my baby, sleep in mama's arms!\nMoon uncle will come and bring sweet dreams to you!\nSleep my baby sleep my baby, close your tired eyes!\nMama's love is endless and forever by your side!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aai_gaan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/aai_gaan.mp3"
+    },
+    {
+      "id": "jhopdi_jhopdi",
+      "translations": { "mr": "झोपडी झोपडी झोपडी", "hi": "झोंपड़ी झोंपड़ी", "en": "Little Hut Song" },
+      "detail": {
+        "mr": "झोपडी झोपडी छोटी झोपडी, शेतात उभी आहे!\nशेतकरी राहतो आत, मेहनत करतो सदा!\nपाऊस वारा सहन करे, धान्य पिकवते!\nझोपडी झोपडी छोटी झोपडी, आनंदाचे घर आहे!",
+        "hi": "झोंपड़ी झोंपड़ी छोटी झोंपड़ी, खेत में खड़ी है!\nकिसान रहता है अंदर, मेहनत करता सदा!\nबारिश हवा सहती है, अनाज उगाती है!\nझोंपड़ी झोंपड़ी छोटी झोंपड़ी, खुशी का घर है!",
+        "en": "Little hut little hut standing in the farm!\nA farmer lives inside and works so hard each day!\nThe hut faces rain and wind to grow the grain!\nLittle hut little hut you are a home of joy!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jhopdi_jhopdi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/jhopdi_jhopdi.mp3"
+    },
+    {
+      "id": "rang_birangi_duniya",
+      "translations": { "mr": "रंगीबेरंगी जग", "hi": "रंग बिरंगी दुनिया", "en": "Colorful World" },
+      "detail": {
+        "mr": "रंगीबेरंगी जग हे आहे, किती सुंदर हे आहे!\nलाल फुले, निळे आकाश, हिरवे शेत!\nपिवळी सूर्यकिरणे, नारंगी सूर्यास्त!\nरंगीबेरंगी जग हे, आनंदाने जगूया!",
+        "hi": "रंग-बिरंगी दुनिया है यह, कितनी सुंदर है!\nलाल फूल, नीला आसमान, हरे खेत!\nपीली धूप, नारंगी सूर्यास्त!\nरंग-बिरंगी दुनिया, खुशी से जीएँ!",
+        "en": "This world is so colorful, how beautiful it is!\nRed flowers blue sky and fields of green!\nYellow sunshine orange sunset every day!\nThis colorful world — let us live joyfully!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rang_birangi_duniya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/rang_birangi_duniya.mp3"
+    },
+    {
+      "id": "sunny_day",
+      "translations": { "mr": "सुंदर उन्हाचा दिवस", "hi": "धूप का सुंदर दिन", "en": "What a Sunny Day" },
+      "detail": {
+        "mr": "सूर्य उगवला, सोनेरी किरणे आली!\nपक्षी गाणे गातात, फुले उमलतात!\nमुले बाहेर खेळतात, आनंदाने धावतात!\nसुंदर उन्हाचा दिवस, सर्वांना हवा हवा!",
+        "hi": "सूरज निकला, सुनहरी किरणें आईं!\nपंछी गाना गाते हैं, फूल खिलते हैं!\nबच्चे बाहर खेलते हैं, खुशी से दौड़ते हैं!\nधूप का सुंदर दिन, सबको पसंद है!",
+        "en": "The sun has risen, golden rays are here!\nBirds are singing, flowers are blooming!\nChildren play outside and run with joy!\nWhat a beautiful sunny day, everyone loves it!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sunny_day.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/sunny_day.mp3"
+    },
+    {
+      "id": "clean_up",
+      "translations": { "mr": "आवरूया घर", "hi": "साफ करो घर", "en": "Clean Up Song" },
+      "detail": {
+        "mr": "आवरूया आवरूया, खेळणी आवरूया!\nसगळ्या गोष्टी जागेवर ठेवूया!\nस्वच्छ घर, आनंदी मन!\nआवरूया आवरूया, मिळून सर्व करूया!",
+        "hi": "साफ करो साफ करो, खिलौने रखो जगह!\nसब चीज़ें अपनी जगह रखो!\nसाफ घर, खुश मन!\nसाफ करो साफ करो, मिलकर सब करो!",
+        "en": "Clean up clean up, put your toys away!\nPut everything back in its place!\nClean home happy mind!\nClean up clean up, let us do it together!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/clean_up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/clean_up.mp3"
+    },
+    {
+      "id": "sleeping_song",
+      "translations": { "mr": "झोपाळ्याचे गाणे", "hi": "सोने का गाना", "en": "Bedtime Lullaby" },
+      "detail": {
+        "mr": "झोपाळ्यावर हळूच झूल, आईचे गाणे ऐक!\nतारे मोजत मोजत, डोळे मिटतात हळूच!\nस्वप्नात जा रे बाळा, सुंदर जग पाहायला!\nझोपाळ्यावर हळूच झूल, शांत झोप ये रे!",
+        "hi": "झूले पर धीरे झूलो, माँ का गाना सुनो!\nतारे गिनते-गिनते, आँखें धीरे मुँदती हैं!\nसपनों में जाओ बच्चा, सुंदर दुनिया देखने!\nझूले पर धीरे झूलो, शांत नींद आए!",
+        "en": "Gently swing on the cradle, listen to mama's song!\nCounting stars one by one, your eyes slowly close!\nGo into your dreams my child, see the beautiful world!\nGently swing on the cradle, let peaceful sleep come!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sleeping_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/sleeping_song.mp3"
+    },
+    {
+      "id": "number_song",
+      "translations": { "mr": "आकड्यांचे गाणे", "hi": "नंबर का गाना", "en": "Number Song" },
+      "detail": {
+        "mr": "एक म्हणजे एक हत्ती, दोन म्हणजे दोन हंस!\nतीन म्हणजे तीन बेडूक, चार म्हणजे चार वाघ!\nपाच म्हणजे पाच मासे, सहा म्हणजे सहा फुले!\nआकडे शिकूया गाण्यात, मजा येते खूप!",
+        "hi": "एक यानी एक हाथी, दो यानी दो हंस!\nतीन यानी तीन मेंढक, चार यानी चार बाघ!\nपाँच यानी पाँच मछलियाँ, छह यानी छह फूल!\nगाने में नंबर सीखें, बहुत मज़ा आता है!",
+        "en": "One means one elephant, two means two swans!\nThree means three frogs, four means four tigers!\nFive means five fish, six means six flowers!\nLet us learn our numbers in a song, it is so much fun!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/number_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/number_song.mp3"
+    },
+    {
+      "id": "animals_song",
+      "translations": { "mr": "प्राण्यांचे गाणे", "hi": "जानवरों का गाना", "en": "Animals Song" },
+      "detail": {
+        "mr": "सिंह म्हणतो डरर डरर, कुत्रा म्हणतो भौ भौ!\nमांजर म्हणते म्याव म्याव, गाय म्हणते हंबा हंबा!\nघोडा म्हणतो खिं खिं, बेडूक म्हणतो डराव!\nप्राण्यांचे आवाज ऐका, किती गंमत आहे!",
+        "hi": "शेर बोलता दहाड़ दहाड़, कुत्ता बोलता भौं भौं!\nबिल्ली बोलती म्याऊँ म्याऊँ, गाय बोलती अँबाँ!\nघोड़ा बोलता हिनहिना, मेंढक बोलता टर्र!\nजानवरों की आवाज़ सुनो, कितना मज़ा है!",
+        "en": "The lion roars a big roar, the dog says bow wow!\nThe cat says meow meow, the cow says moo moo!\nThe horse says neigh neigh, the frog says croak!\nListen to the animals, how much fun they are!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/animals_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/animals_song.mp3"
+    },
+    {
+      "id": "fruits_song",
+      "translations": { "mr": "फळांचे गाणे", "hi": "फलों का गाना", "en": "Fruits Song" },
+      "detail": {
+        "mr": "आंबा, केळे, सफरचंद, संत्री खाऊ!\nद्राक्षे, पपई, डाळिंब, चिकू खाऊ!\nफळे खाल्ल्याने आरोग्य मिळते!\nफळांचे गाणे गाऊ, आनंदाने खाऊ!",
+        "hi": "आम, केला, सेब, संतरा खाएँ!\nअंगूर, पपीता, अनार, चीकू खाएँ!\nफल खाने से सेहत मिलती है!\nफलों का गाना गाएँ, खुशी से खाएँ!",
+        "en": "Mango banana apple and orange let us eat!\nGrapes papaya pomegranate and sapodilla too!\nEating fruits keeps us healthy and strong!\nSing the fruits song and eat them with joy!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/fruits_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/fruits_song.mp3"
+    },
+    {
+      "id": "balpan",
+      "translations": { "mr": "बालपण माझे", "hi": "बचपन मेरा", "en": "My Childhood" },
+      "detail": {
+        "mr": "बालपण माझे सुंदर आहे, खेळणे, हसणे, शिकणे!\nआई-बाबांच्या प्रेमात, मित्रांच्या सोबतीत!\nशाळेत जाऊ, खूप शिकू, मोठे होऊ!\nबालपण माझे सुंदर आहे, जपून ठेवतो मी!",
+        "hi": "बचपन मेरा सुंदर है, खेलना, हँसना, सीखना!\nमाँ-बाबा के प्यार में, दोस्तों के साथ में!\nस्कूल जाएँ, खूब पढ़ें, बड़े बनें!\nबचपन मेरा सुंदर है, संजो कर रखता हूँ!",
+        "en": "My childhood is so beautiful, playing laughing learning!\nIn the love of mom and dad, together with my friends!\nGo to school learn so much and grow up big!\nMy childhood is so beautiful, I will treasure it forever!"
+      },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balpan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/baby_songs/balpan.mp3"
+    }
+  ]
+}

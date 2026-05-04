@@ -1,0 +1,155 @@
+{
+  "category": "body_parts",
+  "items": [
+    {
+      "id": "head",
+      "translations": { "mr": "डोके", "hi": "सिर", "en": "Head" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/head.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/head.mp3"
+    },
+    {
+      "id": "hair",
+      "translations": { "mr": "केस", "hi": "बाल", "en": "Hair" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hair.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/hair.mp3"
+    },
+    {
+      "id": "eye",
+      "translations": { "mr": "डोळा", "hi": "आँख", "en": "Eye" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/eye.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/eye.mp3"
+    },
+    {
+      "id": "ear",
+      "translations": { "mr": "कान", "hi": "कान", "en": "Ear" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/ear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/ear.mp3"
+    },
+    {
+      "id": "nose",
+      "translations": { "mr": "नाक", "hi": "नाक", "en": "Nose" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/nose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/nose.mp3"
+    },
+    {
+      "id": "mouth",
+      "translations": { "mr": "तोंड", "hi": "मुँह", "en": "Mouth" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/mouth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/mouth.mp3"
+    },
+    {
+      "id": "teeth",
+      "translations": { "mr": "दात", "hi": "दाँत", "en": "Teeth" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/teeth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/teeth.mp3"
+    },
+    {
+      "id": "tongue",
+      "translations": { "mr": "जीभ", "hi": "जीभ", "en": "Tongue" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/tongue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/tongue.mp3"
+    },
+    {
+      "id": "neck",
+      "translations": { "mr": "मान", "hi": "गर्दन", "en": "Neck" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/neck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/neck.mp3"
+    },
+    {
+      "id": "shoulder",
+      "translations": { "mr": "खांदा", "hi": "कंधा", "en": "Shoulder" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/shoulder.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/shoulder.mp3"
+    },
+    {
+      "id": "arm",
+      "translations": { "mr": "हात", "hi": "बाँह", "en": "Arm" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/arm.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/arm.mp3"
+    },
+    {
+      "id": "elbow",
+      "translations": { "mr": "कोपर", "hi": "कोहनी", "en": "Elbow" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/elbow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/elbow.mp3"
+    },
+    {
+      "id": "wrist",
+      "translations": { "mr": "मनगट", "hi": "कलाई", "en": "Wrist" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/wrist.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/wrist.mp3"
+    },
+    {
+      "id": "hand",
+      "translations": { "mr": "तळहात", "hi": "हाथ", "en": "Hand" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hand.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/hand.mp3"
+    },
+    {
+      "id": "finger",
+      "translations": { "mr": "बोट", "hi": "उँगली", "en": "Finger" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/finger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/finger.mp3"
+    },
+    {
+      "id": "chest",
+      "translations": { "mr": "छाती", "hi": "छाती", "en": "Chest" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/chest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/chest.mp3"
+    },
+    {
+      "id": "stomach",
+      "translations": { "mr": "पोट", "hi": "पेट", "en": "Stomach" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/stomach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/stomach.mp3"
+    },
+    {
+      "id": "back",
+      "translations": { "mr": "पाठ", "hi": "पीठ", "en": "Back" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/back.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/back.mp3"
+    },
+    {
+      "id": "hip",
+      "translations": { "mr": "नितंब", "hi": "कूल्हा", "en": "Hip" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/hip.mp3"
+    },
+    {
+      "id": "leg",
+      "translations": { "mr": "पाय", "hi": "पैर", "en": "Leg" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/leg.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/leg.mp3"
+    },
+    {
+      "id": "knee",
+      "translations": { "mr": "गुडघा", "hi": "घुटना", "en": "Knee" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/knee.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/knee.mp3"
+    },
+    {
+      "id": "ankle",
+      "translations": { "mr": "घोटा", "hi": "टखना", "en": "Ankle" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/ankle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/ankle.mp3"
+    },
+    {
+      "id": "foot",
+      "translations": { "mr": "पाऊल", "hi": "पाँव", "en": "Foot" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/foot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/foot.mp3"
+    },
+    {
+      "id": "toe",
+      "translations": { "mr": "पायाचे बोट", "hi": "पैर की उँगली", "en": "Toe" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/toe.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/toe.mp3"
+    },
+    {
+      "id": "thumb",
+      "translations": { "mr": "अंगठा", "hi": "अंगूठा", "en": "Thumb" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/thumb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/body_parts/thumb.mp3"
+    }
+  ]
+}

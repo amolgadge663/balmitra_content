@@ -1,0 +1,155 @@
+{
+  "category": "sports",
+  "items": [
+    {
+      "id": "cricket",
+      "translations": { "mr": "क्रिकेट", "hi": "क्रिकेट", "en": "Cricket" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cricket.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/cricket.mp3"
+    },
+    {
+      "id": "football",
+      "translations": { "mr": "फुटबॉल", "hi": "फुटबॉल", "en": "Football" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/football.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/football.mp3"
+    },
+    {
+      "id": "basketball",
+      "translations": { "mr": "बास्केटबॉल", "hi": "बास्केटबॉल", "en": "Basketball" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/basketball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/basketball.mp3"
+    },
+    {
+      "id": "volleyball",
+      "translations": { "mr": "व्हॉलीबॉल", "hi": "वॉलीबॉल", "en": "Volleyball" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/volleyball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/volleyball.mp3"
+    },
+    {
+      "id": "badminton",
+      "translations": { "mr": "बॅडमिंटन", "hi": "बैडमिंटन", "en": "Badminton" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/badminton.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/badminton.mp3"
+    },
+    {
+      "id": "tennis",
+      "translations": { "mr": "टेनिस", "hi": "टेनिस", "en": "Tennis" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/tennis.mp3"
+    },
+    {
+      "id": "hockey",
+      "translations": { "mr": "हॉकी", "hi": "हॉकी", "en": "Hockey" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/hockey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/hockey.mp3"
+    },
+    {
+      "id": "swimming",
+      "translations": { "mr": "पोहणे", "hi": "तैराकी", "en": "Swimming" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/swimming.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/swimming.mp3"
+    },
+    {
+      "id": "running",
+      "translations": { "mr": "धावणे", "hi": "दौड़ना", "en": "Running" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/running.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/running.mp3"
+    },
+    {
+      "id": "cycling",
+      "translations": { "mr": "सायकलिंग", "hi": "साइकिलिंग", "en": "Cycling" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cycling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/cycling.mp3"
+    },
+    {
+      "id": "boxing",
+      "translations": { "mr": "बॉक्सिंग", "hi": "मुक्केबाज़ी", "en": "Boxing" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/boxing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/boxing.mp3"
+    },
+    {
+      "id": "wrestling",
+      "translations": { "mr": "कुस्ती", "hi": "कुश्ती", "en": "Wrestling" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/wrestling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/wrestling.mp3"
+    },
+    {
+      "id": "kabaddi",
+      "translations": { "mr": "कबड्डी", "hi": "कबड्डी", "en": "Kabaddi" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kabaddi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/kabaddi.mp3"
+    },
+    {
+      "id": "kho_kho",
+      "translations": { "mr": "खो-खो", "hi": "खो-खो", "en": "Kho Kho" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kho_kho.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/kho_kho.mp3"
+    },
+    {
+      "id": "chess",
+      "translations": { "mr": "बुद्धिबळ", "hi": "शतरंज", "en": "Chess" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/chess.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/chess.mp3"
+    },
+    {
+      "id": "carrom",
+      "translations": { "mr": "कॅरम", "hi": "कैरम", "en": "Carrom" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/carrom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/carrom.mp3"
+    },
+    {
+      "id": "table_tennis",
+      "translations": { "mr": "टेबल टेनिस", "hi": "टेबल टेनिस", "en": "Table Tennis" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/table_tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/table_tennis.mp3"
+    },
+    {
+      "id": "archery",
+      "translations": { "mr": "तिरंदाजी", "hi": "तीरंदाज़ी", "en": "Archery" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/archery.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/archery.mp3"
+    },
+    {
+      "id": "gymnastics",
+      "translations": { "mr": "जिम्नॅस्टिक्स", "hi": "जिम्नास्टिक्स", "en": "Gymnastics" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/gymnastics.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/gymnastics.mp3"
+    },
+    {
+      "id": "skating",
+      "translations": { "mr": "स्केटिंग", "hi": "स्केटिंग", "en": "Skating" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/skating.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/skating.mp3"
+    },
+    {
+      "id": "horse_riding",
+      "translations": { "mr": "घोडेस्वारी", "hi": "घुड़सवारी", "en": "Horse Riding" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/horse_riding.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/horse_riding.mp3"
+    },
+    {
+      "id": "polo",
+      "translations": { "mr": "पोलो", "hi": "पोलो", "en": "Polo" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/polo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/polo.mp3"
+    },
+    {
+      "id": "golf",
+      "translations": { "mr": "गोल्फ", "hi": "गोल्फ", "en": "Golf" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/golf.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/golf.mp3"
+    },
+    {
+      "id": "baseball",
+      "translations": { "mr": "बेसबॉल", "hi": "बेसबॉल", "en": "Baseball" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/baseball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/baseball.mp3"
+    },
+    {
+      "id": "rugby",
+      "translations": { "mr": "रग्बी", "hi": "रग्बी", "en": "Rugby" },
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/rugby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/sports/rugby.mp3"
+    }
+  ]
+}
