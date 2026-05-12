@@ -1,0 +1,294 @@
+{
+  "category": "alphabets",
+  "language": "english",
+  "items": [
+    {
+      "id": "a",
+      "name": "A",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/a.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/a.mp3"
+    },
+    {
+      "id": "aa",
+      "name": "Aa",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/aa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/aa.mp3"
+    },
+    {
+      "id": "i",
+      "name": "I",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/i.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/i.mp3"
+    },
+    {
+      "id": "ii",
+      "name": "Ii",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ii.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ii.mp3"
+    },
+    {
+      "id": "u",
+      "name": "U",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/u.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/u.mp3"
+    },
+    {
+      "id": "uu",
+      "name": "Uu",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/uu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/uu.mp3"
+    },
+    {
+      "id": "e",
+      "name": "E",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/e.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/e.mp3"
+    },
+    {
+      "id": "ai",
+      "name": "Ai",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ai.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ai.mp3"
+    },
+    {
+      "id": "o",
+      "name": "O",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/o.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/o.mp3"
+    },
+    {
+      "id": "au",
+      "name": "Au",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/au.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/au.mp3"
+    },
+    {
+      "id": "am",
+      "name": "Am",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/am.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/am.mp3"
+    },
+    {
+      "id": "ah",
+      "name": "Ah",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ah.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ah.mp3"
+    },
+    {
+      "id": "ka",
+      "name": "Ka",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ka.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ka.mp3"
+    },
+    {
+      "id": "kha",
+      "name": "Kha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/kha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/kha.mp3"
+    },
+    {
+      "id": "ga",
+      "name": "Ga",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ga.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ga.mp3"
+    },
+    {
+      "id": "gha",
+      "name": "Gha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/gha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/gha.mp3"
+    },
+    {
+      "id": "nga",
+      "name": "Nga",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/nga.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/nga.mp3"
+    },
+    {
+      "id": "cha",
+      "name": "Cha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/cha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/cha.mp3"
+    },
+    {
+      "id": "chha",
+      "name": "Chha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/chha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/chha.mp3"
+    },
+    {
+      "id": "ja",
+      "name": "Ja",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ja.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ja.mp3"
+    },
+    {
+      "id": "jha",
+      "name": "Jha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/jha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/jha.mp3"
+    },
+    {
+      "id": "nya",
+      "name": "Nya",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/nya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/nya.mp3"
+    },
+    {
+      "id": "ta",
+      "name": "Ta",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ta.mp3"
+    },
+    {
+      "id": "tha",
+      "name": "Tha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/tha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/tha.mp3"
+    },
+    {
+      "id": "da",
+      "name": "Da",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/da.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/da.mp3"
+    },
+    {
+      "id": "dha",
+      "name": "Dha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/dha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/dha.mp3"
+    },
+    {
+      "id": "na2",
+      "name": "Na (retroflex)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/na2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/na2.mp3"
+    },
+    {
+      "id": "ta2",
+      "name": "Ta (dental)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ta2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ta2.mp3"
+    },
+    {
+      "id": "tha2",
+      "name": "Tha (dental)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/tha2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/tha2.mp3"
+    },
+    {
+      "id": "da2",
+      "name": "Da (dental)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/da2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/da2.mp3"
+    },
+    {
+      "id": "dha2",
+      "name": "Dha (dental)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/dha2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/dha2.mp3"
+    },
+    {
+      "id": "na",
+      "name": "Na",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/na.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/na.mp3"
+    },
+    {
+      "id": "pa",
+      "name": "Pa",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/pa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/pa.mp3"
+    },
+    {
+      "id": "pha",
+      "name": "Pha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/pha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/pha.mp3"
+    },
+    {
+      "id": "ba",
+      "name": "Ba",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ba.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ba.mp3"
+    },
+    {
+      "id": "bha",
+      "name": "Bha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/bha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/bha.mp3"
+    },
+    {
+      "id": "ma",
+      "name": "Ma",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ma.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ma.mp3"
+    },
+    {
+      "id": "ya",
+      "name": "Ya",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ya.mp3"
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ra.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ra.mp3"
+    },
+    {
+      "id": "la",
+      "name": "La",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/la.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/la.mp3"
+    },
+    {
+      "id": "va",
+      "name": "Va",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/va.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/va.mp3"
+    },
+    {
+      "id": "sha",
+      "name": "Sha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/sha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/sha.mp3"
+    },
+    {
+      "id": "sha2",
+      "name": "Sha (retroflex)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/sha2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/sha2.mp3"
+    },
+    {
+      "id": "sa",
+      "name": "Sa",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/sa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/sa.mp3"
+    },
+    {
+      "id": "ha",
+      "name": "Ha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ha.mp3"
+    },
+    {
+      "id": "la2",
+      "name": "La (Marathi)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/la2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/la2.mp3"
+    },
+    {
+      "id": "ksha",
+      "name": "Ksha",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/ksha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/ksha.mp3"
+    },
+    {
+      "id": "dnya",
+      "name": "Dnya",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/alphabets/dnya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/alphabets/dnya.mp3"
+    }
+  ]
+}

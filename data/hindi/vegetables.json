@@ -1,0 +1,300 @@
+{
+  "category": "vegetables",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "potato",
+      "name": "आलू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/potato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/potato.mp3"
+    },
+    {
+      "id": "onion",
+      "name": "प्याज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/onion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/onion.mp3"
+    },
+    {
+      "id": "tomato",
+      "name": "टमाटर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/tomato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/tomato.mp3"
+    },
+    {
+      "id": "brinjal",
+      "name": "बैंगन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/brinjal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/brinjal.mp3"
+    },
+    {
+      "id": "cabbage",
+      "name": "पत्ता गोभी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cabbage.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/cabbage.mp3"
+    },
+    {
+      "id": "cauliflower",
+      "name": "फूलगोभी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cauliflower.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/cauliflower.mp3"
+    },
+    {
+      "id": "carrot",
+      "name": "गाजर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/carrot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/carrot.mp3"
+    },
+    {
+      "id": "radish",
+      "name": "मूली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/radish.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/radish.mp3"
+    },
+    {
+      "id": "spinach",
+      "name": "पालक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/spinach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/spinach.mp3"
+    },
+    {
+      "id": "fenugreek",
+      "name": "मेथी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/fenugreek.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/fenugreek.mp3"
+    },
+    {
+      "id": "coriander",
+      "name": "धनिया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/coriander.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/coriander.mp3"
+    },
+    {
+      "id": "peas",
+      "name": "मटर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/peas.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/peas.mp3"
+    },
+    {
+      "id": "beans",
+      "name": "बीन्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/beans.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/beans.mp3"
+    },
+    {
+      "id": "capsicum",
+      "name": "शिमला मिर्च",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/capsicum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/capsicum.mp3"
+    },
+    {
+      "id": "chilli",
+      "name": "मिर्च",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/chilli.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/chilli.mp3"
+    },
+    {
+      "id": "pumpkin",
+      "name": "कद्दू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/pumpkin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/pumpkin.mp3"
+    },
+    {
+      "id": "bottle_gourd",
+      "name": "लौकी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/bottle_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/bottle_gourd.mp3"
+    },
+    {
+      "id": "ridge_gourd",
+      "name": "तुरई",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ridge_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/ridge_gourd.mp3"
+    },
+    {
+      "id": "snake_gourd",
+      "name": "चिचिंडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/snake_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/snake_gourd.mp3"
+    },
+    {
+      "id": "bitter_gourd",
+      "name": "करेला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/bitter_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/bitter_gourd.mp3"
+    },
+    {
+      "id": "ladyfinger",
+      "name": "भिंडी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ladyfinger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/ladyfinger.mp3"
+    },
+    {
+      "id": "beetroot",
+      "name": "चुकंदर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/beetroot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/beetroot.mp3"
+    },
+    {
+      "id": "sweet_potato",
+      "name": "शकरकंद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/sweet_potato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/sweet_potato.mp3"
+    },
+    {
+      "id": "turnip",
+      "name": "शलगम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/turnip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/turnip.mp3"
+    },
+    {
+      "id": "garlic",
+      "name": "लहसुन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/garlic.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/garlic.mp3"
+    },
+    {
+      "id": "ginger",
+      "name": "अदरक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ginger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/ginger.mp3"
+    },
+    {
+      "id": "spring_onion",
+      "name": "हरा प्याज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/spring_onion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/spring_onion.mp3"
+    },
+    {
+      "id": "lettuce",
+      "name": "सलाद पत्ता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/lettuce.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/lettuce.mp3"
+    },
+    {
+      "id": "zucchini",
+      "name": "जुकीनी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/zucchini.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/zucchini.mp3"
+    },
+    {
+      "id": "broccoli",
+      "name": "ब्रोकली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/broccoli.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/broccoli.mp3"
+    },
+    {
+      "id": "mushroom",
+      "name": "मशरूम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/mushroom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/mushroom.mp3"
+    },
+    {
+      "id": "corn",
+      "name": "मक्का",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/corn.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/corn.mp3"
+    },
+    {
+      "id": "drumstick",
+      "name": "सहजन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/drumstick.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/drumstick.mp3"
+    },
+    {
+      "id": "ivy_gourd",
+      "name": "कुंदरू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ivy_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/ivy_gourd.mp3"
+    },
+    {
+      "id": "cluster_beans",
+      "name": "गवार फली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cluster_beans.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/cluster_beans.mp3"
+    },
+    {
+      "id": "yam",
+      "name": "जिमीकंद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/yam.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/yam.mp3"
+    },
+    {
+      "id": "taro",
+      "name": "अरबी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/taro.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/taro.mp3"
+    },
+    {
+      "id": "raw_banana",
+      "name": "कच्चा केला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/raw_banana.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/raw_banana.mp3"
+    },
+    {
+      "id": "green_chickpea",
+      "name": "चना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/green_chickpea.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/green_chickpea.mp3"
+    },
+    {
+      "id": "red_pumpkin",
+      "name": "लाल कद्दू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/red_pumpkin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/red_pumpkin.mp3"
+    },
+    {
+      "id": "ash_gourd",
+      "name": "पेठा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ash_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/ash_gourd.mp3"
+    },
+    {
+      "id": "celery",
+      "name": "सेलेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/celery.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/celery.mp3"
+    },
+    {
+      "id": "parsley",
+      "name": "पार्सले",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/parsley.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/parsley.mp3"
+    },
+    {
+      "id": "chives",
+      "name": "चाइव्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/chives.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/chives.mp3"
+    },
+    {
+      "id": "leek",
+      "name": "लीक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/leek.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/leek.mp3"
+    },
+    {
+      "id": "endive",
+      "name": "एंडिव",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/endive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/endive.mp3"
+    },
+    {
+      "id": "kale",
+      "name": "केल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/kale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/kale.mp3"
+    },
+    {
+      "id": "mustard_greens",
+      "name": "सरसों साग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/mustard_greens.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/mustard_greens.mp3"
+    },
+    {
+      "id": "watercress",
+      "name": "वॉटरक्रेस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/watercress.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/vegetables/watercress.mp3"
+    }
+  ]
+}

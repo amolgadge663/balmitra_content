@@ -1,0 +1,48 @@
+{
+  "category": "days",
+  "language": "english",
+  "items": [
+    {
+      "id": "monday",
+      "name": "Monday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/monday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/monday.mp3"
+    },
+    {
+      "id": "tuesday",
+      "name": "Tuesday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/tuesday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/tuesday.mp3"
+    },
+    {
+      "id": "wednesday",
+      "name": "Wednesday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/wednesday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/wednesday.mp3"
+    },
+    {
+      "id": "thursday",
+      "name": "Thursday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/thursday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/thursday.mp3"
+    },
+    {
+      "id": "friday",
+      "name": "Friday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/friday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/friday.mp3"
+    },
+    {
+      "id": "saturday",
+      "name": "Saturday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/saturday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/saturday.mp3"
+    },
+    {
+      "id": "sunday",
+      "name": "Sunday",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/sunday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/days/sunday.mp3"
+    }
+  ]
+}

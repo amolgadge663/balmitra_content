@@ -1,0 +1,186 @@
+{
+  "category": "flowers",
+  "language": "english",
+  "items": [
+    {
+      "id": "rose",
+      "name": "Rose",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/rose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/rose.mp3"
+    },
+    {
+      "id": "lotus",
+      "name": "Lotus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lotus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/lotus.mp3"
+    },
+    {
+      "id": "sunflower",
+      "name": "Sunflower",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/sunflower.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/sunflower.mp3"
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/jasmine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/jasmine.mp3"
+    },
+    {
+      "id": "marigold",
+      "name": "Marigold",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/marigold.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/marigold.mp3"
+    },
+    {
+      "id": "hibiscus",
+      "name": "Hibiscus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/hibiscus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/hibiscus.mp3"
+    },
+    {
+      "id": "tulip",
+      "name": "Tulip",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/tulip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/tulip.mp3"
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/daisy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/daisy.mp3"
+    },
+    {
+      "id": "orchid",
+      "name": "Orchid",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/orchid.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/orchid.mp3"
+    },
+    {
+      "id": "lily",
+      "name": "Lily",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lily.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/lily.mp3"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lavender.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/lavender.mp3"
+    },
+    {
+      "id": "chamomile",
+      "name": "Chamomile",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/chamomile.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/chamomile.mp3"
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/poppy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/poppy.mp3"
+    },
+    {
+      "id": "daffodil",
+      "name": "Daffodil",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/daffodil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/daffodil.mp3"
+    },
+    {
+      "id": "chrysanthemum",
+      "name": "Chrysanthemum",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/chrysanthemum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/chrysanthemum.mp3"
+    },
+    {
+      "id": "pansy",
+      "name": "Pansy",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/pansy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/pansy.mp3"
+    },
+    {
+      "id": "dahlia",
+      "name": "Dahlia",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/dahlia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/dahlia.mp3"
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/violet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/violet.mp3"
+    },
+    {
+      "id": "magnolia",
+      "name": "Magnolia",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/magnolia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/magnolia.mp3"
+    },
+    {
+      "id": "cherry_blossom",
+      "name": "Cherry Blossom",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/cherry_blossom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/cherry_blossom.mp3"
+    },
+    {
+      "id": "plumeria",
+      "name": "Plumeria",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/plumeria.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/plumeria.mp3"
+    },
+    {
+      "id": "bougainvillea",
+      "name": "Bougainvillea",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/bougainvillea.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/bougainvillea.mp3"
+    },
+    {
+      "id": "peony",
+      "name": "Peony",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/peony.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/peony.mp3"
+    },
+    {
+      "id": "aster",
+      "name": "Aster",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/aster.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/aster.mp3"
+    },
+    {
+      "id": "zinnia",
+      "name": "Zinnia",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/zinnia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/zinnia.mp3"
+    },
+    {
+      "id": "snapdragon",
+      "name": "Snapdragon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/snapdragon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/snapdragon.mp3"
+    },
+    {
+      "id": "gladiolus",
+      "name": "Gladiolus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/gladiolus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/gladiolus.mp3"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/iris.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/iris.mp3"
+    },
+    {
+      "id": "carnation",
+      "name": "Carnation",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/carnation.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/carnation.mp3"
+    },
+    {
+      "id": "primrose",
+      "name": "Primrose",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/primrose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/flowers/primrose.mp3"
+    }
+  ]
+}

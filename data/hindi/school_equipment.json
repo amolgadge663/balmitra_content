@@ -1,0 +1,126 @@
+{
+  "category": "school_equipment",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "pencil",
+      "name": "पेंसिल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/pencil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/pencil.mp3"
+    },
+    {
+      "id": "pen",
+      "name": "पेन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/pen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/pen.mp3"
+    },
+    {
+      "id": "eraser",
+      "name": "रबड़",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/eraser.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/eraser.mp3"
+    },
+    {
+      "id": "ruler",
+      "name": "पट्टी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/ruler.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/ruler.mp3"
+    },
+    {
+      "id": "notebook",
+      "name": "कॉपी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/notebook.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/notebook.mp3"
+    },
+    {
+      "id": "bag",
+      "name": "बस्ता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/bag.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/bag.mp3"
+    },
+    {
+      "id": "sharpener",
+      "name": "शार्पनर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/sharpener.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/sharpener.mp3"
+    },
+    {
+      "id": "compass",
+      "name": "कंपास",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/compass.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/compass.mp3"
+    },
+    {
+      "id": "scale",
+      "name": "स्केल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/scale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/scale.mp3"
+    },
+    {
+      "id": "calculator",
+      "name": "कैलकुलेटर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/calculator.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/calculator.mp3"
+    },
+    {
+      "id": "crayon",
+      "name": "क्रेयॉन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/crayon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/crayon.mp3"
+    },
+    {
+      "id": "color_pencil",
+      "name": "रंगीन पेंसिल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/color_pencil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/color_pencil.mp3"
+    },
+    {
+      "id": "glue",
+      "name": "गोंद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/glue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/glue.mp3"
+    },
+    {
+      "id": "scissors",
+      "name": "कैंची",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/scissors.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/scissors.mp3"
+    },
+    {
+      "id": "stapler",
+      "name": "स्टेपलर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/stapler.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/stapler.mp3"
+    },
+    {
+      "id": "chart_paper",
+      "name": "चार्ट पेपर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/chart_paper.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/chart_paper.mp3"
+    },
+    {
+      "id": "marker",
+      "name": "मार्कर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/marker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/marker.mp3"
+    },
+    {
+      "id": "highlighter",
+      "name": "हाइलाइटर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/highlighter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/highlighter.mp3"
+    },
+    {
+      "id": "geometry_box",
+      "name": "ज्यामिति बॉक्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/geometry_box.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/geometry_box.mp3"
+    },
+    {
+      "id": "lunch_box",
+      "name": "टिफिन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/lunch_box.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/school_equipment/lunch_box.mp3"
+    }
+  ]
+}

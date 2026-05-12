@@ -1,0 +1,72 @@
+{
+  "category": "seasons",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "spring",
+      "name": "वसंत ऋतू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/spring.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/spring.mp3"
+    },
+    {
+      "id": "summer",
+      "name": "उन्हाळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/summer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/summer.mp3"
+    },
+    {
+      "id": "monsoon",
+      "name": "पावसाळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/monsoon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/monsoon.mp3"
+    },
+    {
+      "id": "autumn",
+      "name": "शरद ऋतू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/autumn.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/autumn.mp3"
+    },
+    {
+      "id": "winter",
+      "name": "हिवाळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/winter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/winter.mp3"
+    },
+    {
+      "id": "vasant",
+      "name": "वसंत",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/vasant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/vasant.mp3"
+    },
+    {
+      "id": "grishma",
+      "name": "ग्रीष्म",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/grishma.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/grishma.mp3"
+    },
+    {
+      "id": "varsha",
+      "name": "वर्षा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/varsha.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/varsha.mp3"
+    },
+    {
+      "id": "sharad",
+      "name": "शरद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/sharad.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/sharad.mp3"
+    },
+    {
+      "id": "hemant",
+      "name": "हेमंत",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/hemant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/hemant.mp3"
+    },
+    {
+      "id": "shishir",
+      "name": "शिशिर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/seasons/shishir.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/seasons/shishir.mp3"
+    }
+  ]
+}

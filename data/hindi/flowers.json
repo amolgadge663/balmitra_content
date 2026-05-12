@@ -1,0 +1,186 @@
+{
+  "category": "flowers",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "rose",
+      "name": "गुलाब",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/rose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/rose.mp3"
+    },
+    {
+      "id": "lotus",
+      "name": "कमल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lotus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/lotus.mp3"
+    },
+    {
+      "id": "sunflower",
+      "name": "सूरजमुखी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/sunflower.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/sunflower.mp3"
+    },
+    {
+      "id": "jasmine",
+      "name": "चमेली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/jasmine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/jasmine.mp3"
+    },
+    {
+      "id": "marigold",
+      "name": "गेंदा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/marigold.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/marigold.mp3"
+    },
+    {
+      "id": "hibiscus",
+      "name": "गुड़हल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/hibiscus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/hibiscus.mp3"
+    },
+    {
+      "id": "tulip",
+      "name": "ट्यूलिप",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/tulip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/tulip.mp3"
+    },
+    {
+      "id": "daisy",
+      "name": "डेज़ी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/daisy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/daisy.mp3"
+    },
+    {
+      "id": "orchid",
+      "name": "ऑर्किड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/orchid.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/orchid.mp3"
+    },
+    {
+      "id": "lily",
+      "name": "लिली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lily.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/lily.mp3"
+    },
+    {
+      "id": "lavender",
+      "name": "लैवेंडर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/lavender.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/lavender.mp3"
+    },
+    {
+      "id": "chamomile",
+      "name": "कैमोमाइल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/chamomile.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/chamomile.mp3"
+    },
+    {
+      "id": "poppy",
+      "name": "पोस्त का फूल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/poppy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/poppy.mp3"
+    },
+    {
+      "id": "daffodil",
+      "name": "डैफोडिल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/daffodil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/daffodil.mp3"
+    },
+    {
+      "id": "chrysanthemum",
+      "name": "गुलदाउदी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/chrysanthemum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/chrysanthemum.mp3"
+    },
+    {
+      "id": "pansy",
+      "name": "पैंसी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/pansy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/pansy.mp3"
+    },
+    {
+      "id": "dahlia",
+      "name": "डहेलिया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/dahlia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/dahlia.mp3"
+    },
+    {
+      "id": "violet",
+      "name": "बैंगनी फूल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/violet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/violet.mp3"
+    },
+    {
+      "id": "magnolia",
+      "name": "मैगनोलिया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/magnolia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/magnolia.mp3"
+    },
+    {
+      "id": "cherry_blossom",
+      "name": "चेरी ब्लॉसम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/cherry_blossom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/cherry_blossom.mp3"
+    },
+    {
+      "id": "plumeria",
+      "name": "चंपा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/plumeria.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/plumeria.mp3"
+    },
+    {
+      "id": "bougainvillea",
+      "name": "बोगनवेलिया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/bougainvillea.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/bougainvillea.mp3"
+    },
+    {
+      "id": "peony",
+      "name": "पियोनी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/peony.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/peony.mp3"
+    },
+    {
+      "id": "aster",
+      "name": "एस्टर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/aster.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/aster.mp3"
+    },
+    {
+      "id": "zinnia",
+      "name": "ज़िनिया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/zinnia.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/zinnia.mp3"
+    },
+    {
+      "id": "snapdragon",
+      "name": "स्नैपड्रैगन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/snapdragon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/snapdragon.mp3"
+    },
+    {
+      "id": "gladiolus",
+      "name": "ग्लैडियोलस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/gladiolus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/gladiolus.mp3"
+    },
+    {
+      "id": "iris",
+      "name": "आईरिस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/iris.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/iris.mp3"
+    },
+    {
+      "id": "carnation",
+      "name": "कार्नेशन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/carnation.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/carnation.mp3"
+    },
+    {
+      "id": "primrose",
+      "name": "प्रिमरोज़",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/flowers/primrose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/flowers/primrose.mp3"
+    }
+  ]
+}

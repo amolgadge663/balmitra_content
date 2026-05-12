@@ -1,0 +1,126 @@
+{
+  "category": "math",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "addition",
+      "name": "बेरीज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/addition.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/addition.mp3"
+    },
+    {
+      "id": "subtraction",
+      "name": "वजाबाकी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/subtraction.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/subtraction.mp3"
+    },
+    {
+      "id": "multiplication",
+      "name": "गुणाकार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/multiplication.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/multiplication.mp3"
+    },
+    {
+      "id": "division",
+      "name": "भागाकार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/division.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/division.mp3"
+    },
+    {
+      "id": "zero",
+      "name": "शून्य",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/zero.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/zero.mp3"
+    },
+    {
+      "id": "counting",
+      "name": "मोजणी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/counting.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/counting.mp3"
+    },
+    {
+      "id": "greater_than",
+      "name": "मोठे आहे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/greater_than.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/greater_than.mp3"
+    },
+    {
+      "id": "less_than",
+      "name": "लहान आहे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/less_than.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/less_than.mp3"
+    },
+    {
+      "id": "equal",
+      "name": "समान",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/equal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/equal.mp3"
+    },
+    {
+      "id": "plus",
+      "name": "अधिक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/plus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/plus.mp3"
+    },
+    {
+      "id": "minus",
+      "name": "उणे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/minus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/minus.mp3"
+    },
+    {
+      "id": "multiply",
+      "name": "गुणिले",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/multiply.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/multiply.mp3"
+    },
+    {
+      "id": "divide",
+      "name": "भागिले",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/divide.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/divide.mp3"
+    },
+    {
+      "id": "number_line",
+      "name": "संख्यारेषा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/number_line.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/number_line.mp3"
+    },
+    {
+      "id": "even",
+      "name": "सम संख्या",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/even.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/even.mp3"
+    },
+    {
+      "id": "odd",
+      "name": "विषम संख्या",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/odd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/odd.mp3"
+    },
+    {
+      "id": "half",
+      "name": "अर्धा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/half.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/half.mp3"
+    },
+    {
+      "id": "double",
+      "name": "दुप्पट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/double.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/double.mp3"
+    },
+    {
+      "id": "square",
+      "name": "चौरस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/square.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/square.mp3"
+    },
+    {
+      "id": "triangle_shape",
+      "name": "त्रिकोण",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/triangle_shape.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/math/triangle_shape.mp3"
+    }
+  ]
+}

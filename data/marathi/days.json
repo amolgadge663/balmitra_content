@@ -1,0 +1,48 @@
+{
+  "category": "days",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "monday",
+      "name": "सोमवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/monday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/monday.mp3"
+    },
+    {
+      "id": "tuesday",
+      "name": "मंगळवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/tuesday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/tuesday.mp3"
+    },
+    {
+      "id": "wednesday",
+      "name": "बुधवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/wednesday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/wednesday.mp3"
+    },
+    {
+      "id": "thursday",
+      "name": "गुरुवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/thursday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/thursday.mp3"
+    },
+    {
+      "id": "friday",
+      "name": "शुक्रवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/friday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/friday.mp3"
+    },
+    {
+      "id": "saturday",
+      "name": "शनिवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/saturday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/saturday.mp3"
+    },
+    {
+      "id": "sunday",
+      "name": "रविवार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/days/sunday.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/days/sunday.mp3"
+    }
+  ]
+}

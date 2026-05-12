@@ -1,0 +1,156 @@
+{
+  "category": "sports",
+  "language": "english",
+  "items": [
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cricket.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/cricket.mp3"
+    },
+    {
+      "id": "football",
+      "name": "Football",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/football.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/football.mp3"
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/basketball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/basketball.mp3"
+    },
+    {
+      "id": "volleyball",
+      "name": "Volleyball",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/volleyball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/volleyball.mp3"
+    },
+    {
+      "id": "badminton",
+      "name": "Badminton",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/badminton.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/badminton.mp3"
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/tennis.mp3"
+    },
+    {
+      "id": "hockey",
+      "name": "Hockey",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/hockey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/hockey.mp3"
+    },
+    {
+      "id": "swimming",
+      "name": "Swimming",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/swimming.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/swimming.mp3"
+    },
+    {
+      "id": "running",
+      "name": "Running",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/running.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/running.mp3"
+    },
+    {
+      "id": "cycling",
+      "name": "Cycling",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cycling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/cycling.mp3"
+    },
+    {
+      "id": "boxing",
+      "name": "Boxing",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/boxing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/boxing.mp3"
+    },
+    {
+      "id": "wrestling",
+      "name": "Wrestling",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/wrestling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/wrestling.mp3"
+    },
+    {
+      "id": "kabaddi",
+      "name": "Kabaddi",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kabaddi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/kabaddi.mp3"
+    },
+    {
+      "id": "kho_kho",
+      "name": "Kho Kho",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kho_kho.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/kho_kho.mp3"
+    },
+    {
+      "id": "chess",
+      "name": "Chess",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/chess.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/chess.mp3"
+    },
+    {
+      "id": "carrom",
+      "name": "Carrom",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/carrom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/carrom.mp3"
+    },
+    {
+      "id": "table_tennis",
+      "name": "Table Tennis",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/table_tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/table_tennis.mp3"
+    },
+    {
+      "id": "archery",
+      "name": "Archery",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/archery.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/archery.mp3"
+    },
+    {
+      "id": "gymnastics",
+      "name": "Gymnastics",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/gymnastics.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/gymnastics.mp3"
+    },
+    {
+      "id": "skating",
+      "name": "Skating",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/skating.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/skating.mp3"
+    },
+    {
+      "id": "horse_riding",
+      "name": "Horse Riding",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/horse_riding.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/horse_riding.mp3"
+    },
+    {
+      "id": "polo",
+      "name": "Polo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/polo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/polo.mp3"
+    },
+    {
+      "id": "golf",
+      "name": "Golf",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/golf.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/golf.mp3"
+    },
+    {
+      "id": "baseball",
+      "name": "Baseball",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/baseball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/baseball.mp3"
+    },
+    {
+      "id": "rugby",
+      "name": "Rugby",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/rugby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/sports/rugby.mp3"
+    }
+  ]
+}

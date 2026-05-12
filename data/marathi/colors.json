@@ -1,0 +1,258 @@
+{
+  "category": "colors",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "red",
+      "name": "लाल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/red.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/red.mp3"
+    },
+    {
+      "id": "blue",
+      "name": "निळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/blue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/blue.mp3"
+    },
+    {
+      "id": "green",
+      "name": "हिरवा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/green.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/green.mp3"
+    },
+    {
+      "id": "yellow",
+      "name": "पिवळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/yellow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/yellow.mp3"
+    },
+    {
+      "id": "black",
+      "name": "काळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/black.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/black.mp3"
+    },
+    {
+      "id": "white",
+      "name": "पांढरा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/white.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/white.mp3"
+    },
+    {
+      "id": "orange",
+      "name": "नारिंगी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/orange.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/orange.mp3"
+    },
+    {
+      "id": "pink",
+      "name": "गुलाबी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/pink.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/pink.mp3"
+    },
+    {
+      "id": "purple",
+      "name": "जांभळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/purple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/purple.mp3"
+    },
+    {
+      "id": "brown",
+      "name": "तपकिरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/brown.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/brown.mp3"
+    },
+    {
+      "id": "grey",
+      "name": "करडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/grey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/grey.mp3"
+    },
+    {
+      "id": "violet",
+      "name": "जांभळट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/violet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/violet.mp3"
+    },
+    {
+      "id": "indigo",
+      "name": "नील",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/indigo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/indigo.mp3"
+    },
+    {
+      "id": "gold",
+      "name": "सोनेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/gold.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/gold.mp3"
+    },
+    {
+      "id": "silver",
+      "name": "चंदेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/silver.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/silver.mp3"
+    },
+    {
+      "id": "maroon",
+      "name": "मरून",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/maroon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/maroon.mp3"
+    },
+    {
+      "id": "navy",
+      "name": "गडद निळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/navy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/navy.mp3"
+    },
+    {
+      "id": "sky_blue",
+      "name": "आकाशी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/sky_blue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/sky_blue.mp3"
+    },
+    {
+      "id": "teal",
+      "name": "टील",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/teal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/teal.mp3"
+    },
+    {
+      "id": "turquoise",
+      "name": "फिरोजी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/turquoise.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/turquoise.mp3"
+    },
+    {
+      "id": "beige",
+      "name": "बेज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/beige.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/beige.mp3"
+    },
+    {
+      "id": "cream",
+      "name": "क्रीम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/cream.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/cream.mp3"
+    },
+    {
+      "id": "peach",
+      "name": "पीच",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/peach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/peach.mp3"
+    },
+    {
+      "id": "lavender",
+      "name": "लॅव्हेंडर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/lavender.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/lavender.mp3"
+    },
+    {
+      "id": "coral",
+      "name": "कोरल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/coral.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/coral.mp3"
+    },
+    {
+      "id": "mint",
+      "name": "मिंट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/mint.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/mint.mp3"
+    },
+    {
+      "id": "olive",
+      "name": "ऑलिव्ह",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/olive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/olive.mp3"
+    },
+    {
+      "id": "lime",
+      "name": "लिंबू रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/lime.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/lime.mp3"
+    },
+    {
+      "id": "magenta",
+      "name": "मॅजेंटा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/magenta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/magenta.mp3"
+    },
+    {
+      "id": "cyan",
+      "name": "सायन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/cyan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/cyan.mp3"
+    },
+    {
+      "id": "amber",
+      "name": "अंबर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/amber.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/amber.mp3"
+    },
+    {
+      "id": "ivory",
+      "name": "हत्ती दात रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/ivory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/ivory.mp3"
+    },
+    {
+      "id": "charcoal",
+      "name": "कोळशासारखा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/charcoal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/charcoal.mp3"
+    },
+    {
+      "id": "rust",
+      "name": "गंज रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/rust.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/rust.mp3"
+    },
+    {
+      "id": "mustard",
+      "name": "मोहरी रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/mustard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/mustard.mp3"
+    },
+    {
+      "id": "ochre",
+      "name": "गेरू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/ochre.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/ochre.mp3"
+    },
+    {
+      "id": "plum",
+      "name": "प्लम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/plum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/plum.mp3"
+    },
+    {
+      "id": "rose",
+      "name": "गुलाब रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/rose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/rose.mp3"
+    },
+    {
+      "id": "wine",
+      "name": "वाइन रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/wine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/wine.mp3"
+    },
+    {
+      "id": "steel",
+      "name": "स्टील रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/steel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/steel.mp3"
+    },
+    {
+      "id": "sand",
+      "name": "वाळू रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/sand.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/sand.mp3"
+    },
+    {
+      "id": "chocolate",
+      "name": "चॉकलेट रंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/chocolate.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/colors/chocolate.mp3"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "category": "directions",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "north",
+      "name": "उत्तर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/north.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/north.mp3"
+    },
+    {
+      "id": "south",
+      "name": "दक्षिण",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/south.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/south.mp3"
+    },
+    {
+      "id": "east",
+      "name": "पूर्व",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/east.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/east.mp3"
+    },
+    {
+      "id": "west",
+      "name": "पश्चिम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/west.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/west.mp3"
+    },
+    {
+      "id": "northeast",
+      "name": "ईशान्य",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/northeast.mp3"
+    },
+    {
+      "id": "northwest",
+      "name": "वायव्य",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/northwest.mp3"
+    },
+    {
+      "id": "southeast",
+      "name": "आग्नेय",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/southeast.mp3"
+    },
+    {
+      "id": "southwest",
+      "name": "नैऋत्य",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/southwest.mp3"
+    },
+    {
+      "id": "up",
+      "name": "वर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/up.mp3"
+    },
+    {
+      "id": "down",
+      "name": "खाली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/down.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/down.mp3"
+    },
+    {
+      "id": "left",
+      "name": "डावे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/left.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/left.mp3"
+    },
+    {
+      "id": "right",
+      "name": "उजवे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/right.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/right.mp3"
+    },
+    {
+      "id": "forward",
+      "name": "पुढे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/forward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/forward.mp3"
+    },
+    {
+      "id": "backward",
+      "name": "मागे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/backward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/backward.mp3"
+    },
+    {
+      "id": "center",
+      "name": "मध्य",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/center.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/directions/center.mp3"
+    }
+  ]
+}

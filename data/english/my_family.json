@@ -1,0 +1,96 @@
+{
+  "category": "my_family",
+  "language": "english",
+  "items": [
+    {
+      "id": "father",
+      "name": "Father",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/father.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/father.mp3"
+    },
+    {
+      "id": "mother",
+      "name": "Mother",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/mother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/mother.mp3"
+    },
+    {
+      "id": "brother",
+      "name": "Brother",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/brother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/brother.mp3"
+    },
+    {
+      "id": "sister",
+      "name": "Sister",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/sister.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/sister.mp3"
+    },
+    {
+      "id": "grandfather",
+      "name": "Grandfather",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandfather.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/grandfather.mp3"
+    },
+    {
+      "id": "grandmother",
+      "name": "Grandmother",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandmother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/grandmother.mp3"
+    },
+    {
+      "id": "uncle",
+      "name": "Uncle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/uncle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/uncle.mp3"
+    },
+    {
+      "id": "aunt",
+      "name": "Aunt",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/aunt.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/aunt.mp3"
+    },
+    {
+      "id": "cousin",
+      "name": "Cousin",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/cousin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/cousin.mp3"
+    },
+    {
+      "id": "son",
+      "name": "Son",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/son.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/son.mp3"
+    },
+    {
+      "id": "daughter",
+      "name": "Daughter",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/daughter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/daughter.mp3"
+    },
+    {
+      "id": "husband",
+      "name": "Husband",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/husband.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/husband.mp3"
+    },
+    {
+      "id": "wife",
+      "name": "Wife",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/wife.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/wife.mp3"
+    },
+    {
+      "id": "baby",
+      "name": "Baby",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/baby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/baby.mp3"
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/family.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/my_family/family.mp3"
+    }
+  ]
+}

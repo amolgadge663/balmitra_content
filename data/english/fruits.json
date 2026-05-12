@@ -1,0 +1,306 @@
+{
+  "category": "fruits",
+  "language": "english",
+  "items": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/apple.mp3"
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/banana.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/banana.mp3"
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/mango.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/mango.mp3"
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/orange.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/orange.mp3"
+    },
+    {
+      "id": "grapes",
+      "name": "Grapes",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/grapes.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/grapes.mp3"
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pineapple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/pineapple.mp3"
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/papaya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/papaya.mp3"
+    },
+    {
+      "id": "guava",
+      "name": "Guava",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/guava.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/guava.mp3"
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/watermelon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/watermelon.mp3"
+    },
+    {
+      "id": "muskmelon",
+      "name": "Muskmelon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/muskmelon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/muskmelon.mp3"
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/strawberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/strawberry.mp3"
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/cherry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/cherry.mp3"
+    },
+    {
+      "id": "pear",
+      "name": "Pear",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/pear.mp3"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/peach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/peach.mp3"
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/plum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/plum.mp3"
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/kiwi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/kiwi.mp3"
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pomegranate.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/pomegranate.mp3"
+    },
+    {
+      "id": "custard_apple",
+      "name": "Custard Apple",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/custard_apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/custard_apple.mp3"
+    },
+    {
+      "id": "dragon_fruit",
+      "name": "Dragon Fruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/dragon_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/dragon_fruit.mp3"
+    },
+    {
+      "id": "fig",
+      "name": "Fig",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/fig.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/fig.mp3"
+    },
+    {
+      "id": "jamun",
+      "name": "Jamun",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/jamun.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/jamun.mp3"
+    },
+    {
+      "id": "lychee",
+      "name": "Lychee",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/lychee.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/lychee.mp3"
+    },
+    {
+      "id": "sapota",
+      "name": "Sapota",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/sapota.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/sapota.mp3"
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/apricot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/apricot.mp3"
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/blackberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/blackberry.mp3"
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/blueberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/blueberry.mp3"
+    },
+    {
+      "id": "raspberry",
+      "name": "Raspberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/raspberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/raspberry.mp3"
+    },
+    {
+      "id": "mulberry",
+      "name": "Mulberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/mulberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/mulberry.mp3"
+    },
+    {
+      "id": "passion_fruit",
+      "name": "Passion Fruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/passion_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/passion_fruit.mp3"
+    },
+    {
+      "id": "starfruit",
+      "name": "Star Fruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/starfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/starfruit.mp3"
+    },
+    {
+      "id": "wood_apple",
+      "name": "Wood Apple",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/wood_apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/wood_apple.mp3"
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/olive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/olive.mp3"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/avocado.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/avocado.mp3"
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/coconut.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/coconut.mp3"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/date.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/date.mp3"
+    },
+    {
+      "id": "tamarind",
+      "name": "Tamarind",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/tamarind.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/tamarind.mp3"
+    },
+    {
+      "id": "gooseberry",
+      "name": "Gooseberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/gooseberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/gooseberry.mp3"
+    },
+    {
+      "id": "jackfruit",
+      "name": "Jackfruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/jackfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/jackfruit.mp3"
+    },
+    {
+      "id": "persimmon",
+      "name": "Persimmon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/persimmon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/persimmon.mp3"
+    },
+    {
+      "id": "cranberry",
+      "name": "Cranberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/cranberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/cranberry.mp3"
+    },
+    {
+      "id": "longan",
+      "name": "Longan",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/longan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/longan.mp3"
+    },
+    {
+      "id": "durian",
+      "name": "Durian",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/durian.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/durian.mp3"
+    },
+    {
+      "id": "breadfruit",
+      "name": "Breadfruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/breadfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/breadfruit.mp3"
+    },
+    {
+      "id": "soursop",
+      "name": "Soursop",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/soursop.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/soursop.mp3"
+    },
+    {
+      "id": "salak",
+      "name": "Salak",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/salak.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/salak.mp3"
+    },
+    {
+      "id": "miracle_fruit",
+      "name": "Miracle Fruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/miracle_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/miracle_fruit.mp3"
+    },
+    {
+      "id": "ugli_fruit",
+      "name": "Ugli Fruit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/ugli_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/ugli_fruit.mp3"
+    },
+    {
+      "id": "quince",
+      "name": "Quince",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/quince.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/quince.mp3"
+    },
+    {
+      "id": "elderberry",
+      "name": "Elderberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/elderberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/elderberry.mp3"
+    },
+    {
+      "id": "boysenberry",
+      "name": "Boysenberry",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/boysenberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/fruits/boysenberry.mp3"
+    }
+  ]
+}

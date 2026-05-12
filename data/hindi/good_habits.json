@@ -1,0 +1,126 @@
+{
+  "category": "good_habits",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "brush_teeth",
+      "name": "दाँत साफ करना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/brush_teeth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/brush_teeth.mp3"
+    },
+    {
+      "id": "wash_hands",
+      "name": "हाथ धोना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/wash_hands.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/wash_hands.mp3"
+    },
+    {
+      "id": "eat_healthy",
+      "name": "पौष्टिक खाना खाना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/eat_healthy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/eat_healthy.mp3"
+    },
+    {
+      "id": "drink_water",
+      "name": "पानी पीना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/drink_water.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/drink_water.mp3"
+    },
+    {
+      "id": "exercise",
+      "name": "व्यायाम करना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/exercise.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/exercise.mp3"
+    },
+    {
+      "id": "sleep_early",
+      "name": "जल्दी सोना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/sleep_early.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/sleep_early.mp3"
+    },
+    {
+      "id": "read_books",
+      "name": "किताबें पढ़ना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/read_books.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/read_books.mp3"
+    },
+    {
+      "id": "help_others",
+      "name": "दूसरों की मदद करना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/help_others.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/help_others.mp3"
+    },
+    {
+      "id": "say_thank_you",
+      "name": "धन्यवाद कहना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/say_thank_you.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/say_thank_you.mp3"
+    },
+    {
+      "id": "say_sorry",
+      "name": "माफी माँगना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/say_sorry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/say_sorry.mp3"
+    },
+    {
+      "id": "be_honest",
+      "name": "ईमानदार रहना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/be_honest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/be_honest.mp3"
+    },
+    {
+      "id": "keep_clean",
+      "name": "साफ-सफाई रखना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/keep_clean.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/keep_clean.mp3"
+    },
+    {
+      "id": "respect_elders",
+      "name": "बड़ों का सम्मान करना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/respect_elders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/respect_elders.mp3"
+    },
+    {
+      "id": "save_water",
+      "name": "पानी बचाना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/save_water.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/save_water.mp3"
+    },
+    {
+      "id": "save_electricity",
+      "name": "बिजली बचाना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/save_electricity.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/save_electricity.mp3"
+    },
+    {
+      "id": "plant_trees",
+      "name": "पेड़ लगाना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/plant_trees.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/plant_trees.mp3"
+    },
+    {
+      "id": "share_food",
+      "name": "खाना बाँटना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/share_food.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/share_food.mp3"
+    },
+    {
+      "id": "be_kind",
+      "name": "दयालु रहना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/be_kind.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/be_kind.mp3"
+    },
+    {
+      "id": "no_littering",
+      "name": "कूड़ा न फैलाना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/no_littering.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/no_littering.mp3"
+    },
+    {
+      "id": "wear_seatbelt",
+      "name": "सीटबेल्ट पहनना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/good_habits/wear_seatbelt.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/good_habits/wear_seatbelt.mp3"
+    }
+  ]
+}

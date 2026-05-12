@@ -1,0 +1,300 @@
+{
+  "category": "vegetables",
+  "language": "english",
+  "items": [
+    {
+      "id": "potato",
+      "name": "Potato",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/potato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/potato.mp3"
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/onion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/onion.mp3"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/tomato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/tomato.mp3"
+    },
+    {
+      "id": "brinjal",
+      "name": "Brinjal",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/brinjal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/brinjal.mp3"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cabbage.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/cabbage.mp3"
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cauliflower.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/cauliflower.mp3"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/carrot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/carrot.mp3"
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/radish.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/radish.mp3"
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/spinach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/spinach.mp3"
+    },
+    {
+      "id": "fenugreek",
+      "name": "Fenugreek",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/fenugreek.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/fenugreek.mp3"
+    },
+    {
+      "id": "coriander",
+      "name": "Coriander",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/coriander.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/coriander.mp3"
+    },
+    {
+      "id": "peas",
+      "name": "Peas",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/peas.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/peas.mp3"
+    },
+    {
+      "id": "beans",
+      "name": "Beans",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/beans.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/beans.mp3"
+    },
+    {
+      "id": "capsicum",
+      "name": "Capsicum",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/capsicum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/capsicum.mp3"
+    },
+    {
+      "id": "chilli",
+      "name": "Chilli",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/chilli.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/chilli.mp3"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/pumpkin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/pumpkin.mp3"
+    },
+    {
+      "id": "bottle_gourd",
+      "name": "Bottle Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/bottle_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/bottle_gourd.mp3"
+    },
+    {
+      "id": "ridge_gourd",
+      "name": "Ridge Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ridge_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/ridge_gourd.mp3"
+    },
+    {
+      "id": "snake_gourd",
+      "name": "Snake Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/snake_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/snake_gourd.mp3"
+    },
+    {
+      "id": "bitter_gourd",
+      "name": "Bitter Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/bitter_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/bitter_gourd.mp3"
+    },
+    {
+      "id": "ladyfinger",
+      "name": "Lady Finger",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ladyfinger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/ladyfinger.mp3"
+    },
+    {
+      "id": "beetroot",
+      "name": "Beetroot",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/beetroot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/beetroot.mp3"
+    },
+    {
+      "id": "sweet_potato",
+      "name": "Sweet Potato",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/sweet_potato.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/sweet_potato.mp3"
+    },
+    {
+      "id": "turnip",
+      "name": "Turnip",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/turnip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/turnip.mp3"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/garlic.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/garlic.mp3"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ginger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/ginger.mp3"
+    },
+    {
+      "id": "spring_onion",
+      "name": "Spring Onion",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/spring_onion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/spring_onion.mp3"
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/lettuce.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/lettuce.mp3"
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/zucchini.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/zucchini.mp3"
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/broccoli.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/broccoli.mp3"
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/mushroom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/mushroom.mp3"
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/corn.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/corn.mp3"
+    },
+    {
+      "id": "drumstick",
+      "name": "Drumstick",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/drumstick.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/drumstick.mp3"
+    },
+    {
+      "id": "ivy_gourd",
+      "name": "Ivy Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ivy_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/ivy_gourd.mp3"
+    },
+    {
+      "id": "cluster_beans",
+      "name": "Cluster Beans",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/cluster_beans.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/cluster_beans.mp3"
+    },
+    {
+      "id": "yam",
+      "name": "Yam",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/yam.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/yam.mp3"
+    },
+    {
+      "id": "taro",
+      "name": "Taro",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/taro.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/taro.mp3"
+    },
+    {
+      "id": "raw_banana",
+      "name": "Raw Banana",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/raw_banana.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/raw_banana.mp3"
+    },
+    {
+      "id": "green_chickpea",
+      "name": "Green Chickpea",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/green_chickpea.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/green_chickpea.mp3"
+    },
+    {
+      "id": "red_pumpkin",
+      "name": "Red Pumpkin",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/red_pumpkin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/red_pumpkin.mp3"
+    },
+    {
+      "id": "ash_gourd",
+      "name": "Ash Gourd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/ash_gourd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/ash_gourd.mp3"
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/celery.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/celery.mp3"
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/parsley.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/parsley.mp3"
+    },
+    {
+      "id": "chives",
+      "name": "Chives",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/chives.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/chives.mp3"
+    },
+    {
+      "id": "leek",
+      "name": "Leek",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/leek.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/leek.mp3"
+    },
+    {
+      "id": "endive",
+      "name": "Endive",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/endive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/endive.mp3"
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/kale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/kale.mp3"
+    },
+    {
+      "id": "mustard_greens",
+      "name": "Mustard Greens",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/mustard_greens.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/mustard_greens.mp3"
+    },
+    {
+      "id": "watercress",
+      "name": "Watercress",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vegetables/watercress.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/vegetables/watercress.mp3"
+    }
+  ]
+}

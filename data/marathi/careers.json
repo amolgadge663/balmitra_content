@@ -1,0 +1,156 @@
+{
+  "category": "careers",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "doctor",
+      "name": "डॉक्टर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/doctor.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/doctor.mp3"
+    },
+    {
+      "id": "teacher",
+      "name": "शिक्षक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/teacher.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/teacher.mp3"
+    },
+    {
+      "id": "engineer",
+      "name": "अभियंता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/engineer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/engineer.mp3"
+    },
+    {
+      "id": "farmer",
+      "name": "शेतकरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/farmer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/farmer.mp3"
+    },
+    {
+      "id": "police",
+      "name": "पोलीस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/police.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/police.mp3"
+    },
+    {
+      "id": "firefighter",
+      "name": "अग्निशामक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/firefighter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/firefighter.mp3"
+    },
+    {
+      "id": "pilot",
+      "name": "वैमानिक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/pilot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/pilot.mp3"
+    },
+    {
+      "id": "nurse",
+      "name": "परिचारिका",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/nurse.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/nurse.mp3"
+    },
+    {
+      "id": "chef",
+      "name": "आचारी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/chef.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/chef.mp3"
+    },
+    {
+      "id": "soldier",
+      "name": "सैनिक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/soldier.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/soldier.mp3"
+    },
+    {
+      "id": "scientist",
+      "name": "शास्त्रज्ञ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/scientist.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/scientist.mp3"
+    },
+    {
+      "id": "lawyer",
+      "name": "वकील",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/lawyer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/lawyer.mp3"
+    },
+    {
+      "id": "judge",
+      "name": "न्यायाधीश",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/judge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/judge.mp3"
+    },
+    {
+      "id": "banker",
+      "name": "बँकर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/banker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/banker.mp3"
+    },
+    {
+      "id": "driver",
+      "name": "चालक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/driver.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/driver.mp3"
+    },
+    {
+      "id": "carpenter",
+      "name": "सुतार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/carpenter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/carpenter.mp3"
+    },
+    {
+      "id": "painter",
+      "name": "चित्रकार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/painter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/painter.mp3"
+    },
+    {
+      "id": "tailor",
+      "name": "शिंपी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/tailor.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/tailor.mp3"
+    },
+    {
+      "id": "postman",
+      "name": "पोस्टमन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/postman.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/postman.mp3"
+    },
+    {
+      "id": "mechanic",
+      "name": "मेकॅनिक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/mechanic.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/mechanic.mp3"
+    },
+    {
+      "id": "plumber",
+      "name": "प्लंबर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/plumber.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/plumber.mp3"
+    },
+    {
+      "id": "electrician",
+      "name": "विद्युत तंत्री",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/electrician.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/electrician.mp3"
+    },
+    {
+      "id": "photographer",
+      "name": "छायाचित्रकार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/photographer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/photographer.mp3"
+    },
+    {
+      "id": "journalist",
+      "name": "पत्रकार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/journalist.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/journalist.mp3"
+    },
+    {
+      "id": "actor",
+      "name": "अभिनेता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/careers/actor.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/careers/actor.mp3"
+    }
+  ]
+}

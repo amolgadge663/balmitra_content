@@ -1,0 +1,690 @@
+{
+  "category": "barakhadi",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "ka",
+      "base": "क",
+      "forms": [
+        "क",
+        "का",
+        "कि",
+        "की",
+        "कु",
+        "कू",
+        "के",
+        "कै",
+        "को",
+        "कौ",
+        "कं",
+        "कः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ka.mp3"
+    },
+    {
+      "id": "kha",
+      "base": "ख",
+      "forms": [
+        "ख",
+        "खा",
+        "खि",
+        "खी",
+        "खु",
+        "खू",
+        "खे",
+        "खै",
+        "खो",
+        "खौ",
+        "खं",
+        "खः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/kha.mp3"
+    },
+    {
+      "id": "ga",
+      "base": "ग",
+      "forms": [
+        "ग",
+        "गा",
+        "गि",
+        "गी",
+        "गु",
+        "गू",
+        "गे",
+        "गै",
+        "गो",
+        "गौ",
+        "गं",
+        "गः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ga.mp3"
+    },
+    {
+      "id": "gha",
+      "base": "घ",
+      "forms": [
+        "घ",
+        "घा",
+        "घि",
+        "घी",
+        "घु",
+        "घू",
+        "घे",
+        "घै",
+        "घो",
+        "घौ",
+        "घं",
+        "घः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/gha.mp3"
+    },
+    {
+      "id": "nga",
+      "base": "ङ",
+      "forms": [
+        "ङ",
+        "ङा",
+        "ङि",
+        "ङी",
+        "ङु",
+        "ङू",
+        "ङे",
+        "ङै",
+        "ङो",
+        "ङौ",
+        "ङं",
+        "ङः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/nga.mp3"
+    },
+    {
+      "id": "cha",
+      "base": "च",
+      "forms": [
+        "च",
+        "चा",
+        "चि",
+        "ची",
+        "चु",
+        "चू",
+        "चे",
+        "चै",
+        "चो",
+        "चौ",
+        "चं",
+        "चः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/cha.mp3"
+    },
+    {
+      "id": "chha",
+      "base": "छ",
+      "forms": [
+        "छ",
+        "छा",
+        "छि",
+        "छी",
+        "छु",
+        "छू",
+        "छे",
+        "छै",
+        "छो",
+        "छौ",
+        "छं",
+        "छः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/chha.mp3"
+    },
+    {
+      "id": "ja",
+      "base": "ज",
+      "forms": [
+        "ज",
+        "जा",
+        "जि",
+        "जी",
+        "जु",
+        "जू",
+        "जे",
+        "जै",
+        "जो",
+        "जौ",
+        "जं",
+        "जः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ja.mp3"
+    },
+    {
+      "id": "jha",
+      "base": "झ",
+      "forms": [
+        "झ",
+        "झा",
+        "झि",
+        "झी",
+        "झु",
+        "झू",
+        "झे",
+        "झै",
+        "झो",
+        "झौ",
+        "झं",
+        "झः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/jha.mp3"
+    },
+    {
+      "id": "nya",
+      "base": "ञ",
+      "forms": [
+        "ञ",
+        "ञा",
+        "ञि",
+        "ञी",
+        "ञु",
+        "ञू",
+        "ञे",
+        "ञै",
+        "ञो",
+        "ञौ",
+        "ञं",
+        "ञः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/nya.mp3"
+    },
+    {
+      "id": "ta",
+      "base": "ट",
+      "forms": [
+        "ट",
+        "टा",
+        "टि",
+        "टी",
+        "टु",
+        "टू",
+        "टे",
+        "टै",
+        "टो",
+        "टौ",
+        "टं",
+        "टः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ta.mp3"
+    },
+    {
+      "id": "tha",
+      "base": "ठ",
+      "forms": [
+        "ठ",
+        "ठा",
+        "ठि",
+        "ठी",
+        "ठु",
+        "ठू",
+        "ठे",
+        "ठै",
+        "ठो",
+        "ठौ",
+        "ठं",
+        "ठः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/tha.mp3"
+    },
+    {
+      "id": "da",
+      "base": "ड",
+      "forms": [
+        "ड",
+        "डा",
+        "डि",
+        "डी",
+        "डु",
+        "डू",
+        "डे",
+        "डै",
+        "डो",
+        "डौ",
+        "डं",
+        "डः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/da.mp3"
+    },
+    {
+      "id": "dha",
+      "base": "ढ",
+      "forms": [
+        "ढ",
+        "ढा",
+        "ढि",
+        "ढी",
+        "ढु",
+        "ढू",
+        "ढे",
+        "ढै",
+        "ढो",
+        "ढौ",
+        "ढं",
+        "ढः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/dha.mp3"
+    },
+    {
+      "id": "na2",
+      "base": "ण",
+      "forms": [
+        "ण",
+        "णा",
+        "णि",
+        "णी",
+        "णु",
+        "णू",
+        "णे",
+        "णै",
+        "णो",
+        "णौ",
+        "णं",
+        "णः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/na2.mp3"
+    },
+    {
+      "id": "ta2",
+      "base": "त",
+      "forms": [
+        "त",
+        "ता",
+        "ति",
+        "ती",
+        "तु",
+        "तू",
+        "ते",
+        "तै",
+        "तो",
+        "तौ",
+        "तं",
+        "तः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ta2.mp3"
+    },
+    {
+      "id": "tha2",
+      "base": "थ",
+      "forms": [
+        "थ",
+        "था",
+        "थि",
+        "थी",
+        "थु",
+        "थू",
+        "थे",
+        "थै",
+        "थो",
+        "थौ",
+        "थं",
+        "थः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/tha2.mp3"
+    },
+    {
+      "id": "da2",
+      "base": "द",
+      "forms": [
+        "द",
+        "दा",
+        "दि",
+        "दी",
+        "दु",
+        "दू",
+        "दे",
+        "दै",
+        "दो",
+        "दौ",
+        "दं",
+        "दः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/da2.mp3"
+    },
+    {
+      "id": "dha2",
+      "base": "ध",
+      "forms": [
+        "ध",
+        "धा",
+        "धि",
+        "धी",
+        "धु",
+        "धू",
+        "धे",
+        "धै",
+        "धो",
+        "धौ",
+        "धं",
+        "धः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/dha2.mp3"
+    },
+    {
+      "id": "na",
+      "base": "न",
+      "forms": [
+        "न",
+        "ना",
+        "नि",
+        "नी",
+        "नु",
+        "नू",
+        "ने",
+        "नै",
+        "नो",
+        "नौ",
+        "नं",
+        "नः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/na.mp3"
+    },
+    {
+      "id": "pa",
+      "base": "प",
+      "forms": [
+        "प",
+        "पा",
+        "पि",
+        "पी",
+        "पु",
+        "पू",
+        "पे",
+        "पै",
+        "पो",
+        "पौ",
+        "पं",
+        "पः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/pa.mp3"
+    },
+    {
+      "id": "pha",
+      "base": "फ",
+      "forms": [
+        "फ",
+        "फा",
+        "फि",
+        "फी",
+        "फु",
+        "फू",
+        "फे",
+        "फै",
+        "फो",
+        "फौ",
+        "फं",
+        "फः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/pha.mp3"
+    },
+    {
+      "id": "ba",
+      "base": "ब",
+      "forms": [
+        "ब",
+        "बा",
+        "बि",
+        "बी",
+        "बु",
+        "बू",
+        "बे",
+        "बै",
+        "बो",
+        "बौ",
+        "बं",
+        "बः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ba.mp3"
+    },
+    {
+      "id": "bha",
+      "base": "भ",
+      "forms": [
+        "भ",
+        "भा",
+        "भि",
+        "भी",
+        "भु",
+        "भू",
+        "भे",
+        "भै",
+        "भो",
+        "भौ",
+        "भं",
+        "भः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/bha.mp3"
+    },
+    {
+      "id": "ma",
+      "base": "म",
+      "forms": [
+        "म",
+        "मा",
+        "मि",
+        "मी",
+        "मु",
+        "मू",
+        "मे",
+        "मै",
+        "मो",
+        "मौ",
+        "मं",
+        "मः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ma.mp3"
+    },
+    {
+      "id": "ya",
+      "base": "य",
+      "forms": [
+        "य",
+        "या",
+        "यि",
+        "यी",
+        "यु",
+        "यू",
+        "ये",
+        "यै",
+        "यो",
+        "यौ",
+        "यं",
+        "यः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ya.mp3"
+    },
+    {
+      "id": "ra",
+      "base": "र",
+      "forms": [
+        "र",
+        "रा",
+        "रि",
+        "री",
+        "रु",
+        "रू",
+        "रे",
+        "रै",
+        "रो",
+        "रौ",
+        "रं",
+        "रः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ra.mp3"
+    },
+    {
+      "id": "la",
+      "base": "ल",
+      "forms": [
+        "ल",
+        "ला",
+        "लि",
+        "ली",
+        "लु",
+        "लू",
+        "ले",
+        "लै",
+        "लो",
+        "लौ",
+        "लं",
+        "लः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/la.mp3"
+    },
+    {
+      "id": "va",
+      "base": "व",
+      "forms": [
+        "व",
+        "वा",
+        "वि",
+        "वी",
+        "वु",
+        "वू",
+        "वे",
+        "वै",
+        "वो",
+        "वौ",
+        "वं",
+        "वः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/va.mp3"
+    },
+    {
+      "id": "sha",
+      "base": "श",
+      "forms": [
+        "श",
+        "शा",
+        "शि",
+        "शी",
+        "शु",
+        "शू",
+        "शे",
+        "शै",
+        "शो",
+        "शौ",
+        "शं",
+        "शः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/sha.mp3"
+    },
+    {
+      "id": "sha2",
+      "base": "ष",
+      "forms": [
+        "ष",
+        "षा",
+        "षि",
+        "षी",
+        "षु",
+        "षू",
+        "षे",
+        "षै",
+        "षो",
+        "षौ",
+        "षं",
+        "षः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/sha2.mp3"
+    },
+    {
+      "id": "sa",
+      "base": "स",
+      "forms": [
+        "स",
+        "सा",
+        "सि",
+        "सी",
+        "सु",
+        "सू",
+        "से",
+        "सै",
+        "सो",
+        "सौ",
+        "सं",
+        "सः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/sa.mp3"
+    },
+    {
+      "id": "ha",
+      "base": "ह",
+      "forms": [
+        "ह",
+        "हा",
+        "हि",
+        "ही",
+        "हु",
+        "हू",
+        "हे",
+        "है",
+        "हो",
+        "हौ",
+        "हं",
+        "हः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ha.mp3"
+    },
+    {
+      "id": "la2",
+      "base": "ळ",
+      "forms": [
+        "ळ",
+        "ळा",
+        "ळि",
+        "ळी",
+        "ळु",
+        "ळू",
+        "ळे",
+        "ळै",
+        "ळो",
+        "ळौ",
+        "ळं",
+        "ळः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/la2.mp3"
+    },
+    {
+      "id": "ksha",
+      "base": "क्ष",
+      "forms": [
+        "क्ष",
+        "क्षा",
+        "क्षि",
+        "क्षी",
+        "क्षु",
+        "क्षू",
+        "क्षे",
+        "क्षै",
+        "क्षो",
+        "क्षौ",
+        "क्षं",
+        "क्षः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/ksha.mp3"
+    },
+    {
+      "id": "dnya",
+      "base": "ज्ञ",
+      "forms": [
+        "ज्ञ",
+        "ज्ञा",
+        "ज्ञि",
+        "ज्ञी",
+        "ज्ञु",
+        "ज्ञू",
+        "ज्ञे",
+        "ज्ञै",
+        "ज्ञो",
+        "ज्ञौ",
+        "ज्ञं",
+        "ज्ञः"
+      ],
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/barakhadi/dnya.mp3"
+    }
+  ]
+}

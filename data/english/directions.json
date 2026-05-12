@@ -1,0 +1,96 @@
+{
+  "category": "directions",
+  "language": "english",
+  "items": [
+    {
+      "id": "north",
+      "name": "North",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/north.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/north.mp3"
+    },
+    {
+      "id": "south",
+      "name": "South",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/south.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/south.mp3"
+    },
+    {
+      "id": "east",
+      "name": "East",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/east.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/east.mp3"
+    },
+    {
+      "id": "west",
+      "name": "West",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/west.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/west.mp3"
+    },
+    {
+      "id": "northeast",
+      "name": "Northeast",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/northeast.mp3"
+    },
+    {
+      "id": "northwest",
+      "name": "Northwest",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/northwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/northwest.mp3"
+    },
+    {
+      "id": "southeast",
+      "name": "Southeast",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southeast.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/southeast.mp3"
+    },
+    {
+      "id": "southwest",
+      "name": "Southwest",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/southwest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/southwest.mp3"
+    },
+    {
+      "id": "up",
+      "name": "Up",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/up.mp3"
+    },
+    {
+      "id": "down",
+      "name": "Down",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/down.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/down.mp3"
+    },
+    {
+      "id": "left",
+      "name": "Left",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/left.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/left.mp3"
+    },
+    {
+      "id": "right",
+      "name": "Right",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/right.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/right.mp3"
+    },
+    {
+      "id": "forward",
+      "name": "Forward",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/forward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/forward.mp3"
+    },
+    {
+      "id": "backward",
+      "name": "Backward",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/backward.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/backward.mp3"
+    },
+    {
+      "id": "center",
+      "name": "Center",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/directions/center.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/directions/center.mp3"
+    }
+  ]
+}

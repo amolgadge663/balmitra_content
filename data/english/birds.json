@@ -1,0 +1,300 @@
+{
+  "category": "birds",
+  "language": "english",
+  "items": [
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/sparrow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/sparrow.mp3"
+    },
+    {
+      "id": "crow",
+      "name": "Crow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/crow.mp3"
+    },
+    {
+      "id": "parrot",
+      "name": "Parrot",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/parrot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/parrot.mp3"
+    },
+    {
+      "id": "peacock",
+      "name": "Peacock",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/peacock.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/peacock.mp3"
+    },
+    {
+      "id": "pigeon",
+      "name": "Pigeon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pigeon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/pigeon.mp3"
+    },
+    {
+      "id": "eagle",
+      "name": "Eagle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/eagle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/eagle.mp3"
+    },
+    {
+      "id": "owl",
+      "name": "Owl",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/owl.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/owl.mp3"
+    },
+    {
+      "id": "duck",
+      "name": "Duck",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/duck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/duck.mp3"
+    },
+    {
+      "id": "hen",
+      "name": "Hen",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/hen.mp3"
+    },
+    {
+      "id": "rooster",
+      "name": "Rooster",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/rooster.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/rooster.mp3"
+    },
+    {
+      "id": "swan",
+      "name": "Swan",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/swan.mp3"
+    },
+    {
+      "id": "kingfisher",
+      "name": "Kingfisher",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kingfisher.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/kingfisher.mp3"
+    },
+    {
+      "id": "woodpecker",
+      "name": "Woodpecker",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/woodpecker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/woodpecker.mp3"
+    },
+    {
+      "id": "vulture",
+      "name": "Vulture",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/vulture.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/vulture.mp3"
+    },
+    {
+      "id": "falcon",
+      "name": "Falcon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/falcon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/falcon.mp3"
+    },
+    {
+      "id": "flamingo",
+      "name": "Flamingo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/flamingo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/flamingo.mp3"
+    },
+    {
+      "id": "crane",
+      "name": "Crane",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crane.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/crane.mp3"
+    },
+    {
+      "id": "heron",
+      "name": "Heron",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/heron.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/heron.mp3"
+    },
+    {
+      "id": "stork",
+      "name": "Stork",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/stork.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/stork.mp3"
+    },
+    {
+      "id": "cuckoo",
+      "name": "Cuckoo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cuckoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/cuckoo.mp3"
+    },
+    {
+      "id": "bulbul",
+      "name": "Bulbul",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/bulbul.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/bulbul.mp3"
+    },
+    {
+      "id": "myna",
+      "name": "Myna",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/myna.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/myna.mp3"
+    },
+    {
+      "id": "hornbill",
+      "name": "Hornbill",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hornbill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/hornbill.mp3"
+    },
+    {
+      "id": "ibis",
+      "name": "Ibis",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ibis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/ibis.mp3"
+    },
+    {
+      "id": "lapwing",
+      "name": "Lapwing",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lapwing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/lapwing.mp3"
+    },
+    {
+      "id": "kite",
+      "name": "Kite",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kite.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/kite.mp3"
+    },
+    {
+      "id": "tern",
+      "name": "Tern",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/tern.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/tern.mp3"
+    },
+    {
+      "id": "gull",
+      "name": "Seagull",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/gull.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/gull.mp3"
+    },
+    {
+      "id": "albatross",
+      "name": "Albatross",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/albatross.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/albatross.mp3"
+    },
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/penguin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/penguin.mp3"
+    },
+    {
+      "id": "ostrich",
+      "name": "Ostrich",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ostrich.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/ostrich.mp3"
+    },
+    {
+      "id": "emu",
+      "name": "Emu",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/emu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/emu.mp3"
+    },
+    {
+      "id": "quail",
+      "name": "Quail",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/quail.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/quail.mp3"
+    },
+    {
+      "id": "partridge",
+      "name": "Partridge",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/partridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/partridge.mp3"
+    },
+    {
+      "id": "pheasant",
+      "name": "Pheasant",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pheasant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/pheasant.mp3"
+    },
+    {
+      "id": "finch",
+      "name": "Finch",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/finch.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/finch.mp3"
+    },
+    {
+      "id": "canary",
+      "name": "Canary",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/canary.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/canary.mp3"
+    },
+    {
+      "id": "hummingbird",
+      "name": "Hummingbird",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hummingbird.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/hummingbird.mp3"
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swift.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/swift.mp3"
+    },
+    {
+      "id": "swallow",
+      "name": "Swallow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swallow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/swallow.mp3"
+    },
+    {
+      "id": "lark",
+      "name": "Lark",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/lark.mp3"
+    },
+    {
+      "id": "nightingale",
+      "name": "Nightingale",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/nightingale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/nightingale.mp3"
+    },
+    {
+      "id": "magpie",
+      "name": "Magpie",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/magpie.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/magpie.mp3"
+    },
+    {
+      "id": "raven",
+      "name": "Raven",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/raven.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/raven.mp3"
+    },
+    {
+      "id": "jackdaw",
+      "name": "Jackdaw",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/jackdaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/jackdaw.mp3"
+    },
+    {
+      "id": "cockatoo",
+      "name": "Cockatoo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cockatoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/cockatoo.mp3"
+    },
+    {
+      "id": "macaw",
+      "name": "Macaw",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/macaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/macaw.mp3"
+    },
+    {
+      "id": "toucan",
+      "name": "Toucan",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/toucan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/toucan.mp3"
+    },
+    {
+      "id": "lorikeet",
+      "name": "Lorikeet",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lorikeet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/birds/lorikeet.mp3"
+    }
+  ]
+}

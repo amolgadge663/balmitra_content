@@ -1,0 +1,156 @@
+{
+  "category": "sports",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "cricket",
+      "name": "क्रिकेट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cricket.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/cricket.mp3"
+    },
+    {
+      "id": "football",
+      "name": "फुटबॉल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/football.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/football.mp3"
+    },
+    {
+      "id": "basketball",
+      "name": "बास्केटबॉल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/basketball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/basketball.mp3"
+    },
+    {
+      "id": "volleyball",
+      "name": "वॉलीबॉल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/volleyball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/volleyball.mp3"
+    },
+    {
+      "id": "badminton",
+      "name": "बैडमिंटन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/badminton.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/badminton.mp3"
+    },
+    {
+      "id": "tennis",
+      "name": "टेनिस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/tennis.mp3"
+    },
+    {
+      "id": "hockey",
+      "name": "हॉकी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/hockey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/hockey.mp3"
+    },
+    {
+      "id": "swimming",
+      "name": "तैराकी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/swimming.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/swimming.mp3"
+    },
+    {
+      "id": "running",
+      "name": "दौड़ना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/running.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/running.mp3"
+    },
+    {
+      "id": "cycling",
+      "name": "साइकिलिंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/cycling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/cycling.mp3"
+    },
+    {
+      "id": "boxing",
+      "name": "मुक्केबाज़ी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/boxing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/boxing.mp3"
+    },
+    {
+      "id": "wrestling",
+      "name": "कुश्ती",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/wrestling.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/wrestling.mp3"
+    },
+    {
+      "id": "kabaddi",
+      "name": "कबड्डी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kabaddi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/kabaddi.mp3"
+    },
+    {
+      "id": "kho_kho",
+      "name": "खो-खो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/kho_kho.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/kho_kho.mp3"
+    },
+    {
+      "id": "chess",
+      "name": "शतरंज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/chess.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/chess.mp3"
+    },
+    {
+      "id": "carrom",
+      "name": "कैरम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/carrom.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/carrom.mp3"
+    },
+    {
+      "id": "table_tennis",
+      "name": "टेबल टेनिस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/table_tennis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/table_tennis.mp3"
+    },
+    {
+      "id": "archery",
+      "name": "तीरंदाज़ी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/archery.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/archery.mp3"
+    },
+    {
+      "id": "gymnastics",
+      "name": "जिम्नास्टिक्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/gymnastics.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/gymnastics.mp3"
+    },
+    {
+      "id": "skating",
+      "name": "स्केटिंग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/skating.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/skating.mp3"
+    },
+    {
+      "id": "horse_riding",
+      "name": "घुड़सवारी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/horse_riding.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/horse_riding.mp3"
+    },
+    {
+      "id": "polo",
+      "name": "पोलो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/polo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/polo.mp3"
+    },
+    {
+      "id": "golf",
+      "name": "गोल्फ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/golf.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/golf.mp3"
+    },
+    {
+      "id": "baseball",
+      "name": "बेसबॉल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/baseball.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/baseball.mp3"
+    },
+    {
+      "id": "rugby",
+      "name": "रग्बी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/sports/rugby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/sports/rugby.mp3"
+    }
+  ]
+}

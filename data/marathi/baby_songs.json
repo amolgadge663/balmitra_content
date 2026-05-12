@@ -1,0 +1,377 @@
+{
+  "category": "baby_songs",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "twinkle_twinkle",
+      "name": "चमचम चांदणी",
+      "detail": "चमचम चांदणी छोटी, काय आहेस तू?\nआकाशात उंच उंच, हिऱ्यासारखी तू.\nचमचम चांदणी छोटी, काय आहेस तू?\n\nजेव्हा सूर्य मावळतो, अंधार होतो सगळीकडे,\nतेव्हा तू उगवतेस, चमचम करतेस जिकडेतिकडे.\nचमचम चांदणी छोटी, काय आहेस तू?\n\nरात्रीच्या आकाशात, लुकलुक करतेस तू,\nमाझ्या खिडकीतून मला, पाहत असतेस तू.\nचमचम चांदणी छोटी, काय आहेस तू?\n\nसकाळी सूर्य येईपर्यंत, तू जागी राहतेस,\nबाळांना स्वप्न देतेस, हळूवार गातेस.\nचमचम चांदणी छोटी, काय आहेस तू?",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/twinkle_twinkle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/twinkle_twinkle.mp3"
+    },
+    {
+      "id": "johny_johny",
+      "name": "जॉनी जॉनी हो का बाबा",
+      "detail": "जॉनी जॉनी! हो का बाबा!\nसाखर खाल्लीस? नाही बाबा!\nखोटं बोलतोस? नाही बाबा!\nतोंड उघड! हा हा हा!\n\nजॉनी जॉनी! हो का बाबा!\nअभ्यास केलास? हो बाबा!\nदात घासलेस? हो बाबा!\nशाब्बास जॉनी! हा हा हा!\n\nजॉनी जॉनी! हो का बाबा!\nदूध प्यालास? हो बाबा!\nहात धुतलेस? हो बाबा!\nकिती छान जॉनी! हा हा हा!\n\nजॉनी जॉनी, नीट ऐक,\nखरंच बोलायचं, खोटं नकोच कधी.\nहात धुवून जेवायचं,\nचांगलं बाळ व्हायचं!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/johny_johny.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/johny_johny.mp3"
+    },
+    {
+      "id": "baa_baa_black_sheep",
+      "name": "मेंढी मेंढी काळी मेंढी",
+      "detail": "मेंढी मेंढी काळी मेंढी,\nतुझ्याकडे लोकर आहे का?\nहो साहेब, हो साहेब,\nतीन पिशव्या भरून आहे!\n\nएक मालकासाठी,\nएक मालकिणीसाठी,\nआणि एक त्या छोट्या बाळासाठी,\nजो गल्लीच्या टोकाला राहतो!\n\nमेंढी मेंढी काळी मेंढी,\nधन्यवाद तुझ्या लोकरीसाठी,\nउबदार स्वेटर विणू,\nथंडीत बाळाला घालू!\n\nमेंढी तुझी लोकर मऊ,\nमेंढी तुझी लोकर सुंदर,\nसगळ्यांना आवडते,\nतुझी काळी लोकर!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baa_baa_black_sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/baa_baa_black_sheep.mp3"
+    },
+    {
+      "id": "humpty_dumpty",
+      "name": "हम्प्टी डम्प्टी",
+      "detail": "हम्प्टी डम्प्टी भिंतीवर बसला,\nहम्प्टी डम्प्टी खाली पडला!\nराजाचे सगळे घोडे,\nराजाचे सगळे सैनिक,\nहम्प्टीला परत जोडू शकले नाहीत!\n\nहम्प्टी डम्प्टी झाडावर चढला,\nहम्प्टी डम्प्टी गुडघ्यावर पडला!\nराजाचे सगळे घोडे,\nराजाचे सगळे सैनिक,\nहम्प्टीला उठायला मदत करत होते!\n\nछोट्या हम्प्टी, सांभाळून रहा,\nउंच भिंतीवर बसू नकोस कधी.\nजमिनीवर सुरक्षित खेळ,\nमग तू पडणार नाहीस कधी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/humpty_dumpty.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/humpty_dumpty.mp3"
+    },
+    {
+      "id": "jack_jill",
+      "name": "जॅक आणि जिल",
+      "detail": "जॅक आणि जिल डोंगर चढले,\nपाण्याची बादली आणायला.\nजॅक पडला, डोकं फुटलं,\nजिलही मागून पडली!\n\nजॅक उठला, घरी पळाला,\nजितक्या जोरात शक्य होतं.\nअंथरुणात जाऊन झोपला,\nऔषध लावून डोक्याला.\n\nजिल आली आणि हसली,\nजॅकची पट्टी पाहून.\nआई रागावली जिलवर,\nजॅकला पाडलं म्हणून.\n\nजॅक आणि जिल आता शिकले,\nहळूहळू डोंगर चढायचे.\nहात धरून पायऱ्या उतरायच्या,\nपाणी नीट आणायचे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_jill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/jack_jill.mp3"
+    },
+    {
+      "id": "row_your_boat",
+      "name": "नाव वल्हवा",
+      "detail": "वल्हव वल्हव नाव तुझी,\nहळूहळू नदीत.\nहसत हसत हसत हसत,\nजीवन आहे स्वप्न!\n\nवल्हव वल्हव नाव तुझी,\nवाऱ्याच्या झुळूकीत.\nमासा दिसला जर तुला,\nहाय म्हण त्याला!\n\nवल्हव वल्हव नाव तुझी,\nकिनाऱ्याकडे हळू.\nसिंह दिसला जर तुला,\nडरकाळी फोड तू!\n\nवल्हव वल्हव नाव तुझी,\nसमुद्राच्या लाटेत.\nमगर दिसला जर तुला,\nवेगाने पळव तू!\n\nवल्हव वल्हव नाव तुझी,\nहसू येईपर्यंत.\nमित्रांसोबत गाणं गा,\nआनंद वाटून घे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/row_your_boat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/row_your_boat.mp3"
+    },
+    {
+      "id": "mary_lamb",
+      "name": "मेरीची कोकरू",
+      "detail": "मेरीची एक कोकरू होती,\nबर्फासारखी पांढरी.\nमेरी जिथे जिथे जायची,\nकोकरू तिच्या मागे जायची.\n\nएक दिवस शाळेत गेली,\nकोकरूही मागे आली.\nमुलांनी खूप हसवलं,\nकोकरू पाहून खेळलं.\n\nशिक्षकाने कोकरूला बाहेर काढलं,\nपण कोकरू जवळच थांबलं.\nमेरी बाहेर येईपर्यंत,\nकोकरू धीराने वाट पाहिलं.\n\nमुलांनी विचारलं शिक्षकाला,\nकोकरू का आवडते मेरीला?\nशिक्षक म्हणाले हसून,\nमेरी आवडते कोकरूलाही!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mary_lamb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/mary_lamb.mp3"
+    },
+    {
+      "id": "wheels_bus",
+      "name": "बसचे चाक गरगर फिरते",
+      "detail": "बसची चाकं गरगर फिरतात,\nगरगर गरगर, गरगर गरगर.\nबसची चाकं गरगर फिरतात,\nदिवसभर गावभर!\n\nबसचे दरवाजे उघड-बंद होतात,\nउघड बंद, उघड बंद.\nबसचे दरवाजे उघड-बंद होतात,\nदिवसभर गावभर!\n\nबसचे वायपर स्विश स्विश करतात,\nस्विश स्विश, स्विश स्विश.\nबसचे वायपर स्विश स्विश करतात,\nदिवसभर गावभर!\n\nबसचा हॉर्न पी पी वाजतो,\nपी पी, पी पी.\nबसचा हॉर्न पी पी वाजतो,\nदिवसभर गावभर!\n\nबसमधली बाळं रडतात वा वा,\nवा वा, वा वा.\nआया म्हणतात शू शू शू,\nदिवसभर गावभर!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/wheels_bus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/wheels_bus.mp3"
+    },
+    {
+      "id": "old_macdonald",
+      "name": "जुना मॅकडोनाल्ड शेतकरी",
+      "detail": "म्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!\nत्याच्या शेतात एक गाय होती,\nई-आय-ई-आय-ओ!\nगाय म्हणे हंबा हंबा,\nइकडे हंबा, तिकडे हंबा,\nसगळीकडे हंबा हंबा.\nम्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!\n\nम्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!\nत्याच्या शेतात एक बदक होतं,\nई-आय-ई-आय-ओ!\nबदक म्हणे कॅक कॅक,\nइकडे कॅक, तिकडे कॅक,\nसगळीकडे कॅक कॅक.\nम्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!\n\nम्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!\nत्याच्या शेतात एक मेंढी होती,\nई-आय-ई-आय-ओ!\nमेंढी म्हणे बे बे बे,\nइकडे बे, तिकडे बे,\nसगळीकडे बे बे.\nम्हातारा मॅकडोनाल्ड शेतकरी होता,\nई-आय-ई-आय-ओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/old_macdonald.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/old_macdonald.mp3"
+    },
+    {
+      "id": "itsy_bitsy",
+      "name": "छोटी कोळी चढे वर",
+      "detail": "छोटी कोळी पाईपवर चढली,\nपाऊस आला आणि कोळीला खाली पाडलं.\nसूर्य आला आणि सगळं पाणी सुकवलं,\nमग छोटी कोळी परत वर चढली!\n\nछोटी कोळी भिंतीवर चढली,\nझाडू आला आणि कोळीला खाली पाडलं.\nझाडू गेला आणि कोळीने विश्रांती घेतली,\nमग छोटी कोळी परत भिंतीवर चढली!\n\nछोटी कोळी झाडावर चढली,\nबर्फ पडला आणि कोळीचे पाय गारठले.\nसूर्य आला आणि कोळीचे पाय गरम केले,\nमग छोटी कोळी परत झाडावर चढली!\n\nकधीही, कधीही हार मानू नकोस,\nछोट्या कोळीसारखं पुन्हा पुन्हा प्रयत्न कर!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/itsy_bitsy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/itsy_bitsy.mp3"
+    },
+    {
+      "id": "five_little_ducks",
+      "name": "पाच छोटी बदके",
+      "detail": "पाच छोटी बदकं एक दिवशी बाहेर गेली,\nडोंगरावरून खूप दूर गेली.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपण फक्त चार बदकं परत आली.\n\nचार छोटी बदकं एक दिवशी बाहेर गेली,\nडोंगरावरून खूप दूर गेली.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपण फक्त तीन बदकं परत आली.\n\nतीन छोटी बदकं एक दिवशी बाहेर गेली,\nडोंगरावरून खूप दूर गेली.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपण फक्त दोन बदकं परत आली.\n\nदोन छोटी बदकं एक दिवशी बाहेर गेली,\nडोंगरावरून खूप दूर गेली.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपण फक्त एक बदक परत आलं.\n\nएक छोटं बदक एक दिवशी बाहेर गेलं,\nडोंगरावरून खूप दूर गेलं.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपण एकही बदक परत आलं नाही.\n\nदुःखी आई बदक बाहेर गेली,\nडोंगरावरून मोठ्याने ओरडली.\nआई बदक म्हणाली कॅक कॅक कॅक कॅक!\nपाचही बदकं धावत आली!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_ducks.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/five_little_ducks.mp3"
+    },
+    {
+      "id": "head_shoulders",
+      "name": "डोके, खांदे, गुडघे, पाय",
+      "detail": "डोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\nडोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\nआणि डोळे, कान, तोंड, नाक,\nडोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\n\nडोके, खांदे, गुडघे, पाय,\nटाळी वाजव, नाकाला लाव!\nडोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\nआणि डोळे, कान, तोंड, नाक,\nडोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\n\nआता थोडं वेगात करू,\nवेगात, वेगात!\nडोके, खांदे, गुडघे, पाय,\nगुडघे आणि पाय!\nशरीराचे अवयव शिकू सगळे,\nगात गात हसू आम्ही!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/head_shoulders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/head_shoulders.mp3"
+    },
+    {
+      "id": "if_happy",
+      "name": "आनंदी असशील तर टाळ्या वाजव",
+      "detail": "आनंदी असशील तर टाळी वाजव!\n(टाळी टाळी)\nआनंदी असशील तर टाळी वाजव!\n(टाळी टाळी)\nआनंदी असशील तर, दाखवायची इच्छा असेल तर,\nआनंदी असशील तर टाळी वाजव!\n(टाळी टाळी)\n\nआनंदी असशील तर पाय आपट!\n(धप धप)\nआनंदी असशील तर पाय आपट!\n(धप धप)\nआनंदी असशील तर, दाखवायची इच्छा असेल तर,\nआनंदी असशील तर पाय आपट!\n(धप धप)\n\nआनंदी असशील तर म्हण 'हुर्रे'!\n(हुर्रे!)\nआनंदी असशील तर म्हण 'हुर्रे'!\n(हुर्रे!)\nआनंदी असशील तर, दाखवायची इच्छा असेल तर,\nआनंदी असशील तर म्हण 'हुर्रे'!\n(हुर्रे!)\n\nआनंदी असशील तर तिन्ही कर!\n(टाळी, धप, हुर्रे!)\nआनंदी असशील तर तिन्ही कर!\n(टाळी, धप, हुर्रे!)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/if_happy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/if_happy.mp3"
+    },
+    {
+      "id": "good_morning",
+      "name": "सुप्रभात गाणे",
+      "detail": "सुप्रभात सुप्रभात,\nनवीन दिवस आला आहे!\nसूर्य उगवला, पक्षी गातायत,\nउठ उठ माझ्या सोनुल्या.\n\nदात घास, तोंड धू,\nकेस नीट विंचरून घे.\nदूध पी, फळ खा,\nदेवाला नमस्कार करून घे.\n\nदप्तर घे, शाळेत जा,\nनवीन काहीतरी शीक आज.\nआई हसते, बाबा ओवाळतात,\nमित्र वाट पाहताय तुझी.\n\nसुप्रभात सुप्रभात,\nजग उजळून निघालं आहे.\nप्रेमानेच दिवस सुरू होतो,\nसुप्रभात, तुझ्यावर प्रेम आहे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/good_morning.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/good_morning.mp3"
+    },
+    {
+      "id": "rain_rain_go_away",
+      "name": "पाऊस पाऊस जा रे जा",
+      "detail": "पाऊस पाऊस जा रे जा,\nदुसऱ्या दिवशी ये रे ये.\nछोट्या जॉनीला खेळायचं आहे,\nपाऊस पाऊस जा रे जा!\n\nपाऊस पाऊस जा रे जा,\nकधीतरी दुसऱ्या दिवशी ये.\nसगळ्या मुलांना खेळायचं आहे,\nपाऊस पाऊस जा रे जा!\n\nपाऊस पाऊस जोरात पड,\nपण आमच्या गावावर नको.\nगवत हिरवं वाढू दे,\nपण सूर्य आम्हाला दे!\n\nपाऊस पाऊस जा रे जा,\nरविवारी परत ये.\nआज सोमवार, शाळा आहे,\nसूर्याखाली खेळू दे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rain_rain_go_away.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/rain_rain_go_away.mp3"
+    },
+    {
+      "id": "yere_yere_pavsa",
+      "name": "ये रे ये रे पावसा",
+      "detail": "ये रे ये रे पावसा, तुला देतो पैसा!\nपैसा झाला खोटा, पाऊस आला मोठा!\n\nये रे ये रे पावसा, झाडं तुझी वाट पाहतात,\nमाती ओली ओली होते, शेतकरी हसतात!\n\nये रे ये रे पावसा, बाळं बाहेर धावतात,\nखड्ड्यात उड्या मारतात, हसत हसत नाचतात!\n\nये रे ये रे पावसा, शेतं बहरून येतात,\nभात गहू पिकतो, फुलं उगवून येतात!\n\nये रे ये रे पावसा, नद्या भरून वाहतात,\nमोर पिसारा फुलवतो, बेडूक डराव डराव!\n\nये रे ये रे पावसा, धरतीला तू आशीर्वाद!\nधन्य धन्य तुझं येणं, तू आमचा प्राणनाथ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/yere_yere_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/yere_yere_pavsa.mp3"
+    },
+    {
+      "id": "chanda_mama",
+      "name": "चंदा मामा ये रे",
+      "detail": "चंदा मामा ये रे ये रे,\nदुधाचा घागर घे रे घे रे!\n\nचांदण्यात खेळू आम्ही,\nगोड गाणे गाऊ आम्ही!\n\nबाळ दमलं, बाळाला झोप आली,\nचंदा मामा गाणं म्हण त्याला!\n\nएक दोन तीन तारे मोज,\nबाळाला गोष्ट सांग रोज!\n\nबाळ हसला तू ही हस,\nप्रेमळ चांदणं तू बरस!\n\nमामा तुझं घर कुठे आहे,\nआकाशात उंच उंच जाहे!\n\nचंदा मामा दूर जाऊ नकोस,\nखिडकीतून लुक लुक तू पाहा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/chanda_mama.mp3"
+    },
+    {
+      "id": "aala_paus",
+      "name": "आला पाऊस आला",
+      "detail": "आला पाऊस आला, वाऱ्यासवे आला!\nझाडं डोलू लागली, पाने टपटप झाली.\n\nछत्री घे रे छत्री, रेनकोट घे रे घाल,\nपाण्याच्या ओहोळात, कागदाची नाव चाल!\n\nबेडूक उड्या मारतात, तळ्याच्या काठावर,\nमोर पिसारा फुलवतो, हिरव्यागार झाडावर!\n\nशेतकरी हसतात, शेतं हिरवीगार होतात,\nप्रत्येक थेंब म्हणजे, देवाचा आशीर्वाद होतात.\n\nआला पाऊस आला, आनंद बरसू लागला!\nधन्यवाद रे पावसा, तू आम्हाला जगवतोस!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aala_paus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/aala_paus.mp3"
+    },
+    {
+      "id": "chittu_chirri",
+      "name": "चिट्टू चिर्री उडे वर",
+      "detail": "चिट्टू चिर्री चिमणी छोटी,\nआकाशात उंच उडते.\nचिव चिव चिव गाणं गाते,\nछोट्या पायांनी उड्या मारते.\n\nएक काडी, एक गवत,\nघरटं बांधते झाडावर.\nप्रेमाने अंडी उबवते,\nपिल्लांची वाट पाहते.\n\nपिल्लं लहान मऊ मऊ,\nचोच उघडून मागतात खाऊ.\nआई बाबा दोघंही उडतात,\nपिल्लांसाठी अन्न आणतात.\n\nचिट्टू चिर्री चिमणी शिकव,\nकसं प्रेम करायचं, कसं द्यायचं.\nआकाशात मोकळी उडू दे,\nतुझं घरटं वरती बांधू दे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chittu_chirri.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/chittu_chirri.mp3"
+    },
+    {
+      "id": "lakdi_ki_kathi",
+      "name": "लाकडाचा घोडा",
+      "detail": "लाकडाची काठी, काठीवर घोडा,\nघोड्यावर बसला राजा छोटा!\nधाडसाने पुढे निघाला,\nगावातून फेरफटका मारला.\n\nटप टप टप घोडा धावतो,\nशेतांमधून रस्त्यातून.\nराजा हात हलवतो प्रत्येकाला,\nप्रेमानेच सगळ्यांना भेटतो.\n\nघोड्याला दगडांची भीती नाही,\nघोड्याला पावसाची भीती नाही.\nलाकडाची काठी, काठीवर घोडा,\nथकत नाही, थांबत नाही!\n\nमुलं खेळतात घोड्यासवे,\nगावच्या गल्ली गल्लीतून.\nलाकडाची काठी, काठीवर घोडा,\nप्रत्येक मुलाला आवडता खरा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/lakdi_ki_kathi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/lakdi_ki_kathi.mp3"
+    },
+    {
+      "id": "mera_naam_chu_chu",
+      "name": "माझे नाव चू चू",
+      "detail": "माझं नाव चू चू,\nमी एक छोटा उंदीर.\nघरात एका छोट्या बिळात,\nमी राहतो, भिंतीच्या कोपऱ्यात.\n\nचीज आणि तुकडे खातो,\nरात्री नाचत नाचत फिरतो.\nमांजर आली की पळतो,\nबिळात लपून बसतो.\n\nचू चू चू चू, धाव धाव धाव,\nस्वयंपाकघरात गोल गोल.\nचू चू चू चू, लप लप लप,\nदरवाज्याच्या मागे गुपचूप.\n\nमाझं नाव चू चू,\nचलाख छोटा उंदीर.\nचिंव चिंव नाचत खेळतो,\nआनंदी घरात राहतो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mera_naam_chu_chu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/mera_naam_chu_chu.mp3"
+    },
+    {
+      "id": "nani_teri_morni",
+      "name": "नानीची मोरणी",
+      "detail": "आजीची मोरणी सुंदर होती,\nमोरणीने अंडी घातली.\nकोणीतरी आला, अंडी चोरली,\nआजी लगेच धावत आली.\n\nमोरणी रडली, आजी चिंतेत,\nबागभर शोधलं सगळीकडे.\nविहीरीमागे, झाडाखाली,\nपण अंडी कुठेच नाही मिळाली.\n\nदुसऱ्या सकाळी लहानसा आवाज,\nआजीच्या शेडच्या आत आला.\nअंडी फुटली, पिल्लं सुखरूप,\nमऊ गवतात गुडूप गुडूप!\n\nआजी हसली, मोरणी नाचली,\nपिसं चमकली उन्हात.\nपिल्लं इथे तिथे धावली,\nप्रत्येक हृदयात आनंद भरला!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nani_teri_morni.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/nani_teri_morni.mp3"
+    },
+    {
+      "id": "machhli_jal_ki_rani",
+      "name": "माशी पाण्याची राणी",
+      "detail": "मासी पाण्याची राणी आहे,\nपाणी तिचं जीवन आहे.\nहात लावला तर पळते,\nझटकन दूर जाऊन बसते.\n\nचांदीसारखी चमकणारी खवले,\nडोळे लहान चमचम करणारे.\nछोटे पंख फडफड करतात,\nसकाळच्या उन्हात चमचम करतात.\n\nनदीत, तळ्यात, समुद्रात,\nनिळ्या खोल पाण्यात.\nमासे आनंदाने पोहतात,\nमुक्त मुक्त असतात.\n\nमासी पाण्याची राणी आहे,\nकधी तिला त्रास देऊ नकोस.\nनद्या स्वच्छ निळ्या ठेव,\nमासी सदा हसत राहू दे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/machhli_jal_ki_rani.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/machhli_jal_ki_rani.mp3"
+    },
+    {
+      "id": "chanda_mama_door_ke",
+      "name": "चंदा मामा दूर के",
+      "detail": "चंदा मामा दूर के,\nगोड पदार्थ बनवतोस तू.\nमोठ्या ताटात पुरी,\nबाळाला छोट्या वाटीत दे तू.\n\nचंदा मामा खाली ये,\nबाळाला गोष्ट सांग एक छान.\nपाळणा हळूहळू हलव,\nरात्रीचा वारा शांत शांत.\n\nचांदीचे तारे लुकलुक करतात,\nमोज एक, दोन, तीन, चार.\nबाळाचे डोळे जड होतात,\nस्वप्नं दारात वाट पाहतात.\n\nचंदा मामा दूर के,\nधन्यवाद सुंदर रात्रीसाठी.\nशुभरात्री चांदोबा, शुभरात्री तारे,\nझोप बाळा घट्ट मिठीत घे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama_door_ke.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/chanda_mama_door_ke.mp3"
+    },
+    {
+      "id": "ek_do_teen",
+      "name": "एक दोन तीन",
+      "detail": "एक, दोन, तीन, चार, पाच,\nसहा, सात, आठ, नऊ, दहा!\nअंगठा दाखव, बोटं दाखव,\nसगळी मोज परत परत.\n\nअकरा, बारा, तेरा, चौदा, पंधरा,\nसोळा, सतरा, अठरा, एकोणीस, वीस!\nतालावर टाळी वाजव,\nमोजणं आहे मजेशीर.\n\nटोपलीतली सफरचंदं मोज,\nआकाशातले तारे मोज.\nतुझे मित्र किती आहेत मोज,\nउडणारे पक्षी किती मोज.\n\nएक, दोन, तीन, चार, पाच,\nआकडे बुद्धी देतात खरी.\nगात गात म्हणू चला,\nप्रत्येक आकडा बक्षीस खरा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ek_do_teen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/ek_do_teen.mp3"
+    },
+    {
+      "id": "hathi_raja",
+      "name": "हत्ती राजा कुठे चाललात",
+      "detail": "हत्ती राजा हत्ती राजा,\nकुठे चाललात आज?\nलांबलचक सोंड हलवत,\nऐटीत चाललात खास.\n\n'जंगलात मी चाललो आहे,\nपानं फुलं आणायला.\nसोंडेने पाणी पितो,\nतासनतास न्हातो मी.'\n\nहत्ती राजा मोठा बळकट,\nउंच झाडापेक्षाही उंच.\nकान हलतात, सोंड झुलते,\nराजा आनंदात बसतो.\n\nमुलांना आवडतो हत्ती राजा,\nरुंद पाठीवर बसून जातात.\nहत्ती सोंड हलवतो,\nतुताsरी वाजवत चालतो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hathi_raja.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/hathi_raja.mp3"
+    },
+    {
+      "id": "pooja_tulsi",
+      "name": "तुळशीची पूजा",
+      "detail": "तुळशी माते तुळशी माते,\nतुझ्या पानांना नमन करतो.\nसकाळ संध्याकाळ रोज,\nफुलं आणि प्रार्थना देतो.\n\nतुपाचा दिवा लावू,\nघंटी वाजवू हळूच.\nसाखर अर्पण करू,\nपाणी शुद्ध अर्पण करू.\n\nतुळशी तू औषधी,\nतुळशी तू पवित्र.\nकुटुंबाला आरोग्य दे,\nघराला सुरक्षितता दे.\n\nतुळशी माते तुळशी माते,\nघराला शांती दे.\nसर्वांना सुख असू दे,\nसर्व दुःख नष्ट होऊ दे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pooja_tulsi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/pooja_tulsi.mp3"
+    },
+    {
+      "id": "nanachi_goshta",
+      "name": "नानाची गोष्ट",
+      "detail": "नाना नाना गोष्ट सांग,\nआमच्या शेजारी बस.\nपूर्वीच्या शूर राजांची,\nजंगलातल्या प्राण्यांची.\n\nसिंह बळकट गोष्ट सांग,\nहुशार कावळ्याची सांग.\nहळू चालणाऱ्या कासवाची,\nसप्तरंगी इंद्रधनुष्याची.\n\nमुलं पायांजवळ बसतात,\nडोळे विस्फारून ऐकतात.\nप्रत्येक गोष्टीत एक शिकवण,\nप्रत्येक शिकवण मार्गदर्शन.\n\nनाना नाना गोष्ट सांग,\nतारे दिसेपर्यंत सांग.\nसत्य आणि धाडसाची स्वप्नं दे,\nयोग्य मार्ग आम्हाला दे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nanachi_goshta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/nanachi_goshta.mp3"
+    },
+    {
+      "id": "balgeet_pavsa",
+      "name": "बालगीत पाऊस",
+      "detail": "टप टप टप टप पाऊस पडतो,\nजमीन ओली ओली होते.\nप्रत्येक थेंब टिप टिप करतो,\nकिती सुंदर आवाज करतो.\n\nबेडूक उड्या मारतात डराव डराव,\nतळ्यात आणि गवतावर.\nमुलं हसतात खड्ड्यात उडी मारतात,\nपाहतात उडणारे ढग सगळे.\n\nएक कागद वाकव छान छान,\nछोटी कागदाची नाव बनव.\nछोट्या ओहोळात सोड तिला,\nतुझी नाव तरंगताना पाहा.\n\nटप टप टप टप पाऊस पडतो,\nधरती हिरवी हिरवी हसते.\nप्रत्येक फूल थेंब पितो,\nकिती आनंदी दृश्य दिसते!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balgeet_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/balgeet_pavsa.mp3"
+    },
+    {
+      "id": "majha_babu",
+      "name": "माझा बाबू",
+      "detail": "माझा बाबू हसतो खेळतो,\nदिवसभर गोड हसतो.\nछोटे छोटे पाय नाचतात,\nसगळ्यात गोड बाबू माझा.\n\nआईच्या कुशीत सुरक्षित झोपतो,\nचांदण्यांची स्वप्नं पाहतो.\nछोटी बोटं, छोटे पाय,\nगुलाबासारखं छोटं नाक.\n\nबाबा उंच उंच उडवतात,\nबाबू हसतो आकाशापर्यंत.\nआजी दूध गोड खाऊ घालते,\nआजोबा अंगाई गातात.\n\nमाझा बाबू शुद्ध उज्ज्वल,\nघराला आनंद प्रकाश देतो.\nदेव तुला रोज आशीर्वाद दे,\nबळकट मोठा नीट वाढ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/majha_babu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/majha_babu.mp3"
+    },
+    {
+      "id": "abc_song",
+      "name": "अ ब क गाणे",
+      "detail": "अ ब क ड, ई फ ज,\nह इ ज क ल म न.\nओ प क र स ट,\nय व क्ष झ ज्ञ.\nआता आले मला अक्षरं,\nतूही म्हणशील माझ्यासोबत!\n\nअ म्हणजे अननस,\nब म्हणजे बदक बसतं.\nक म्हणजे कमळ फूल,\nड म्हणजे डबा भरतं.\n\nई म्हणजे ईगल पक्षी,\nफ म्हणजे फळ गोड.\nज म्हणजे जहाज मोठं,\nह म्हणजे हत्ती बोल्ड.\n\nअ ब क ड गाणं गाऊ,\nहसत नाचत एकत्र जाऊ!\nअक्षरं मिळून शब्द बनतात,\nशब्दांनी गोष्टी सांगतात!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/abc_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/abc_song.mp3"
+    },
+    {
+      "id": "butterfly_song",
+      "name": "फुलपाखराचे गाणे",
+      "detail": "फुलपाखरू फुलपाखरू, इकडेतिकडे उडते,\nरंगीबेरंगी पंख, आवाज न करता.\nगुलाबी सुंदर फुलावर बसते,\nमध गोड गोड चाखते.\n\nलाल, पिवळा, निळा, हिरवा,\nइतके सुंदर पंख कुठेच नाहीत.\nपंख पसरव, पंख उंच उंच,\nफुलपाखरू आकाशाला टेकतं.\n\nफुलातून फुलात उडते हळूच,\nसकाळच्या निळ्या आकाशाखाली.\nबागा गातात, मुलं टाळी वाजवतात,\nफुलपाखरू जवळ उडतं तेव्हा.\n\nफुलपाखरू फुलपाखरू, शिकव मला,\nसूर्यप्रकाशात नाचायचं कसं.\nफडफडू दे, खेळू दे,\nया उज्ज्वल सुंदर दिवशी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/butterfly_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/butterfly_song.mp3"
+    },
+    {
+      "id": "shapes_song",
+      "name": "आकारांचे गाणे",
+      "detail": "गोल गोल फिरतो वर्तुळ,\nकोपरा नाही, सरळ रेषा नाही.\nसूर्यासारखा, चंद्रासारखा,\nवर्तुळ किती सुंदर आहे.\n\nचौरसाला चार समान बाजू,\nचार कोपरे, नीटनेटके.\nखिडक्या, पुस्तकं, फोटो फ्रेम,\nचौरस सगळीकडे दिसतात.\n\nत्रिकोणाला तीन कोपरे,\nतीन बाजू त्याला बळकट करतात.\nपर्वत, छप्पर, आइसक्रीम कोन,\nत्रिकोण दिसतो प्रत्येकात.\n\nआयत लांब आणि रुंद,\nचार कोपरे, दोन लांब बाजू.\nदरवाजे, टेबलं, पुस्तकं, खाट,\nआयत दिसतात पाहिलं की!\n\nवर्तुळ, चौरस, त्रिकोण, आयत,\nआकार आहेत सगळीकडे.\nमाझ्यासोबत पहा आणि शीक,\nनवीन आकार सापडतील!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/shapes_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/shapes_song.mp3"
+    },
+    {
+      "id": "colors_song",
+      "name": "रंगांचे गाणे",
+      "detail": "लाल लाल लाल सफरचंद,\nपिवळा पिवळा सूर्य असतो.\nनिळा निळा निळा समुद्र,\nहिरवे हिरवे गवत असते.\n\nकेशरी केशरी गाजर,\nजांभळा जांभळा बोर.\nगुलाबी गुलाबी फूल,\nतपकिरी तपकिरी ढोल.\n\nकाळा काळा कावळा उडतो,\nपांढरं पांढरं दूध पितो.\nप्रत्येक गोष्टीत रंग चमकतो,\nप्रत्येक रंग विचार करायला लावतो.\n\nइंद्रधनुष्यात सात रंग,\nपावसानंतर आकाशात दिसतात.\nतांबडा, केशरी, पिवळा, हिरवा,\nनिळा, पारवा, जांभळा, उंच उंच.\n\nमाझ्यासोबत रंगांचं गाणं गा,\nटाळी वाजव, नाचत जा.\nरंगीबेरंगी जग, आनंदी जग,\nचला रंगांचं गाणं शिकू!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/colors_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/colors_song.mp3"
+    },
+    {
+      "id": "baby_shark",
+      "name": "बेबी शार्क",
+      "detail": "बेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क!\n\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क!\n\nडॅडी शार्क, डू डू, डू डू डू डू,\nडॅडी शार्क, डू डू, डू डू डू डू,\nडॅडी शार्क, डू डू, डू डू डू डू,\nडॅडी शार्क!\n\nआजी शार्क, डू डू, डू डू डू डू,\nआजी शार्क, डू डू, डू डू डू डू,\nआजी शार्क, डू डू, डू डू डू डू,\nआजी शार्क!\n\nआजोबा शार्क, डू डू, डू डू डू डू,\nआजोबा शार्क, डू डू, डू डू डू डू,\nआजोबा शार्क, डू डू, डू डू डू डू,\nआजोबा शार्क!\n\nशिकारीला जाऊ, डू डू, डू डू डू डू,\nदूर पळू, डू डू, डू डू डू डू,\nसुरक्षित शेवटी, डू डू, डू डू डू डू,\nसंपलं आता!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baby_shark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/baby_shark.mp3"
+    },
+    {
+      "id": "five_little_monkeys",
+      "name": "पाच छोटी माकडे",
+      "detail": "पाच छोटी माकडं खाटेवर उड्या मारत होती,\nएक पडलं आणि डोकं आपटलं.\nआईने डॉक्टरला बोलावलं, डॉक्टर म्हणाले,\n'आता खाटेवर उड्या मारू नका!'\n\nचार छोटी माकडं खाटेवर उड्या मारत होती,\nएक पडलं आणि डोकं आपटलं.\nआईने डॉक्टरला बोलावलं, डॉक्टर म्हणाले,\n'आता खाटेवर उड्या मारू नका!'\n\nतीन छोटी माकडं खाटेवर उड्या मारत होती,\nएक पडलं आणि डोकं आपटलं.\nआईने डॉक्टरला बोलावलं, डॉक्टर म्हणाले,\n'आता खाटेवर उड्या मारू नका!'\n\nदोन छोटी माकडं खाटेवर उड्या मारत होती,\nएक पडलं आणि डोकं आपटलं.\nआईने डॉक्टरला बोलावलं, डॉक्टर म्हणाले,\n'आता खाटेवर उड्या मारू नका!'\n\nएक छोटं माकड खाटेवर उड्या मारत होतं,\nते पडलं आणि डोकं आपटलं.\nआईने डॉक्टरला बोलावलं, डॉक्टर म्हणाले,\n'सगळ्या माकडांना ताबडतोब झोपवा!'",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_monkeys.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/five_little_monkeys.mp3"
+    },
+    {
+      "id": "hickory_dickory",
+      "name": "हिकरी डिकरी डॉक",
+      "detail": "हिकरी डिकरी डॉक,\nउंदीर घड्याळावर चढला.\nघड्याळाने एक वाजवलं,\nउंदीर खाली उतरला,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nउंदीर घड्याळावर चढला.\nघड्याळाने दोन वाजवलं,\nआणि उडून आला खाली,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nउंदीर घड्याळावर चढला.\nघड्याळाने तीन वाजवलं,\nआणि पळाला बिळात,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nउंदीर घड्याळावर चढला.\nघड्याळाने चार वाजवलं,\nजमिनीवर आदळला,\nहिकरी डिकरी डॉक!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hickory_dickory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/hickory_dickory.mp3"
+    },
+    {
+      "id": "london_bridge",
+      "name": "लंडन पूल पडे",
+      "detail": "लंडन पूल पडत आहे,\nपडत आहे, पडत आहे.\nलंडन पूल पडत आहे,\nमाझ्या सुंदर राणी.\n\nलाकूड आणि चिखलाने बांधू,\nलाकूड चिखल, लाकूड चिखल.\nलाकूड आणि चिखलाने बांधू,\nमाझ्या सुंदर राणी.\n\nलाकूड चिखल वाहून जाईल,\nवाहून जाईल, वाहून जाईल.\nलाकूड चिखल वाहून जाईल,\nमाझ्या सुंदर राणी.\n\nलोखंड आणि पोलादाने बांधू,\nलोखंड पोलाद, लोखंड पोलाद.\nलोखंड आणि पोलादाने बांधू,\nमाझ्या सुंदर राणी.\n\nसोनं चांदीने बांधू चला,\nसोनं चांदी, सोनं चांदी.\nसोनं चांदीने बांधू चला,\nमाझ्या सुंदर राणी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/london_bridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/london_bridge.mp3"
+    },
+    {
+      "id": "pat_a_cake",
+      "name": "पॅट ए केक",
+      "detail": "पॅट ए केक, पॅट ए केक, बेकर माणसा,\nकेक बनव लवकरात लवकर.\nथाप थाप थाप, बीचं चिन्ह लाव,\nओव्हनमध्ये ठेव बाळासाठी आणि माझ्यासाठी!\n\nपॅट ए केक, पॅट ए केक, बेकर माणसा,\nबिस्किट बनव लवकरात लवकर.\nगोल कर, कापून टाक, गोड चिन्ह लाव,\nओव्हनमध्ये ठेव, गोड आवडता खाऊ!\n\nपॅट ए केक, पॅट ए केक, बेकर माणसा,\nपाव बनव लवकरात लवकर.\nमळ, आकार दे, प्रेमाचं चिन्ह लाव,\nआशीर्वाद दे प्रार्थना करून!\n\nबेकर बेकर, किती दयाळू तू,\nमुलांना खाऊ घालतोस तू.\nटाळी वाजवू, धन्यवाद तुला,\nगरम पाव आणि केकसाठी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pat_a_cake.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/pat_a_cake.mp3"
+    },
+    {
+      "id": "little_miss_muffet",
+      "name": "छोटी मिस मफेट",
+      "detail": "छोटी मिस मफेट एका स्टूलवर बसली,\nदूध दहीचा नाश्ता करत होती.\nतिथे आला एक मोठा कोळी,\nशेजारी येऊन बसला,\nमिस मफेट घाबरून पळाली!\n\nछोटी मिस मफेट परत आली एकदा,\nनाश्ता पूर्ण करायला आज.\nकोळी गेला, सूर्य उगवला उज्ज्वल,\nमिस मफेट हसून बसली छान.\n\nएका मैत्रीण पक्षाशी वाटलं तिने,\nशब्द न बोलता गाणं गायलं तिने.\nआता ती धाडसी, घाबरत नाही,\nशेतात, बागेत कुठल्याही प्राण्याला!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/little_miss_muffet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/little_miss_muffet.mp3"
+    },
+    {
+      "id": "jack_be_nimble",
+      "name": "जॅक चपळ आहे",
+      "detail": "जॅक चपळ आहे, जॅक वेगवान आहे,\nजॅक मेणबत्तीवरून उडी मारतो!\n\nजॅक उंच उडी, जॅक कमी उडी,\nज्योतीवरून जॅक उडी मारतो.\n\nजॅक डावीकडे, जॅक उजवीकडे,\nसंपूर्ण ताकदीने उडी मारतो.\n\nजॅक सांभाळून, जॅक दयाळू,\nसुरक्षित उडी मारणं हेच उत्तम.\n\nजॅक चपळ आहे, जॅक वेगवान आहे,\nप्रत्येक उडी एक नवीन खेळ!\n\nछोट्या मित्रांनो, चला प्रयत्न करा,\nउंच उडी मारा, आकाशाला टेका!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_be_nimble.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/jack_be_nimble.mp3"
+    },
+    {
+      "id": "star_light",
+      "name": "तारा तारा चमक माझा",
+      "detail": "तारा प्रकाश, तारा तेजस्वी,\nआज रात्री पाहिलेला पहिला तारा.\nइच्छा करेन, इच्छा करेन,\nआज रात्री पूर्ण होऊ दे.\n\nछोटा तारा, खूप उंचावर,\nआकाशात चमचम करतो.\nजुनी नवीन रहस्यं सांग मला,\nस्वप्नं कुजबूज जी खरी होतील.\n\nइच्छा कर, डोळे बंद कर,\nआकाशातले तारे मोज.\nझोपाळू रात्र खाली येते,\nतारे गावावर चमकतात.\n\nशुभरात्री तारे, शुभरात्री चंद्र,\nसकाळी सूर्य परत येईल लवकर.\nस्वप्नं वाट पाहतात उबदार घट्ट,\nतारा प्रकाश, तारा तेजस्वी, शुभरात्री!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/star_light.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/star_light.mp3"
+    },
+    {
+      "id": "ting_ting_ghanta",
+      "name": "टिंग टिंग घंटा वाजे",
+      "detail": "टिंग टिंग टिंग घंटा वाजते,\nआता उठायची वेळ आहे!\nहात ताणा, तोंड धुवा,\nअंथरूण नीट करा.\n\nटिंग टिंग टिंग शाळेची घंटा,\nदप्तर पटकन उचला.\nआई बाबांना निरोप द्या,\nपळा नाहीतर उशीर होईल.\n\nटिंग टिंग टिंग वर्गाची घंटा,\nखुर्चीवर बसा नीट.\nपुस्तक उघडा, पेन उचला,\nशिक्षकांचा आवाज ऐका.\n\nटिंग टिंग टिंग जेवणाची घंटा,\nखायला आणि खेळायला वेळ.\nप्रत्येक मित्रासोबत जेवण वाटा,\nआनंदी शाळेचा दिवस हुर्रे!\n\nटिंग टिंग टिंग घरची घंटा,\nआता घरी जायची वेळ.\nआईला मिठी, बाबांना पापी,\nसगळं सांगा जे शिकलात!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ting_ting_ghanta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/ting_ting_ghanta.mp3"
+    },
+    {
+      "id": "aai_gaan",
+      "name": "आईचे गाणे",
+      "detail": "झोप झोप माझ्या बाळा,\nआई गाणं गाते सुंदर.\nचंदा आकाशात लुकलुक,\nअंगाई अंगाई बाळा झोप.\n\nछोट्या पापण्या मऊ गोड,\nछोटी बोटं, छोटे पाय.\nआई पाळणा हलवते,\nस्वप्नांच्या देशात जायला.\n\nफुलांची स्वप्नं पाहा,\nझाडांची स्वप्नं पाहा.\nमऊ वाऱ्याची स्वप्नं,\nपवित्र देवदूतांची स्वप्नं.\n\nआईचं प्रेम उबदार खोल,\nकधीच संपत नाही ते.\nझोप झोप माझ्या बाळा,\nआई सदा इथेच असते!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aai_gaan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/aai_gaan.mp3"
+    },
+    {
+      "id": "jhopdi_jhopdi",
+      "name": "झोपडी झोपडी झोपडी",
+      "detail": "झोपडी झोपडी छोटी झोपडी,\nशेतकऱ्याच्या शेतात उभी.\nमाती गवत लाकडाची बनलेली,\nबळकट उबदार आधार.\n\nआत राहतो दयाळू शेतकरी,\nसूर्यापूर्वी उठतो तो.\nशेतं पिकवतो, गायी दूध,\nदिवसभर कष्ट करतो.\n\nपाऊस पडो, वारा वाजो,\nझोपडी धाडसाने उभी.\nशेतकऱ्याच्या कुटुंबाला आश्रय,\nआश्रय प्रेम घर सगळ्यांना.\n\nझोपडी झोपडी छोटी झोपडी,\nप्रामाणिक हातांचं घर साधं.\nतुझ्या शेतांतून आमचं अन्न,\nशेतकऱ्याला आशीर्वाद, धरतीला वंदन!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jhopdi_jhopdi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/jhopdi_jhopdi.mp3"
+    },
+    {
+      "id": "rang_birangi_duniya",
+      "name": "रंगीबेरंगी जग",
+      "detail": "रंगीबेरंगी जग आहे हे,\nकिती सुंदर आणि उज्ज्वल!\nबागेत लाल फुलं फुलतात,\nनिळं आकाश प्रकाशात चमकतं.\n\nपायाखाली हिरवं गवत,\nपिवळा सूर्यप्रकाश उबदार गोड.\nसंध्याकाळी केशरी सूर्यास्त,\nगुलाबी ढग तरंगतात छान.\n\nवेलीवर जांभळी द्राक्षं,\nएका सुंदर दिवशी पांढरे ढग.\nतपकिरी माती अन्न देते,\nकाळी रात्र थकव्याला विश्रांती.\n\nरंगीबेरंगी जग, रंगीबेरंगी जग,\nकिती तुला आवडू आम्ही.\nप्रत्येक रंग गोष्ट सांगतो,\nप्रत्येक रंग चमकून दाखवतो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rang_birangi_duniya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/rang_birangi_duniya.mp3"
+    },
+    {
+      "id": "sunny_day",
+      "name": "सुंदर उन्हाचा दिवस",
+      "detail": "सूर्य पूर्वेला उगवला,\nसोनेरी किरणं चमकतात.\nपक्षी गोड मोठ्याने गातात,\nदवबिंदूंनी फुलं उमलतात.\n\nमुलं पटकन अंथरुणातून उठतात,\nबूट घालून बाहेर धावतात.\nआकाशात पतंग उडतात,\nसायकलवरून फेरी मारतात.\n\nबागेत, पार्कात सगळीकडे,\nमित्र खेळतात हसत हसत.\nफुलपाखरू मधमाशी जातात,\nसकाळच्या प्रकाशामागे धावतात.\n\nकिती सुंदर सूर्याचा दिवस,\nउबदार आणि आनंदी भरपूर.\nधन्यवाद सूर्या, चमकण्यासाठी,\nसर्वांना आनंद देण्यासाठी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sunny_day.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/sunny_day.mp3"
+    },
+    {
+      "id": "clean_up",
+      "name": "आवरूया घर",
+      "detail": "आवरूया आवरूया, प्रत्येक जण सगळीकडे,\nआवरूया आवरूया, प्रत्येकाने वाटा उचलावा!\n\nजे खेळणं दिसेल ते उचल,\nजिथे होतं तिथे ठेव.\nपुस्तकं शेल्फवर नीट ठेव,\nस्वतःच्या हाताने कर.\n\nटेबल पुस, फरशी झाडून घे,\nकपाट बंद कर, दरवाजा लाव.\nकपडे घडी घाल, अंथरूण कर,\nमनात स्वच्छ विचार ठेव.\n\nआवरूया आवरूया, प्रत्येक जण गा,\nआवरूया आवरूया, आनंदाचं काम!\n\nस्वच्छ घर आनंदी घर असतं,\nजिथे छोटी मुलं खेळतात.\nस्वच्छ हात, तोंड, मन, हृदय,\nहाच एक छोटा नियम आम्हाला!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/clean_up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/clean_up.mp3"
+    },
+    {
+      "id": "sleeping_song",
+      "name": "झोपाळ्याचे गाणे",
+      "detail": "पाळणा हळूच हलव आता,\nबाळाचे डोळे झोपाळू झाले.\nअंगाई ऐकत जा,\nस्वप्नं वाट पाहताय तुझ्यासाठी.\n\nएक तारा, दोन तारे मोज,\nआकाशातले तीन तारे मोज.\nचार पाच सहा तारे उज्ज्वल,\nपापण्या मिटव एक सुस्कारा.\n\nदेवदूत तुझ्या खाटेची रक्षा करतात,\nमऊ अंगाई कुजबूज करतात.\nआईचं प्रेम चहू बाजूंनी,\nरात्रभर सुरक्षित सगळं वेळ.\n\nझोप माझ्या प्रिय बाळा झोप,\nउद्या आणखी एक दिवस आहे.\nसूर्यप्रकाशाने मित्रांनी भरलेला,\nहसण्या खेळण्याने भरलेला!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sleeping_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/sleeping_song.mp3"
+    },
+    {
+      "id": "number_song",
+      "name": "आकड्यांचे गाणे",
+      "detail": "एक एक एक, हत्ती चालतो,\nदोन दोन दोन, हंस आकाशात उडतात.\nतीन तीन तीन, बेडूक उड्या उड्या,\nचार चार चार, वाघ थांबत नाहीत.\n\nपाच पाच पाच, समुद्रातले मासे,\nसहा सहा सहा, झाडावरची फुलं.\nसात सात सात, इंद्रधनुष्याचे रंग,\nआठ आठ आठ, हळू चालणारे गोगलगाय.\n\nनऊ नऊ नऊ, घंटा मोठ्याने वाजतात,\nदहा दहा दहा, प्रिय मुलं आमची.\nवर मोजा आणि खाली मोजा,\nआकडे मदत करतात सगळीकडे!\n\nबोटं मोज, पायाची बोटं मोज,\nगुलाबाच्या पाकळ्या मोज.\nआकडे बुद्धी शहाणपण देतात,\nमोजण्याचा सराव, बक्षीस जिंक!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/number_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/number_song.mp3"
+    },
+    {
+      "id": "animals_song",
+      "name": "प्राण्यांचे गाणे",
+      "detail": "सिंह डरकाळी 'गुर गुर गुर!'\nकुत्रा म्हणे 'भू भू भू!'\nमांजर म्हणे 'म्यांव म्यांव!'\nगाय म्हणे 'हंबा हंबा!'\n\nघोडा म्हणे 'हीं हीं हीं!'\nबेडूक म्हणे 'डराव डराव!'\nमेंढी म्हणे 'बे बे बे!'\nबदक म्हणे 'कॅक कॅक!'\n\nबकरी म्हणे 'मे मे मे!'\nडुक्कर म्हणे 'घुर्र घुर्र!'\nगाढव म्हणे 'हीं चू हीं चू!'\nकोंबडा म्हणे 'कुक्कुच कू!'\n\nप्राणी मोठे प्राणी छोटे,\nप्रत्येकाची वेगळी भाषा.\nनीट ऐका, माझ्यासोबत गा,\nकिती आनंदी प्राणी कुटुंब!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/animals_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/animals_song.mp3"
+    },
+    {
+      "id": "fruits_song",
+      "name": "फळांचे गाणे",
+      "detail": "आंबा आंबा गोड पिवळा,\nकेळ केळ लांब मऊ.\nसफरचंद लाल गोल गोल,\nसंत्र रसदार आवाज.\n\nद्राक्ष द्राक्ष हिरवी छोटी,\nपपई पपई मोठी उंच.\nडाळिंब दाण्यांनी भरलेलं,\nचिकू खरंच खूप गोड!\n\nकलिंगड थंड गोड,\nअननस मुकुटासारखा सुंदर.\nस्ट्रॉबेरी लाल तेजस्वी,\nपेरू जीवनसत्त्वाने भरलेला.\n\nफळं खा रोज रोज,\nखेळायला बळकट होशील.\nप्रत्येक घासात आरोग्य,\nतेजस्वी उभा राहशील!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/fruits_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/fruits_song.mp3"
+    },
+    {
+      "id": "balpan",
+      "name": "बालपण माझे",
+      "detail": "बालपण माझं बालपण माझं,\nकिती सुंदर तू आहेस!\nखेळ हसू शिकणं वाढणं,\nसगळ्या तेजस्वी ताऱ्यांपेक्षा उज्ज्वल.\n\nआई बाबांच्या प्रेमात,\nमित्रांसोबत हसत खेळतो.\nआजीच्या गोष्टी, आजोबांचं शहाणपण,\nरोज काहीतरी नवीन शिकवतं.\n\nछोट्या खांद्यावर शाळेचं दप्तर,\nपेन्सिल, पुस्तक, चमकते बूट.\nदयाळू शिक्षक, मोठ्या शिकवणी,\nरोज काहीतरी नवं कळतं.\n\nबागेत झोका आणि घसरगुंडी,\nअंधार होईपर्यंत सायकल सवारी.\nपाऊस पकड, सूर्याचा पाठलाग,\nबालपण खरंच खूप मजेदार!\n\nबालपण माझं बालपण माझं,\nतुला मी सदा जपून ठेवेन.\nसगळ्या आठवणी, सगळं हसू,\nकधीच नाही विसरणार कधीच नाही!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balpan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/baby_songs/balpan.mp3"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "category": "birds",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "sparrow",
+      "name": "चिमणी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/sparrow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/sparrow.mp3"
+    },
+    {
+      "id": "crow",
+      "name": "कावळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/crow.mp3"
+    },
+    {
+      "id": "parrot",
+      "name": "पोपट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/parrot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/parrot.mp3"
+    },
+    {
+      "id": "peacock",
+      "name": "मोर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/peacock.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/peacock.mp3"
+    },
+    {
+      "id": "pigeon",
+      "name": "कबूतर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pigeon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/pigeon.mp3"
+    },
+    {
+      "id": "eagle",
+      "name": "गरुड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/eagle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/eagle.mp3"
+    },
+    {
+      "id": "owl",
+      "name": "घुबड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/owl.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/owl.mp3"
+    },
+    {
+      "id": "duck",
+      "name": "बदक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/duck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/duck.mp3"
+    },
+    {
+      "id": "hen",
+      "name": "कोंबडी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/hen.mp3"
+    },
+    {
+      "id": "rooster",
+      "name": "कोंबडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/rooster.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/rooster.mp3"
+    },
+    {
+      "id": "swan",
+      "name": "हंस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/swan.mp3"
+    },
+    {
+      "id": "kingfisher",
+      "name": "खंड्या",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kingfisher.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/kingfisher.mp3"
+    },
+    {
+      "id": "woodpecker",
+      "name": "सुतार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/woodpecker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/woodpecker.mp3"
+    },
+    {
+      "id": "vulture",
+      "name": "गिधाड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/vulture.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/vulture.mp3"
+    },
+    {
+      "id": "falcon",
+      "name": "बहिरी ससाणा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/falcon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/falcon.mp3"
+    },
+    {
+      "id": "flamingo",
+      "name": "रोहित पक्षी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/flamingo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/flamingo.mp3"
+    },
+    {
+      "id": "crane",
+      "name": "सारस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crane.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/crane.mp3"
+    },
+    {
+      "id": "heron",
+      "name": "बगळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/heron.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/heron.mp3"
+    },
+    {
+      "id": "stork",
+      "name": "करकोचा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/stork.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/stork.mp3"
+    },
+    {
+      "id": "cuckoo",
+      "name": "कोकिळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cuckoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/cuckoo.mp3"
+    },
+    {
+      "id": "bulbul",
+      "name": "बुलबुल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/bulbul.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/bulbul.mp3"
+    },
+    {
+      "id": "myna",
+      "name": "मैना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/myna.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/myna.mp3"
+    },
+    {
+      "id": "hornbill",
+      "name": "धनेश",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hornbill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/hornbill.mp3"
+    },
+    {
+      "id": "ibis",
+      "name": "कावळा सारखा पक्षी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ibis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/ibis.mp3"
+    },
+    {
+      "id": "lapwing",
+      "name": "टिटवी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lapwing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/lapwing.mp3"
+    },
+    {
+      "id": "kite",
+      "name": "घार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kite.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/kite.mp3"
+    },
+    {
+      "id": "tern",
+      "name": "टरन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/tern.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/tern.mp3"
+    },
+    {
+      "id": "gull",
+      "name": "समुद्री पक्षी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/gull.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/gull.mp3"
+    },
+    {
+      "id": "albatross",
+      "name": "अल्बाट्रॉस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/albatross.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/albatross.mp3"
+    },
+    {
+      "id": "penguin",
+      "name": "पेंग्विन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/penguin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/penguin.mp3"
+    },
+    {
+      "id": "ostrich",
+      "name": "शहामृग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ostrich.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/ostrich.mp3"
+    },
+    {
+      "id": "emu",
+      "name": "इमू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/emu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/emu.mp3"
+    },
+    {
+      "id": "quail",
+      "name": "बटेर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/quail.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/quail.mp3"
+    },
+    {
+      "id": "partridge",
+      "name": "तीतर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/partridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/partridge.mp3"
+    },
+    {
+      "id": "pheasant",
+      "name": "तितर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pheasant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/pheasant.mp3"
+    },
+    {
+      "id": "finch",
+      "name": "फिंच",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/finch.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/finch.mp3"
+    },
+    {
+      "id": "canary",
+      "name": "कॅनरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/canary.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/canary.mp3"
+    },
+    {
+      "id": "hummingbird",
+      "name": "हमींगबर्ड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hummingbird.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/hummingbird.mp3"
+    },
+    {
+      "id": "swift",
+      "name": "स्विफ्ट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swift.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/swift.mp3"
+    },
+    {
+      "id": "swallow",
+      "name": "स्वॉलो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swallow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/swallow.mp3"
+    },
+    {
+      "id": "lark",
+      "name": "लार्क",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/lark.mp3"
+    },
+    {
+      "id": "nightingale",
+      "name": "नाइटिंगेल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/nightingale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/nightingale.mp3"
+    },
+    {
+      "id": "magpie",
+      "name": "मॅगपाय",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/magpie.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/magpie.mp3"
+    },
+    {
+      "id": "raven",
+      "name": "रावण कावळा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/raven.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/raven.mp3"
+    },
+    {
+      "id": "jackdaw",
+      "name": "जॅकडॉ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/jackdaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/jackdaw.mp3"
+    },
+    {
+      "id": "cockatoo",
+      "name": "काकाटू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cockatoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/cockatoo.mp3"
+    },
+    {
+      "id": "macaw",
+      "name": "मकाव",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/macaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/macaw.mp3"
+    },
+    {
+      "id": "toucan",
+      "name": "टूकॅन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/toucan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/toucan.mp3"
+    },
+    {
+      "id": "lorikeet",
+      "name": "लॉरिकीट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lorikeet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/birds/lorikeet.mp3"
+    }
+  ]
+}

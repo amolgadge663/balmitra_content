@@ -1,0 +1,156 @@
+{
+  "category": "body_parts",
+  "language": "english",
+  "items": [
+    {
+      "id": "head",
+      "name": "Head",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/head.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/head.mp3"
+    },
+    {
+      "id": "hair",
+      "name": "Hair",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hair.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/hair.mp3"
+    },
+    {
+      "id": "eye",
+      "name": "Eye",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/eye.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/eye.mp3"
+    },
+    {
+      "id": "ear",
+      "name": "Ear",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/ear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/ear.mp3"
+    },
+    {
+      "id": "nose",
+      "name": "Nose",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/nose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/nose.mp3"
+    },
+    {
+      "id": "mouth",
+      "name": "Mouth",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/mouth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/mouth.mp3"
+    },
+    {
+      "id": "teeth",
+      "name": "Teeth",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/teeth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/teeth.mp3"
+    },
+    {
+      "id": "tongue",
+      "name": "Tongue",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/tongue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/tongue.mp3"
+    },
+    {
+      "id": "neck",
+      "name": "Neck",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/neck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/neck.mp3"
+    },
+    {
+      "id": "shoulder",
+      "name": "Shoulder",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/shoulder.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/shoulder.mp3"
+    },
+    {
+      "id": "arm",
+      "name": "Arm",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/arm.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/arm.mp3"
+    },
+    {
+      "id": "elbow",
+      "name": "Elbow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/elbow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/elbow.mp3"
+    },
+    {
+      "id": "wrist",
+      "name": "Wrist",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/wrist.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/wrist.mp3"
+    },
+    {
+      "id": "hand",
+      "name": "Hand",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hand.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/hand.mp3"
+    },
+    {
+      "id": "finger",
+      "name": "Finger",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/finger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/finger.mp3"
+    },
+    {
+      "id": "chest",
+      "name": "Chest",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/chest.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/chest.mp3"
+    },
+    {
+      "id": "stomach",
+      "name": "Stomach",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/stomach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/stomach.mp3"
+    },
+    {
+      "id": "back",
+      "name": "Back",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/back.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/back.mp3"
+    },
+    {
+      "id": "hip",
+      "name": "Hip",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/hip.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/hip.mp3"
+    },
+    {
+      "id": "leg",
+      "name": "Leg",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/leg.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/leg.mp3"
+    },
+    {
+      "id": "knee",
+      "name": "Knee",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/knee.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/knee.mp3"
+    },
+    {
+      "id": "ankle",
+      "name": "Ankle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/ankle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/ankle.mp3"
+    },
+    {
+      "id": "foot",
+      "name": "Foot",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/foot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/foot.mp3"
+    },
+    {
+      "id": "toe",
+      "name": "Toe",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/toe.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/toe.mp3"
+    },
+    {
+      "id": "thumb",
+      "name": "Thumb",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/body_parts/thumb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/body_parts/thumb.mp3"
+    }
+  ]
+}

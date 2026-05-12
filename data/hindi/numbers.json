@@ -1,0 +1,706 @@
+{
+  "category": "numbers",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "1",
+      "num": 1,
+      "name": "१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/1.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/1.mp3"
+    },
+    {
+      "id": "2",
+      "num": 2,
+      "name": "२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/2.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/2.mp3"
+    },
+    {
+      "id": "3",
+      "num": 3,
+      "name": "३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/3.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/3.mp3"
+    },
+    {
+      "id": "4",
+      "num": 4,
+      "name": "४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/4.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/4.mp3"
+    },
+    {
+      "id": "5",
+      "num": 5,
+      "name": "५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/5.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/5.mp3"
+    },
+    {
+      "id": "6",
+      "num": 6,
+      "name": "६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/6.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/6.mp3"
+    },
+    {
+      "id": "7",
+      "num": 7,
+      "name": "७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/7.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/7.mp3"
+    },
+    {
+      "id": "8",
+      "num": 8,
+      "name": "८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/8.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/8.mp3"
+    },
+    {
+      "id": "9",
+      "num": 9,
+      "name": "९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/9.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/9.mp3"
+    },
+    {
+      "id": "10",
+      "num": 10,
+      "name": "१०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/10.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/10.mp3"
+    },
+    {
+      "id": "11",
+      "num": 11,
+      "name": "११",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/11.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/11.mp3"
+    },
+    {
+      "id": "12",
+      "num": 12,
+      "name": "१२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/12.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/12.mp3"
+    },
+    {
+      "id": "13",
+      "num": 13,
+      "name": "१३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/13.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/13.mp3"
+    },
+    {
+      "id": "14",
+      "num": 14,
+      "name": "१४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/14.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/14.mp3"
+    },
+    {
+      "id": "15",
+      "num": 15,
+      "name": "१५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/15.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/15.mp3"
+    },
+    {
+      "id": "16",
+      "num": 16,
+      "name": "१६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/16.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/16.mp3"
+    },
+    {
+      "id": "17",
+      "num": 17,
+      "name": "१७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/17.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/17.mp3"
+    },
+    {
+      "id": "18",
+      "num": 18,
+      "name": "१८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/18.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/18.mp3"
+    },
+    {
+      "id": "19",
+      "num": 19,
+      "name": "१९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/19.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/19.mp3"
+    },
+    {
+      "id": "20",
+      "num": 20,
+      "name": "२०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/20.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/20.mp3"
+    },
+    {
+      "id": "21",
+      "num": 21,
+      "name": "२१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/21.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/21.mp3"
+    },
+    {
+      "id": "22",
+      "num": 22,
+      "name": "२२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/22.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/22.mp3"
+    },
+    {
+      "id": "23",
+      "num": 23,
+      "name": "२३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/23.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/23.mp3"
+    },
+    {
+      "id": "24",
+      "num": 24,
+      "name": "२४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/24.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/24.mp3"
+    },
+    {
+      "id": "25",
+      "num": 25,
+      "name": "२५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/25.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/25.mp3"
+    },
+    {
+      "id": "26",
+      "num": 26,
+      "name": "२६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/26.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/26.mp3"
+    },
+    {
+      "id": "27",
+      "num": 27,
+      "name": "२७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/27.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/27.mp3"
+    },
+    {
+      "id": "28",
+      "num": 28,
+      "name": "२८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/28.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/28.mp3"
+    },
+    {
+      "id": "29",
+      "num": 29,
+      "name": "२९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/29.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/29.mp3"
+    },
+    {
+      "id": "30",
+      "num": 30,
+      "name": "३०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/30.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/30.mp3"
+    },
+    {
+      "id": "31",
+      "num": 31,
+      "name": "३१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/31.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/31.mp3"
+    },
+    {
+      "id": "32",
+      "num": 32,
+      "name": "३२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/32.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/32.mp3"
+    },
+    {
+      "id": "33",
+      "num": 33,
+      "name": "३३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/33.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/33.mp3"
+    },
+    {
+      "id": "34",
+      "num": 34,
+      "name": "३४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/34.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/34.mp3"
+    },
+    {
+      "id": "35",
+      "num": 35,
+      "name": "३५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/35.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/35.mp3"
+    },
+    {
+      "id": "36",
+      "num": 36,
+      "name": "३६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/36.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/36.mp3"
+    },
+    {
+      "id": "37",
+      "num": 37,
+      "name": "३७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/37.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/37.mp3"
+    },
+    {
+      "id": "38",
+      "num": 38,
+      "name": "३८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/38.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/38.mp3"
+    },
+    {
+      "id": "39",
+      "num": 39,
+      "name": "३९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/39.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/39.mp3"
+    },
+    {
+      "id": "40",
+      "num": 40,
+      "name": "४०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/40.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/40.mp3"
+    },
+    {
+      "id": "41",
+      "num": 41,
+      "name": "४१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/41.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/41.mp3"
+    },
+    {
+      "id": "42",
+      "num": 42,
+      "name": "४२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/42.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/42.mp3"
+    },
+    {
+      "id": "43",
+      "num": 43,
+      "name": "४३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/43.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/43.mp3"
+    },
+    {
+      "id": "44",
+      "num": 44,
+      "name": "४४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/44.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/44.mp3"
+    },
+    {
+      "id": "45",
+      "num": 45,
+      "name": "४५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/45.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/45.mp3"
+    },
+    {
+      "id": "46",
+      "num": 46,
+      "name": "४६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/46.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/46.mp3"
+    },
+    {
+      "id": "47",
+      "num": 47,
+      "name": "४७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/47.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/47.mp3"
+    },
+    {
+      "id": "48",
+      "num": 48,
+      "name": "४८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/48.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/48.mp3"
+    },
+    {
+      "id": "49",
+      "num": 49,
+      "name": "४९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/49.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/49.mp3"
+    },
+    {
+      "id": "50",
+      "num": 50,
+      "name": "५०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/50.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/50.mp3"
+    },
+    {
+      "id": "51",
+      "num": 51,
+      "name": "५१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/51.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/51.mp3"
+    },
+    {
+      "id": "52",
+      "num": 52,
+      "name": "५२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/52.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/52.mp3"
+    },
+    {
+      "id": "53",
+      "num": 53,
+      "name": "५३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/53.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/53.mp3"
+    },
+    {
+      "id": "54",
+      "num": 54,
+      "name": "५४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/54.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/54.mp3"
+    },
+    {
+      "id": "55",
+      "num": 55,
+      "name": "५५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/55.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/55.mp3"
+    },
+    {
+      "id": "56",
+      "num": 56,
+      "name": "५६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/56.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/56.mp3"
+    },
+    {
+      "id": "57",
+      "num": 57,
+      "name": "५७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/57.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/57.mp3"
+    },
+    {
+      "id": "58",
+      "num": 58,
+      "name": "५८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/58.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/58.mp3"
+    },
+    {
+      "id": "59",
+      "num": 59,
+      "name": "५९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/59.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/59.mp3"
+    },
+    {
+      "id": "60",
+      "num": 60,
+      "name": "६०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/60.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/60.mp3"
+    },
+    {
+      "id": "61",
+      "num": 61,
+      "name": "६१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/61.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/61.mp3"
+    },
+    {
+      "id": "62",
+      "num": 62,
+      "name": "६२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/62.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/62.mp3"
+    },
+    {
+      "id": "63",
+      "num": 63,
+      "name": "६३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/63.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/63.mp3"
+    },
+    {
+      "id": "64",
+      "num": 64,
+      "name": "६४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/64.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/64.mp3"
+    },
+    {
+      "id": "65",
+      "num": 65,
+      "name": "६५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/65.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/65.mp3"
+    },
+    {
+      "id": "66",
+      "num": 66,
+      "name": "६६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/66.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/66.mp3"
+    },
+    {
+      "id": "67",
+      "num": 67,
+      "name": "६७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/67.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/67.mp3"
+    },
+    {
+      "id": "68",
+      "num": 68,
+      "name": "६८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/68.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/68.mp3"
+    },
+    {
+      "id": "69",
+      "num": 69,
+      "name": "६९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/69.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/69.mp3"
+    },
+    {
+      "id": "70",
+      "num": 70,
+      "name": "७०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/70.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/70.mp3"
+    },
+    {
+      "id": "71",
+      "num": 71,
+      "name": "७१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/71.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/71.mp3"
+    },
+    {
+      "id": "72",
+      "num": 72,
+      "name": "७२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/72.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/72.mp3"
+    },
+    {
+      "id": "73",
+      "num": 73,
+      "name": "७३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/73.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/73.mp3"
+    },
+    {
+      "id": "74",
+      "num": 74,
+      "name": "७४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/74.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/74.mp3"
+    },
+    {
+      "id": "75",
+      "num": 75,
+      "name": "७५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/75.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/75.mp3"
+    },
+    {
+      "id": "76",
+      "num": 76,
+      "name": "७६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/76.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/76.mp3"
+    },
+    {
+      "id": "77",
+      "num": 77,
+      "name": "७७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/77.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/77.mp3"
+    },
+    {
+      "id": "78",
+      "num": 78,
+      "name": "७८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/78.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/78.mp3"
+    },
+    {
+      "id": "79",
+      "num": 79,
+      "name": "७९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/79.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/79.mp3"
+    },
+    {
+      "id": "80",
+      "num": 80,
+      "name": "८०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/80.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/80.mp3"
+    },
+    {
+      "id": "81",
+      "num": 81,
+      "name": "८१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/81.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/81.mp3"
+    },
+    {
+      "id": "82",
+      "num": 82,
+      "name": "८२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/82.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/82.mp3"
+    },
+    {
+      "id": "83",
+      "num": 83,
+      "name": "८३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/83.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/83.mp3"
+    },
+    {
+      "id": "84",
+      "num": 84,
+      "name": "८४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/84.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/84.mp3"
+    },
+    {
+      "id": "85",
+      "num": 85,
+      "name": "८५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/85.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/85.mp3"
+    },
+    {
+      "id": "86",
+      "num": 86,
+      "name": "८६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/86.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/86.mp3"
+    },
+    {
+      "id": "87",
+      "num": 87,
+      "name": "८७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/87.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/87.mp3"
+    },
+    {
+      "id": "88",
+      "num": 88,
+      "name": "८८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/88.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/88.mp3"
+    },
+    {
+      "id": "89",
+      "num": 89,
+      "name": "८९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/89.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/89.mp3"
+    },
+    {
+      "id": "90",
+      "num": 90,
+      "name": "९०",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/90.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/90.mp3"
+    },
+    {
+      "id": "91",
+      "num": 91,
+      "name": "९१",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/91.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/91.mp3"
+    },
+    {
+      "id": "92",
+      "num": 92,
+      "name": "९२",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/92.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/92.mp3"
+    },
+    {
+      "id": "93",
+      "num": 93,
+      "name": "९३",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/93.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/93.mp3"
+    },
+    {
+      "id": "94",
+      "num": 94,
+      "name": "९४",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/94.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/94.mp3"
+    },
+    {
+      "id": "95",
+      "num": 95,
+      "name": "९५",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/95.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/95.mp3"
+    },
+    {
+      "id": "96",
+      "num": 96,
+      "name": "९६",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/96.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/96.mp3"
+    },
+    {
+      "id": "97",
+      "num": 97,
+      "name": "९७",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/97.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/97.mp3"
+    },
+    {
+      "id": "98",
+      "num": 98,
+      "name": "९८",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/98.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/98.mp3"
+    },
+    {
+      "id": "99",
+      "num": 99,
+      "name": "९९",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/99.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/99.mp3"
+    },
+    {
+      "id": "100",
+      "num": 100,
+      "name": "१००",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/numbers/100.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/numbers/100.mp3"
+    }
+  ]
+}

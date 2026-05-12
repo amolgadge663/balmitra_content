@@ -1,0 +1,126 @@
+{
+  "category": "math",
+  "language": "english",
+  "items": [
+    {
+      "id": "addition",
+      "name": "Addition",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/addition.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/addition.mp3"
+    },
+    {
+      "id": "subtraction",
+      "name": "Subtraction",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/subtraction.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/subtraction.mp3"
+    },
+    {
+      "id": "multiplication",
+      "name": "Multiplication",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/multiplication.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/multiplication.mp3"
+    },
+    {
+      "id": "division",
+      "name": "Division",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/division.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/division.mp3"
+    },
+    {
+      "id": "zero",
+      "name": "Zero",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/zero.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/zero.mp3"
+    },
+    {
+      "id": "counting",
+      "name": "Counting",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/counting.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/counting.mp3"
+    },
+    {
+      "id": "greater_than",
+      "name": "Greater Than",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/greater_than.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/greater_than.mp3"
+    },
+    {
+      "id": "less_than",
+      "name": "Less Than",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/less_than.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/less_than.mp3"
+    },
+    {
+      "id": "equal",
+      "name": "Equal",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/equal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/equal.mp3"
+    },
+    {
+      "id": "plus",
+      "name": "Plus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/plus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/plus.mp3"
+    },
+    {
+      "id": "minus",
+      "name": "Minus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/minus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/minus.mp3"
+    },
+    {
+      "id": "multiply",
+      "name": "Multiply",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/multiply.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/multiply.mp3"
+    },
+    {
+      "id": "divide",
+      "name": "Divide",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/divide.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/divide.mp3"
+    },
+    {
+      "id": "number_line",
+      "name": "Number Line",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/number_line.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/number_line.mp3"
+    },
+    {
+      "id": "even",
+      "name": "Even",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/even.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/even.mp3"
+    },
+    {
+      "id": "odd",
+      "name": "Odd",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/odd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/odd.mp3"
+    },
+    {
+      "id": "half",
+      "name": "Half",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/half.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/half.mp3"
+    },
+    {
+      "id": "double",
+      "name": "Double",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/double.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/double.mp3"
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/square.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/square.mp3"
+    },
+    {
+      "id": "triangle_shape",
+      "name": "Triangle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/math/triangle_shape.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/math/triangle_shape.mp3"
+    }
+  ]
+}

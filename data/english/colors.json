@@ -1,0 +1,258 @@
+{
+  "category": "colors",
+  "language": "english",
+  "items": [
+    {
+      "id": "red",
+      "name": "Red",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/red.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/red.mp3"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/blue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/blue.mp3"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/green.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/green.mp3"
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/yellow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/yellow.mp3"
+    },
+    {
+      "id": "black",
+      "name": "Black",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/black.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/black.mp3"
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/white.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/white.mp3"
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/orange.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/orange.mp3"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/pink.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/pink.mp3"
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/purple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/purple.mp3"
+    },
+    {
+      "id": "brown",
+      "name": "Brown",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/brown.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/brown.mp3"
+    },
+    {
+      "id": "grey",
+      "name": "Grey",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/grey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/grey.mp3"
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/violet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/violet.mp3"
+    },
+    {
+      "id": "indigo",
+      "name": "Indigo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/indigo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/indigo.mp3"
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/gold.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/gold.mp3"
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/silver.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/silver.mp3"
+    },
+    {
+      "id": "maroon",
+      "name": "Maroon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/maroon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/maroon.mp3"
+    },
+    {
+      "id": "navy",
+      "name": "Navy",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/navy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/navy.mp3"
+    },
+    {
+      "id": "sky_blue",
+      "name": "Sky Blue",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/sky_blue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/sky_blue.mp3"
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/teal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/teal.mp3"
+    },
+    {
+      "id": "turquoise",
+      "name": "Turquoise",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/turquoise.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/turquoise.mp3"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/beige.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/beige.mp3"
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/cream.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/cream.mp3"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/peach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/peach.mp3"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/lavender.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/lavender.mp3"
+    },
+    {
+      "id": "coral",
+      "name": "Coral",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/coral.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/coral.mp3"
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/mint.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/mint.mp3"
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/olive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/olive.mp3"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/lime.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/lime.mp3"
+    },
+    {
+      "id": "magenta",
+      "name": "Magenta",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/magenta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/magenta.mp3"
+    },
+    {
+      "id": "cyan",
+      "name": "Cyan",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/cyan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/cyan.mp3"
+    },
+    {
+      "id": "amber",
+      "name": "Amber",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/amber.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/amber.mp3"
+    },
+    {
+      "id": "ivory",
+      "name": "Ivory",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/ivory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/ivory.mp3"
+    },
+    {
+      "id": "charcoal",
+      "name": "Charcoal",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/charcoal.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/charcoal.mp3"
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/rust.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/rust.mp3"
+    },
+    {
+      "id": "mustard",
+      "name": "Mustard",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/mustard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/mustard.mp3"
+    },
+    {
+      "id": "ochre",
+      "name": "Ochre",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/ochre.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/ochre.mp3"
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/plum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/plum.mp3"
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/rose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/rose.mp3"
+    },
+    {
+      "id": "wine",
+      "name": "Wine",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/wine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/wine.mp3"
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/steel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/steel.mp3"
+    },
+    {
+      "id": "sand",
+      "name": "Sand",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/sand.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/sand.mp3"
+    },
+    {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/colors/chocolate.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/colors/chocolate.mp3"
+    }
+  ]
+}

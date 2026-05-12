@@ -1,0 +1,126 @@
+{
+  "category": "school_equipment",
+  "language": "english",
+  "items": [
+    {
+      "id": "pencil",
+      "name": "Pencil",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/pencil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/pencil.mp3"
+    },
+    {
+      "id": "pen",
+      "name": "Pen",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/pen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/pen.mp3"
+    },
+    {
+      "id": "eraser",
+      "name": "Eraser",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/eraser.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/eraser.mp3"
+    },
+    {
+      "id": "ruler",
+      "name": "Ruler",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/ruler.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/ruler.mp3"
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/notebook.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/notebook.mp3"
+    },
+    {
+      "id": "bag",
+      "name": "School Bag",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/bag.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/bag.mp3"
+    },
+    {
+      "id": "sharpener",
+      "name": "Sharpener",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/sharpener.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/sharpener.mp3"
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/compass.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/compass.mp3"
+    },
+    {
+      "id": "scale",
+      "name": "Scale",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/scale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/scale.mp3"
+    },
+    {
+      "id": "calculator",
+      "name": "Calculator",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/calculator.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/calculator.mp3"
+    },
+    {
+      "id": "crayon",
+      "name": "Crayon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/crayon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/crayon.mp3"
+    },
+    {
+      "id": "color_pencil",
+      "name": "Color Pencil",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/color_pencil.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/color_pencil.mp3"
+    },
+    {
+      "id": "glue",
+      "name": "Glue",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/glue.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/glue.mp3"
+    },
+    {
+      "id": "scissors",
+      "name": "Scissors",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/scissors.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/scissors.mp3"
+    },
+    {
+      "id": "stapler",
+      "name": "Stapler",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/stapler.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/stapler.mp3"
+    },
+    {
+      "id": "chart_paper",
+      "name": "Chart Paper",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/chart_paper.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/chart_paper.mp3"
+    },
+    {
+      "id": "marker",
+      "name": "Marker",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/marker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/marker.mp3"
+    },
+    {
+      "id": "highlighter",
+      "name": "Highlighter",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/highlighter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/highlighter.mp3"
+    },
+    {
+      "id": "geometry_box",
+      "name": "Geometry Box",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/geometry_box.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/geometry_box.mp3"
+    },
+    {
+      "id": "lunch_box",
+      "name": "Lunch Box",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/school_equipment/lunch_box.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/school_equipment/lunch_box.mp3"
+    }
+  ]
+}

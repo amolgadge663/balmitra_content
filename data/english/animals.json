@@ -1,0 +1,246 @@
+{
+  "category": "animals",
+  "language": "english",
+  "items": [
+    {
+      "id": "lion",
+      "name": "Lion",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/lion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/lion.mp3"
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/tiger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/tiger.mp3"
+    },
+    {
+      "id": "elephant",
+      "name": "Elephant",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/elephant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/elephant.mp3"
+    },
+    {
+      "id": "dog",
+      "name": "Dog",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/dog.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/dog.mp3"
+    },
+    {
+      "id": "cat",
+      "name": "Cat",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/cat.mp3"
+    },
+    {
+      "id": "cow",
+      "name": "Cow",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/cow.mp3"
+    },
+    {
+      "id": "buffalo",
+      "name": "Buffalo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/buffalo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/buffalo.mp3"
+    },
+    {
+      "id": "goat",
+      "name": "Goat",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/goat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/goat.mp3"
+    },
+    {
+      "id": "sheep",
+      "name": "Sheep",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/sheep.mp3"
+    },
+    {
+      "id": "horse",
+      "name": "Horse",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/horse.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/horse.mp3"
+    },
+    {
+      "id": "camel",
+      "name": "Camel",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/camel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/camel.mp3"
+    },
+    {
+      "id": "monkey",
+      "name": "Monkey",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/monkey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/monkey.mp3"
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/bear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/bear.mp3"
+    },
+    {
+      "id": "deer",
+      "name": "Deer",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/deer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/deer.mp3"
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/fox.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/fox.mp3"
+    },
+    {
+      "id": "wolf",
+      "name": "Wolf",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/wolf.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/wolf.mp3"
+    },
+    {
+      "id": "leopard",
+      "name": "Leopard",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/leopard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/leopard.mp3"
+    },
+    {
+      "id": "cheetah",
+      "name": "Cheetah",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cheetah.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/cheetah.mp3"
+    },
+    {
+      "id": "kangaroo",
+      "name": "Kangaroo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/kangaroo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/kangaroo.mp3"
+    },
+    {
+      "id": "zebra",
+      "name": "Zebra",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/zebra.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/zebra.mp3"
+    },
+    {
+      "id": "giraffe",
+      "name": "Giraffe",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/giraffe.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/giraffe.mp3"
+    },
+    {
+      "id": "hippopotamus",
+      "name": "Hippopotamus",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/hippopotamus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/hippopotamus.mp3"
+    },
+    {
+      "id": "rhinoceros",
+      "name": "Rhinoceros",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rhinoceros.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/rhinoceros.mp3"
+    },
+    {
+      "id": "squirrel",
+      "name": "Squirrel",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/squirrel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/squirrel.mp3"
+    },
+    {
+      "id": "rat",
+      "name": "Rat",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/rat.mp3"
+    },
+    {
+      "id": "rabbit",
+      "name": "Rabbit",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rabbit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/rabbit.mp3"
+    },
+    {
+      "id": "pig",
+      "name": "Pig",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/pig.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/pig.mp3"
+    },
+    {
+      "id": "donkey",
+      "name": "Donkey",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/donkey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/donkey.mp3"
+    },
+    {
+      "id": "yak",
+      "name": "Yak",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/yak.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/yak.mp3"
+    },
+    {
+      "id": "bison",
+      "name": "Bison",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/bison.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/bison.mp3"
+    },
+    {
+      "id": "otter",
+      "name": "Otter",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/otter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/otter.mp3"
+    },
+    {
+      "id": "weasel",
+      "name": "Weasel",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/weasel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/weasel.mp3"
+    },
+    {
+      "id": "mongoose",
+      "name": "Mongoose",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/mongoose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/mongoose.mp3"
+    },
+    {
+      "id": "porcupine",
+      "name": "Porcupine",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/porcupine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/porcupine.mp3"
+    },
+    {
+      "id": "armadillo",
+      "name": "Armadillo",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/armadillo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/armadillo.mp3"
+    },
+    {
+      "id": "sloth",
+      "name": "Sloth",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/sloth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/sloth.mp3"
+    },
+    {
+      "id": "antelope",
+      "name": "Antelope",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/antelope.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/antelope.mp3"
+    },
+    {
+      "id": "hyena",
+      "name": "Hyena",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/hyena.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/hyena.mp3"
+    },
+    {
+      "id": "lynx",
+      "name": "Lynx",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/lynx.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/lynx.mp3"
+    },
+    {
+      "id": "panther",
+      "name": "Panther",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/panther.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/animals/panther.mp3"
+    }
+  ]
+}

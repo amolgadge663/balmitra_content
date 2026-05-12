@@ -1,0 +1,66 @@
+{
+  "category": "shapes",
+  "language": "english",
+  "items": [
+    {
+      "id": "circle",
+      "name": "Circle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/circle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/circle.mp3"
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/square.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/square.mp3"
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/triangle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/triangle.mp3"
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/rectangle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/rectangle.mp3"
+    },
+    {
+      "id": "oval",
+      "name": "Oval",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/oval.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/oval.mp3"
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/diamond.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/diamond.mp3"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/star.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/star.mp3"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/heart.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/heart.mp3"
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/pentagon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/pentagon.mp3"
+    },
+    {
+      "id": "hexagon",
+      "name": "Hexagon",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/shapes/hexagon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/shapes/hexagon.mp3"
+    }
+  ]
+}

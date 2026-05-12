@@ -1,0 +1,96 @@
+{
+  "category": "my_family",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "father",
+      "name": "बाबा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/father.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/father.mp3"
+    },
+    {
+      "id": "mother",
+      "name": "आई",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/mother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/mother.mp3"
+    },
+    {
+      "id": "brother",
+      "name": "भाऊ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/brother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/brother.mp3"
+    },
+    {
+      "id": "sister",
+      "name": "ताई",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/sister.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/sister.mp3"
+    },
+    {
+      "id": "grandfather",
+      "name": "आजोबा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandfather.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/grandfather.mp3"
+    },
+    {
+      "id": "grandmother",
+      "name": "आजी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/grandmother.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/grandmother.mp3"
+    },
+    {
+      "id": "uncle",
+      "name": "काका",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/uncle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/uncle.mp3"
+    },
+    {
+      "id": "aunt",
+      "name": "काकी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/aunt.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/aunt.mp3"
+    },
+    {
+      "id": "cousin",
+      "name": "चुलत भाऊ/बहीण",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/cousin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/cousin.mp3"
+    },
+    {
+      "id": "son",
+      "name": "मुलगा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/son.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/son.mp3"
+    },
+    {
+      "id": "daughter",
+      "name": "मुलगी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/daughter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/daughter.mp3"
+    },
+    {
+      "id": "husband",
+      "name": "नवरा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/husband.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/husband.mp3"
+    },
+    {
+      "id": "wife",
+      "name": "बायको",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/wife.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/wife.mp3"
+    },
+    {
+      "id": "baby",
+      "name": "बाळ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/baby.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/baby.mp3"
+    },
+    {
+      "id": "family",
+      "name": "कुटुंब",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/my_family/family.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/my_family/family.mp3"
+    }
+  ]
+}

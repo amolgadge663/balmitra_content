@@ -1,0 +1,126 @@
+{
+  "category": "computer_parts",
+  "language": "english",
+  "items": [
+    {
+      "id": "monitor",
+      "name": "Monitor",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/monitor.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/monitor.mp3"
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/keyboard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/keyboard.mp3"
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/mouse.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/mouse.mp3"
+    },
+    {
+      "id": "cpu",
+      "name": "CPU",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/cpu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/cpu.mp3"
+    },
+    {
+      "id": "speaker",
+      "name": "Speaker",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/speaker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/speaker.mp3"
+    },
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/headphones.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/headphones.mp3"
+    },
+    {
+      "id": "webcam",
+      "name": "Webcam",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/webcam.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/webcam.mp3"
+    },
+    {
+      "id": "printer",
+      "name": "Printer",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/printer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/printer.mp3"
+    },
+    {
+      "id": "scanner",
+      "name": "Scanner",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/scanner.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/scanner.mp3"
+    },
+    {
+      "id": "pen_drive",
+      "name": "Pen Drive",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/pen_drive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/pen_drive.mp3"
+    },
+    {
+      "id": "hard_disk",
+      "name": "Hard Disk",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/hard_disk.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/hard_disk.mp3"
+    },
+    {
+      "id": "cd",
+      "name": "CD",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/cd.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/cd.mp3"
+    },
+    {
+      "id": "router",
+      "name": "Router",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/router.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/router.mp3"
+    },
+    {
+      "id": "laptop",
+      "name": "Laptop",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/laptop.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/laptop.mp3"
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/tablet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/tablet.mp3"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/mobile.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/mobile.mp3"
+    },
+    {
+      "id": "charger",
+      "name": "Charger",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/charger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/charger.mp3"
+    },
+    {
+      "id": "cable",
+      "name": "Cable",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/cable.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/cable.mp3"
+    },
+    {
+      "id": "microphone",
+      "name": "Microphone",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/microphone.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/microphone.mp3"
+    },
+    {
+      "id": "joystick",
+      "name": "Joystick",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/computer_parts/joystick.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/computer_parts/joystick.mp3"
+    }
+  ]
+}

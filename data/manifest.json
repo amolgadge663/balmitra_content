@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "baseUrl": "https://amolgadge663.github.io/balmitra_content",
+  "languages": {
+    "marathi": {
+      "code": "mr",
+      "categoryCount": 26,
+      "categories": [
+        {
+          "category": "abcd",
+          "count": 26,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/abcd.json"
+        },
+        {
+          "category": "alphabets",
+          "count": 48,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/alphabets.json"
+        },
+        {
+          "category": "animals",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/animals.json"
+        },
+        {
+          "category": "baby_songs",
+          "count": 53,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/baby_songs.json"
+        },
+        {
+          "category": "barakhadi",
+          "count": 36,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/barakhadi.json"
+        },
+        {
+          "category": "birds",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/birds.json"
+        },
+        {
+          "category": "body_parts",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/body_parts.json"
+        },
+        {
+          "category": "careers",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/careers.json"
+        },
+        {
+          "category": "colors",
+          "count": 42,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/colors.json"
+        },
+        {
+          "category": "computer_parts",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/computer_parts.json"
+        },
+        {
+          "category": "days",
+          "count": 7,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/days.json"
+        },
+        {
+          "category": "directions",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/directions.json"
+        },
+        {
+          "category": "flowers",
+          "count": 30,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/flowers.json"
+        },
+        {
+          "category": "fruits",
+          "count": 50,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/fruits.json"
+        },
+        {
+          "category": "good_habits",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/good_habits.json"
+        },
+        {
+          "category": "math",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/math.json"
+        },
+        {
+          "category": "months",
+          "count": 24,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/months.json"
+        },
+        {
+          "category": "my_family",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/my_family.json"
+        },
+        {
+          "category": "numbers",
+          "count": 100,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/numbers.json"
+        },
+        {
+          "category": "school_equipment",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/school_equipment.json"
+        },
+        {
+          "category": "seasons",
+          "count": 11,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/seasons.json"
+        },
+        {
+          "category": "shapes",
+          "count": 10,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/shapes.json"
+        },
+        {
+          "category": "sports",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/sports.json"
+        },
+        {
+          "category": "stories",
+          "count": 54,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/stories.json"
+        },
+        {
+          "category": "vegetables",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/vegetables.json"
+        },
+        {
+          "category": "vehicles",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/marathi/vehicles.json"
+        }
+      ]
+    },
+    "hindi": {
+      "code": "hi",
+      "categoryCount": 26,
+      "categories": [
+        {
+          "category": "abcd",
+          "count": 26,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/abcd.json"
+        },
+        {
+          "category": "alphabets",
+          "count": 48,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/alphabets.json"
+        },
+        {
+          "category": "animals",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/animals.json"
+        },
+        {
+          "category": "baby_songs",
+          "count": 53,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/baby_songs.json"
+        },
+        {
+          "category": "barakhadi",
+          "count": 36,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/barakhadi.json"
+        },
+        {
+          "category": "birds",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/birds.json"
+        },
+        {
+          "category": "body_parts",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/body_parts.json"
+        },
+        {
+          "category": "careers",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/careers.json"
+        },
+        {
+          "category": "colors",
+          "count": 42,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/colors.json"
+        },
+        {
+          "category": "computer_parts",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/computer_parts.json"
+        },
+        {
+          "category": "days",
+          "count": 7,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/days.json"
+        },
+        {
+          "category": "directions",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/directions.json"
+        },
+        {
+          "category": "flowers",
+          "count": 30,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/flowers.json"
+        },
+        {
+          "category": "fruits",
+          "count": 50,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/fruits.json"
+        },
+        {
+          "category": "good_habits",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/good_habits.json"
+        },
+        {
+          "category": "math",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/math.json"
+        },
+        {
+          "category": "months",
+          "count": 24,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/months.json"
+        },
+        {
+          "category": "my_family",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/my_family.json"
+        },
+        {
+          "category": "numbers",
+          "count": 100,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/numbers.json"
+        },
+        {
+          "category": "school_equipment",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/school_equipment.json"
+        },
+        {
+          "category": "seasons",
+          "count": 11,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/seasons.json"
+        },
+        {
+          "category": "shapes",
+          "count": 10,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/shapes.json"
+        },
+        {
+          "category": "sports",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/sports.json"
+        },
+        {
+          "category": "stories",
+          "count": 54,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/stories.json"
+        },
+        {
+          "category": "vegetables",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/vegetables.json"
+        },
+        {
+          "category": "vehicles",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/hindi/vehicles.json"
+        }
+      ]
+    },
+    "english": {
+      "code": "en",
+      "categoryCount": 26,
+      "categories": [
+        {
+          "category": "abcd",
+          "count": 26,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/abcd.json"
+        },
+        {
+          "category": "alphabets",
+          "count": 48,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/alphabets.json"
+        },
+        {
+          "category": "animals",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/animals.json"
+        },
+        {
+          "category": "baby_songs",
+          "count": 53,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/baby_songs.json"
+        },
+        {
+          "category": "barakhadi",
+          "count": 36,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/barakhadi.json"
+        },
+        {
+          "category": "birds",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/birds.json"
+        },
+        {
+          "category": "body_parts",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/body_parts.json"
+        },
+        {
+          "category": "careers",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/careers.json"
+        },
+        {
+          "category": "colors",
+          "count": 42,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/colors.json"
+        },
+        {
+          "category": "computer_parts",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/computer_parts.json"
+        },
+        {
+          "category": "days",
+          "count": 7,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/days.json"
+        },
+        {
+          "category": "directions",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/directions.json"
+        },
+        {
+          "category": "flowers",
+          "count": 30,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/flowers.json"
+        },
+        {
+          "category": "fruits",
+          "count": 50,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/fruits.json"
+        },
+        {
+          "category": "good_habits",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/good_habits.json"
+        },
+        {
+          "category": "math",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/math.json"
+        },
+        {
+          "category": "months",
+          "count": 24,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/months.json"
+        },
+        {
+          "category": "my_family",
+          "count": 15,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/my_family.json"
+        },
+        {
+          "category": "numbers",
+          "count": 100,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/numbers.json"
+        },
+        {
+          "category": "school_equipment",
+          "count": 20,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/school_equipment.json"
+        },
+        {
+          "category": "seasons",
+          "count": 11,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/seasons.json"
+        },
+        {
+          "category": "shapes",
+          "count": 10,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/shapes.json"
+        },
+        {
+          "category": "sports",
+          "count": 25,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/sports.json"
+        },
+        {
+          "category": "stories",
+          "count": 54,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/stories.json"
+        },
+        {
+          "category": "vegetables",
+          "count": 49,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/vegetables.json"
+        },
+        {
+          "category": "vehicles",
+          "count": 40,
+          "url": "https://amolgadge663.github.io/balmitra_content/data/english/vehicles.json"
+        }
+      ]
+    }
+  }
+}

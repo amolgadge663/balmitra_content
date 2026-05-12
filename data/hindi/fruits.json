@@ -1,0 +1,306 @@
+{
+  "category": "fruits",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "apple",
+      "name": "सेब",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/apple.mp3"
+    },
+    {
+      "id": "banana",
+      "name": "केला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/banana.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/banana.mp3"
+    },
+    {
+      "id": "mango",
+      "name": "आम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/mango.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/mango.mp3"
+    },
+    {
+      "id": "orange",
+      "name": "संतरा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/orange.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/orange.mp3"
+    },
+    {
+      "id": "grapes",
+      "name": "अंगूर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/grapes.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/grapes.mp3"
+    },
+    {
+      "id": "pineapple",
+      "name": "अनानास",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pineapple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/pineapple.mp3"
+    },
+    {
+      "id": "papaya",
+      "name": "पपीता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/papaya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/papaya.mp3"
+    },
+    {
+      "id": "guava",
+      "name": "अमरूद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/guava.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/guava.mp3"
+    },
+    {
+      "id": "watermelon",
+      "name": "तरबूज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/watermelon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/watermelon.mp3"
+    },
+    {
+      "id": "muskmelon",
+      "name": "खरबूजा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/muskmelon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/muskmelon.mp3"
+    },
+    {
+      "id": "strawberry",
+      "name": "स्ट्रॉबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/strawberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/strawberry.mp3"
+    },
+    {
+      "id": "cherry",
+      "name": "चेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/cherry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/cherry.mp3"
+    },
+    {
+      "id": "pear",
+      "name": "नाशपाती",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/pear.mp3"
+    },
+    {
+      "id": "peach",
+      "name": "आड़ू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/peach.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/peach.mp3"
+    },
+    {
+      "id": "plum",
+      "name": "आलूबुखारा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/plum.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/plum.mp3"
+    },
+    {
+      "id": "kiwi",
+      "name": "कीवी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/kiwi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/kiwi.mp3"
+    },
+    {
+      "id": "pomegranate",
+      "name": "अनार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/pomegranate.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/pomegranate.mp3"
+    },
+    {
+      "id": "custard_apple",
+      "name": "सीताफल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/custard_apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/custard_apple.mp3"
+    },
+    {
+      "id": "dragon_fruit",
+      "name": "ड्रैगन फ्रूट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/dragon_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/dragon_fruit.mp3"
+    },
+    {
+      "id": "fig",
+      "name": "अंजीर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/fig.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/fig.mp3"
+    },
+    {
+      "id": "jamun",
+      "name": "जामुन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/jamun.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/jamun.mp3"
+    },
+    {
+      "id": "lychee",
+      "name": "लीची",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/lychee.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/lychee.mp3"
+    },
+    {
+      "id": "sapota",
+      "name": "चीकू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/sapota.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/sapota.mp3"
+    },
+    {
+      "id": "apricot",
+      "name": "खुबानी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/apricot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/apricot.mp3"
+    },
+    {
+      "id": "blackberry",
+      "name": "ब्लैकबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/blackberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/blackberry.mp3"
+    },
+    {
+      "id": "blueberry",
+      "name": "ब्लूबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/blueberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/blueberry.mp3"
+    },
+    {
+      "id": "raspberry",
+      "name": "रसभरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/raspberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/raspberry.mp3"
+    },
+    {
+      "id": "mulberry",
+      "name": "शहतूत",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/mulberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/mulberry.mp3"
+    },
+    {
+      "id": "passion_fruit",
+      "name": "पैशन फ्रूट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/passion_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/passion_fruit.mp3"
+    },
+    {
+      "id": "starfruit",
+      "name": "कमरख",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/starfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/starfruit.mp3"
+    },
+    {
+      "id": "wood_apple",
+      "name": "बेल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/wood_apple.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/wood_apple.mp3"
+    },
+    {
+      "id": "olive",
+      "name": "जैतून",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/olive.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/olive.mp3"
+    },
+    {
+      "id": "avocado",
+      "name": "एवोकाडो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/avocado.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/avocado.mp3"
+    },
+    {
+      "id": "coconut",
+      "name": "नारियल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/coconut.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/coconut.mp3"
+    },
+    {
+      "id": "date",
+      "name": "खजूर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/date.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/date.mp3"
+    },
+    {
+      "id": "tamarind",
+      "name": "इमली",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/tamarind.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/tamarind.mp3"
+    },
+    {
+      "id": "gooseberry",
+      "name": "आंवला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/gooseberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/gooseberry.mp3"
+    },
+    {
+      "id": "jackfruit",
+      "name": "कटहल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/jackfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/jackfruit.mp3"
+    },
+    {
+      "id": "persimmon",
+      "name": "खुरमा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/persimmon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/persimmon.mp3"
+    },
+    {
+      "id": "cranberry",
+      "name": "क्रैनबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/cranberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/cranberry.mp3"
+    },
+    {
+      "id": "longan",
+      "name": "लॉन्गन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/longan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/longan.mp3"
+    },
+    {
+      "id": "durian",
+      "name": "ड्यूरियन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/durian.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/durian.mp3"
+    },
+    {
+      "id": "breadfruit",
+      "name": "ब्रेडफ्रूट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/breadfruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/breadfruit.mp3"
+    },
+    {
+      "id": "soursop",
+      "name": "सीताफल (विदेशी)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/soursop.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/soursop.mp3"
+    },
+    {
+      "id": "salak",
+      "name": "सलक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/salak.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/salak.mp3"
+    },
+    {
+      "id": "miracle_fruit",
+      "name": "मिरैकल फ्रूट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/miracle_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/miracle_fruit.mp3"
+    },
+    {
+      "id": "ugli_fruit",
+      "name": "उगली फल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/ugli_fruit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/ugli_fruit.mp3"
+    },
+    {
+      "id": "quince",
+      "name": "बही",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/quince.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/quince.mp3"
+    },
+    {
+      "id": "elderberry",
+      "name": "एल्डरबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/elderberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/elderberry.mp3"
+    },
+    {
+      "id": "boysenberry",
+      "name": "बॉयसेनबेरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/fruits/boysenberry.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/fruits/boysenberry.mp3"
+    }
+  ]
+}

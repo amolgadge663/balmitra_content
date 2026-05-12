@@ -1,0 +1,300 @@
+{
+  "category": "birds",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "sparrow",
+      "name": "गौरैया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/sparrow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/sparrow.mp3"
+    },
+    {
+      "id": "crow",
+      "name": "कौआ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/crow.mp3"
+    },
+    {
+      "id": "parrot",
+      "name": "तोता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/parrot.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/parrot.mp3"
+    },
+    {
+      "id": "peacock",
+      "name": "मोर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/peacock.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/peacock.mp3"
+    },
+    {
+      "id": "pigeon",
+      "name": "कबूतर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pigeon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/pigeon.mp3"
+    },
+    {
+      "id": "eagle",
+      "name": "गरुड़",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/eagle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/eagle.mp3"
+    },
+    {
+      "id": "owl",
+      "name": "उल्लू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/owl.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/owl.mp3"
+    },
+    {
+      "id": "duck",
+      "name": "बतख",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/duck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/duck.mp3"
+    },
+    {
+      "id": "hen",
+      "name": "मुर्गी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/hen.mp3"
+    },
+    {
+      "id": "rooster",
+      "name": "मुर्गा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/rooster.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/rooster.mp3"
+    },
+    {
+      "id": "swan",
+      "name": "हंस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/swan.mp3"
+    },
+    {
+      "id": "kingfisher",
+      "name": "रामचिरैया",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kingfisher.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/kingfisher.mp3"
+    },
+    {
+      "id": "woodpecker",
+      "name": "कठफोड़वा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/woodpecker.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/woodpecker.mp3"
+    },
+    {
+      "id": "vulture",
+      "name": "गिद्ध",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/vulture.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/vulture.mp3"
+    },
+    {
+      "id": "falcon",
+      "name": "बाज़",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/falcon.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/falcon.mp3"
+    },
+    {
+      "id": "flamingo",
+      "name": "राजहंस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/flamingo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/flamingo.mp3"
+    },
+    {
+      "id": "crane",
+      "name": "सारस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/crane.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/crane.mp3"
+    },
+    {
+      "id": "heron",
+      "name": "बगुला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/heron.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/heron.mp3"
+    },
+    {
+      "id": "stork",
+      "name": "सारस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/stork.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/stork.mp3"
+    },
+    {
+      "id": "cuckoo",
+      "name": "कोयल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cuckoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/cuckoo.mp3"
+    },
+    {
+      "id": "bulbul",
+      "name": "बुलबुल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/bulbul.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/bulbul.mp3"
+    },
+    {
+      "id": "myna",
+      "name": "मैना",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/myna.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/myna.mp3"
+    },
+    {
+      "id": "hornbill",
+      "name": "हॉर्नबिल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hornbill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/hornbill.mp3"
+    },
+    {
+      "id": "ibis",
+      "name": "आईबिस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ibis.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/ibis.mp3"
+    },
+    {
+      "id": "lapwing",
+      "name": "टिटिहरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lapwing.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/lapwing.mp3"
+    },
+    {
+      "id": "kite",
+      "name": "चील",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/kite.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/kite.mp3"
+    },
+    {
+      "id": "tern",
+      "name": "टर्न",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/tern.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/tern.mp3"
+    },
+    {
+      "id": "gull",
+      "name": "सीगल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/gull.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/gull.mp3"
+    },
+    {
+      "id": "albatross",
+      "name": "अल्बाट्रॉस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/albatross.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/albatross.mp3"
+    },
+    {
+      "id": "penguin",
+      "name": "पेंगुइन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/penguin.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/penguin.mp3"
+    },
+    {
+      "id": "ostrich",
+      "name": "शुतुरमुर्ग",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/ostrich.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/ostrich.mp3"
+    },
+    {
+      "id": "emu",
+      "name": "इमू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/emu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/emu.mp3"
+    },
+    {
+      "id": "quail",
+      "name": "बटेर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/quail.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/quail.mp3"
+    },
+    {
+      "id": "partridge",
+      "name": "तीतर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/partridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/partridge.mp3"
+    },
+    {
+      "id": "pheasant",
+      "name": "फीज़ेंट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/pheasant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/pheasant.mp3"
+    },
+    {
+      "id": "finch",
+      "name": "फिंच",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/finch.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/finch.mp3"
+    },
+    {
+      "id": "canary",
+      "name": "कैनरी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/canary.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/canary.mp3"
+    },
+    {
+      "id": "hummingbird",
+      "name": "हमिंगबर्ड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/hummingbird.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/hummingbird.mp3"
+    },
+    {
+      "id": "swift",
+      "name": "स्विफ्ट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swift.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/swift.mp3"
+    },
+    {
+      "id": "swallow",
+      "name": "अबाबील",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/swallow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/swallow.mp3"
+    },
+    {
+      "id": "lark",
+      "name": "लार्क",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/lark.mp3"
+    },
+    {
+      "id": "nightingale",
+      "name": "बुलबुल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/nightingale.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/nightingale.mp3"
+    },
+    {
+      "id": "magpie",
+      "name": "मैगपाई",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/magpie.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/magpie.mp3"
+    },
+    {
+      "id": "raven",
+      "name": "रेवेन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/raven.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/raven.mp3"
+    },
+    {
+      "id": "jackdaw",
+      "name": "जैकडॉ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/jackdaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/jackdaw.mp3"
+    },
+    {
+      "id": "cockatoo",
+      "name": "कॉकाटू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/cockatoo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/cockatoo.mp3"
+    },
+    {
+      "id": "macaw",
+      "name": "मकाओ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/macaw.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/macaw.mp3"
+    },
+    {
+      "id": "toucan",
+      "name": "टूकैन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/toucan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/toucan.mp3"
+    },
+    {
+      "id": "lorikeet",
+      "name": "लॉरिकीट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/birds/lorikeet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/birds/lorikeet.mp3"
+    }
+  ]
+}

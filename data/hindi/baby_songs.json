@@ -1,0 +1,377 @@
+{
+  "category": "baby_songs",
+  "language": "hindi",
+  "items": [
+    {
+      "id": "twinkle_twinkle",
+      "name": "टिमटिम तारे",
+      "detail": "टिमटिम टिमटिम छोटा तारा,\nकैसा है तू, बताओ प्यारा!\nआसमान में बहुत ऊँचा,\nहीरे जैसा चमचम सारा।\nटिमटिम टिमटिम छोटा तारा,\nकैसा है तू, बताओ प्यारा!\n\nजब सूरज छुप जाता है,\nअंधेरा सब जगह छा जाता है।\nतब तू अपनी रोशनी दिखाता,\nरातभर टिमटिम करता आता।\nटिमटिम टिमटिम छोटा तारा,\nकैसा है तू, बताओ प्यारा!\n\nनीले आसमान में रहता,\nखिड़की से झाँक कर रहता।\nकभी न आँखें बंद करता,\nसूरज आए तो सो जाता।\nटिमटिम टिमटिम छोटा तारा,\nकैसा है तू, बताओ प्यारा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/twinkle_twinkle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/twinkle_twinkle.mp3"
+    },
+    {
+      "id": "johny_johny",
+      "name": "जॉनी जॉनी हाँ पापा",
+      "detail": "जॉनी जॉनी! हाँ पापा!\nचीनी खाई? नहीं पापा!\nझूठ बोले? नहीं पापा!\nमुँह खोलो! हा हा हा!\n\nजॉनी जॉनी! हाँ पापा!\nहोमवर्क किया? हाँ पापा!\nदाँत साफ किए? हाँ पापा!\nशाबाश जॉनी! हा हा हा!\n\nजॉनी जॉनी! हाँ पापा!\nदूध पिया? हाँ पापा!\nहाथ धोए? हाँ पापा!\nबहुत अच्छे जॉनी! हा हा हा!\n\nजॉनी जॉनी, अच्छे से सुनो,\nहमेशा सच ही बोलो तुम।\nहाथ धोकर खाना खाओ,\nअच्छे बच्चे बनकर आओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/johny_johny.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/johny_johny.mp3"
+    },
+    {
+      "id": "baa_baa_black_sheep",
+      "name": "मिमियाती काली भेड़",
+      "detail": "बा बा काली भेड़,\nक्या तुम्हारे पास ऊन है?\nहाँ जी हाँ जी,\nतीन थैले भरे हैं!\n\nएक मालिक के लिए,\nएक मालकिन के लिए,\nऔर एक उस छोटे बच्चे के लिए,\nजो गली के आखिर में रहता है!\n\nबा बा काली भेड़,\nक्या तुम्हारे पास ऊन है?\nहाँ जी हाँ जी,\nतीन थैले भरे हैं!\n\nधन्यवाद काली भेड़,\nतुम्हारी गर्म मुलायम ऊन के लिए।\nहम बनाएँगे कोट गर्म,\nठंड में पहनेंगे हम!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baa_baa_black_sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/baa_baa_black_sheep.mp3"
+    },
+    {
+      "id": "humpty_dumpty",
+      "name": "हम्प्टी डम्प्टी",
+      "detail": "हम्प्टी डम्प्टी दीवार पर बैठा,\nहम्प्टी डम्प्टी नीचे गिर गया!\nराजा के सारे घोड़े,\nराजा के सारे सिपाही,\nहम्प्टी को फिर जोड़ न पाए!\n\nहम्प्टी डम्प्टी पेड़ पर चढ़ा,\nहम्प्टी डम्प्टी घुटने पर गिरा!\nराजा के सारे घोड़े,\nराजा के सारे सिपाही,\nहम्प्टी को उठाने में लगे!\n\nछोटे हम्प्टी, सँभलकर रहो,\nऊँची दीवार पर कभी न बैठो।\nज़मीन पर सुरक्षित खेलो,\nतब कभी न गिरोगे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/humpty_dumpty.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/humpty_dumpty.mp3"
+    },
+    {
+      "id": "jack_jill",
+      "name": "जैक और जिल",
+      "detail": "जैक और जिल पहाड़ चढ़े,\nपानी की बाल्टी लेने गए।\nजैक गिरा, सिर फूटा,\nजिल भी पीछे गिर गई!\n\nजैक उठा, घर को भागा,\nजितनी तेज़ी से दौड़ सका।\nबिस्तर पर जाकर सो गया,\nसिर पर दवा लगाई।\n\nजिल आई और हँस पड़ी,\nजैक की पट्टी देखकर।\nमाँ ने जिल को डाँटा,\nजैक को गिराने के लिए।\n\nजैक और जिल अब सीख गए,\nधीरे से पहाड़ चढ़ना।\nहाथ पकड़कर कुएँ तक जाते,\nपानी भरकर लाते!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_jill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/jack_jill.mp3"
+    },
+    {
+      "id": "row_your_boat",
+      "name": "नाव चलाओ",
+      "detail": "चलाओ चलाओ नाव तुम,\nधारा में हौले हौले।\nखुशी खुशी खुशी खुशी,\nजीवन है एक सपना!\n\nचलाओ चलाओ नाव तुम,\nनदी में हौले हौले।\nमछली दिखे तो तुम्हें,\nहैलो कहना मत भूलो!\n\nचलाओ चलाओ नाव तुम,\nकिनारे तक हौले।\nशेर दिखे तो तुम्हें,\nदहाड़ भरना मत भूलो!\n\nचलाओ चलाओ नाव तुम,\nसमुद्र में हौले हौले।\nदोस्तों के साथ गाओ,\nखुशियाँ बाँटो सभी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/row_your_boat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/row_your_boat.mp3"
+    },
+    {
+      "id": "mary_lamb",
+      "name": "मैरी का मेमना",
+      "detail": "मेरी की एक छोटी मेमना,\nबर्फ जैसी सफेद थी।\nजहाँ जहाँ मेरी जाती,\nमेमना पीछे जाती थी।\n\nएक दिन स्कूल गई,\nमेमना भी पीछे आई।\nबच्चों ने खूब हँसाया,\nमेमना देख कर खेला।\n\nशिक्षक ने उसे बाहर किया,\nपर मेमना पास ही रुकी।\nमेरी के बाहर आने तक,\nधीरज से इंतज़ार किया।\n\nबच्चों ने पूछा शिक्षक से,\nमेमना क्यों प्यार करे मेरी को?\nशिक्षक बोले हँसकर,\nमेरी भी प्यार करे मेमना को!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mary_lamb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/mary_lamb.mp3"
+    },
+    {
+      "id": "wheels_bus",
+      "name": "बस के पहिए घूमते हैं",
+      "detail": "बस के पहिए घूम घूम जाते,\nघूम घूम, घूम घूम।\nबस के पहिए घूम घूम जाते,\nदिनभर पूरे शहर में!\n\nबस के दरवाज़े खुलते बंद होते,\nखुलें बंद, खुलें बंद।\nबस के दरवाज़े खुलते बंद होते,\nदिनभर पूरे शहर में!\n\nबस के वाइपर स्विश स्विश,\nस्विश स्विश, स्विश स्विश।\nबस के वाइपर स्विश स्विश,\nदिनभर पूरे शहर में!\n\nबस का हॉर्न पीं पीं बजे,\nपीं पीं, पीं पीं।\nबस का हॉर्न पीं पीं बजे,\nदिनभर पूरे शहर में!\n\nबस के बच्चे रोते वाहवाह,\nवाहवाह, वाहवाह।\nमाँ कहतीं शू शू शू,\nदिनभर पूरे शहर में!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/wheels_bus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/wheels_bus.mp3"
+    },
+    {
+      "id": "old_macdonald",
+      "name": "बूढ़े मैकडोनाल्ड का खेत",
+      "detail": "बूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!\nऔर उसके खेत में एक गाय थी,\nई-आय-ई-आय-ओ!\nगाय कहे अंबा अंबा,\nइधर अंबा, उधर अंबा,\nहर जगह अंबा अंबा।\nबूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!\n\nबूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!\nऔर उसके खेत में एक बतख था,\nई-आय-ई-आय-ओ!\nबतख कहे क्वैक क्वैक,\nइधर क्वैक, उधर क्वैक,\nहर जगह क्वैक क्वैक।\nबूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!\n\nबूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!\nऔर उसके खेत में एक भेड़ थी,\nई-आय-ई-आय-ओ!\nभेड़ कहे बा बा बा,\nइधर बा, उधर बा,\nहर जगह बा बा।\nबूढ़े मैकडोनाल्ड का एक खेत था,\nई-आय-ई-आय-ओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/old_macdonald.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/old_macdonald.mp3"
+    },
+    {
+      "id": "itsy_bitsy",
+      "name": "छोटी मकड़ी चढ़ी ऊपर",
+      "detail": "छोटी मकड़ी पाइप पर चढ़ी,\nबारिश आई और मकड़ी को नीचे गिरा दिया।\nसूरज आया और सारा पानी सुखाया,\nफिर छोटी मकड़ी ऊपर चढ़ गई!\n\nछोटी मकड़ी दीवार पर चढ़ी,\nझाड़ू आई और मकड़ी को गिरा दिया।\nझाड़ू गई और मकड़ी ने आराम किया,\nफिर छोटी मकड़ी दीवार पर चढ़ गई!\n\nछोटी मकड़ी पेड़ पर चढ़ी,\nबर्फ गिरी और पैर ठंडे हुए।\nसूरज आया और पैर गर्म किए,\nफिर छोटी मकड़ी पेड़ पर चढ़ गई!\n\nकभी भी, कभी भी हार मत मानो,\nछोटी मकड़ी की तरह तुम भी कर सकते हो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/itsy_bitsy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/itsy_bitsy.mp3"
+    },
+    {
+      "id": "five_little_ducks",
+      "name": "पाँच छोटे बत्तख",
+      "detail": "पाँच छोटी बतख एक दिन बाहर गईं,\nपहाड़ियों से बहुत दूर गईं।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपर केवल चार बतख ही वापस आईं।\n\nचार छोटी बतख एक दिन बाहर गईं,\nपहाड़ियों से बहुत दूर गईं।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपर केवल तीन बतख ही वापस आईं।\n\nतीन छोटी बतख एक दिन बाहर गईं,\nपहाड़ियों से बहुत दूर गईं।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपर केवल दो बतख ही वापस आईं।\n\nदो छोटी बतख एक दिन बाहर गईं,\nपहाड़ियों से बहुत दूर गईं।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपर केवल एक बतख ही वापस आई।\n\nएक छोटी बतख एक दिन बाहर गई,\nपहाड़ियों से बहुत दूर गई।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपर कोई भी बतख वापस न आई।\n\nदुखी माँ बतख बाहर गई,\nपहाड़ियों से ज़ोर से बोली।\nमाँ बतख बोली, 'क्वैक क्वैक क्वैक क्वैक!'\nपाँचों बतख भागती हुई आईं!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_ducks.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/five_little_ducks.mp3"
+    },
+    {
+      "id": "head_shoulders",
+      "name": "सिर, कंधे, घुटने, पाँव",
+      "detail": "सिर, कंधे, घुटने, पैर,\nघुटने और पैर!\nसिर, कंधे, घुटने, पैर,\nघुटने और पैर!\nऔर आँख, कान, मुँह, नाक,\nसिर, कंधे, घुटने, पैर,\nघुटने और पैर!\n\nसिर, कंधे, घुटने, पैर,\nताली बजाओ, नाक छूओ!\nसिर, कंधे, घुटने, पैर,\nघुटने और पैर!\nऔर आँख, कान, मुँह, नाक,\nसिर, कंधे, घुटने, पैर,\nघुटने और पैर!\n\nअब थोड़ा तेज़ करो,\nतेज़, तेज़!\nसिर, कंधे, घुटने, पैर,\nघुटने और पैर!\nशरीर के सारे अंग सीखो,\nगाते गाते हँसते जाओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/head_shoulders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/head_shoulders.mp3"
+    },
+    {
+      "id": "if_happy",
+      "name": "खुश हो तो ताली बजाओ",
+      "detail": "अगर तुम खुश हो और जानते हो, ताली बजाओ!\n(ताली ताली)\nअगर तुम खुश हो और जानते हो, ताली बजाओ!\n(ताली ताली)\nअगर तुम खुश हो और जानते हो,\nऔर दिखाना चाहते हो,\nअगर तुम खुश हो और जानते हो, ताली बजाओ!\n(ताली ताली)\n\nअगर तुम खुश हो और जानते हो, पैर पटको!\n(धप धप)\nअगर तुम खुश हो और जानते हो, पैर पटको!\n(धप धप)\nअगर तुम खुश हो और जानते हो,\nऔर दिखाना चाहते हो,\nअगर तुम खुश हो और जानते हो, पैर पटको!\n(धप धप)\n\nअगर तुम खुश हो और जानते हो, चिल्लाओ 'हुर्रे'!\n(हुर्रे!)\nअगर तुम खुश हो और जानते हो, चिल्लाओ 'हुर्रे'!\n(हुर्रे!)\n\nअगर तुम खुश हो और जानते हो, तीनों करो!\n(ताली, धप, हुर्रे!)\nअगर तुम खुश हो और जानते हो, तीनों करो!\n(ताली, धप, हुर्रे!)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/if_happy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/if_happy.mp3"
+    },
+    {
+      "id": "good_morning",
+      "name": "सुप्रभात गीत",
+      "detail": "सुप्रभात सुप्रभात,\nएक नया दिन आ गया!\nसूरज उगा, पंछी गाते,\nउठ जाओ मेरे प्यारे।\n\nदाँत साफ करो, मुँह धोओ,\nबालों में कंघी फेरो।\nदूध पियो, फल खाओ,\nभगवान से प्रार्थना करो।\n\nबस्ता लो, स्कूल जाओ,\nकुछ नया सीख कर आओ।\nमाँ हँसती, पापा भेजते,\nदोस्त राह देखते हैं।\n\nसुप्रभात सुप्रभात,\nदुनिया नई सी लगती।\nप्यार से दिन शुरू होता,\nसुप्रभात, मैं तुमसे प्यार करता!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/good_morning.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/good_morning.mp3"
+    },
+    {
+      "id": "rain_rain_go_away",
+      "name": "बारिश बारिश जा जा जा",
+      "detail": "बारिश बारिश जा जा,\nकिसी और दिन फिर आ।\nछोटा जॉनी खेलना चाहे,\nबारिश बारिश जा जा!\n\nबारिश बारिश जा जा,\nकिसी और दिन फिर आ।\nसारे बच्चे खेलना चाहें,\nबारिश बारिश जा जा!\n\nबारिश बारिश ज़ोर से बरस,\nपर हमारे शहर पर नहीं।\nघास हरी हो बड़ी हो,\nपर धूप हमें दे दो!\n\nबारिश बारिश जा जा,\nरविवार को फिर आ।\nआज सोमवार है, स्कूल है,\nधूप में खेलने दो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rain_rain_go_away.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/rain_rain_go_away.mp3"
+    },
+    {
+      "id": "yere_yere_pavsa",
+      "name": "आओ आओ बारिश",
+      "detail": "आ रे आ रे बारिश, तुझे दूँगा पैसा!\nपैसा निकला झूठा, बारिश आई भारी।\n\nआ रे आ रे बारिश, पेड़ तुझे पुकारें,\nमिट्टी गीली गीली, किसान हँसते जारे।\n\nआ रे आ रे बारिश, बच्चे बाहर दौड़ें,\nपानी में छप छप, हँसते नाचते जारे।\n\nआ रे आ रे बारिश, खेत लहलहाते,\nचावल गेहूँ उगते, फूल खिलते जारे।\n\nआ रे आ रे बारिश, नदियाँ भर कर बहें,\nमोर पंख फैलाए, मेंढक टर्र टर्र कहें।\n\nआ रे आ रे बारिश, धरती का वरदान!\nधन्य धन्य तेरा आना, तू है हमारी जान!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/yere_yere_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/yere_yere_pavsa.mp3"
+    },
+    {
+      "id": "chanda_mama",
+      "name": "चंदा मामा आ जाओ",
+      "detail": "चंदा मामा आ रे आ रे,\nदूध का घड़ा ले रे ले रे!\n\nचाँदनी में खेलेंगे हम,\nमीठे गीत गाएँगे हम!\n\nबच्चा थका, नींद आई,\nचंदा मामा लोरी सुनाओ!\n\nएक दो तीन तारे गिनो,\nबच्चे को कहानी सुनाओ!\n\nबच्चा हँसा तुम भी हँसो,\nप्यार की चाँदनी बरसाओ!\n\nमामा तेरा घर कहाँ है,\nआसमान में ऊँचाई है!\n\nचंदा मामा दूर मत जाओ,\nखिड़की से झाँकते जाओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/chanda_mama.mp3"
+    },
+    {
+      "id": "aala_paus",
+      "name": "बारिश आई बारिश आई",
+      "detail": "आई बारिश आई, हवा के साथ आई!\nपेड़ झूमने लगे, पत्ते टप टप गिरे।\n\nछाता लो रे छाता, रेनकोट भी पहनो,\nपानी की नाली में, काग़ज़ की नाव चलाओ!\n\nमेंढक कूद रहे, तालाब के किनारे,\nमोर पंख फैलाए, हरे पेड़ के सहारे!\n\nकिसान हँसते हैं, खेत हरियाली में डूबे,\nहर बूँद है मानो, भगवान का आशीर्वाद सच्चे।\n\nआई बारिश आई, खुशियाँ बरसने लगीं!\nधन्यवाद हे बारिश, तू हमारा जीवन!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aala_paus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/aala_paus.mp3"
+    },
+    {
+      "id": "chittu_chirri",
+      "name": "चिड़िया उड़ी ऊपर",
+      "detail": "चिट्टू चिर्री छोटी चिड़िया,\nआसमान में ऊँची उड़े।\nचीं चीं चीं गीत गाए,\nछोटे पैरों से कूदे।\n\nएक तिनका, एक घास,\nपेड़ पर घोंसला बनाए।\nप्यार से अंडे सेती है,\nबच्चों की राह देखे।\n\nबच्चे छोटे मुलायम,\nचोंच खोलकर माँगें खाना।\nमाँ पापा दोनों उड़ते,\nबच्चों के लिए लाएँ दाना।\n\nचिट्टू चिर्री सिखा दे,\nप्यार कैसे करें कैसे देंगे।\nआसमान में आज़ाद उड़ो,\nऊँचा घोंसला बनाएँगे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chittu_chirri.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/chittu_chirri.mp3"
+    },
+    {
+      "id": "lakdi_ki_kathi",
+      "name": "लकड़ी की काठी",
+      "detail": "लकड़ी की काठी, काठी पे घोड़ा,\nघोड़े पे बैठा छोटा राजा!\nवीरता से आगे बढ़ा,\nगाँव में फेरा लगाया।\n\nटप टप टप घोड़ा दौड़े,\nखेतों से सड़कों से।\nराजा हाथ हिलाए सबको,\nप्यार से सबसे मिले।\n\nघोड़े को पत्थर से डर नहीं,\nघोड़े को बारिश से डर नहीं।\nलकड़ी की काठी, काठी पे घोड़ा,\nथकता नहीं, रुकता नहीं!\n\nबच्चे खेलते घोड़े के साथ,\nगाँव की गली गली में।\nलकड़ी की काठी, काठी पे घोड़ा,\nहर बच्चे को प्यारा लगे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/lakdi_ki_kathi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/lakdi_ki_kathi.mp3"
+    },
+    {
+      "id": "mera_naam_chu_chu",
+      "name": "मेरा नाम चू चू",
+      "detail": "मेरा नाम चू चू,\nमैं एक छोटा चूहा।\nघर के एक छोटे बिल में,\nकोने में रहता हूँ।\n\nपनीर के टुकड़े खाता हूँ,\nरात को नाचता फिरता हूँ।\nबिल्ली आए तो भागता,\nबिल में छिप जाता हूँ।\n\nचू चू चू चू, दौड़ दौड़ दौड़,\nरसोई में गोल गोल।\nचू चू चू चू, छिप छिप छिप,\nदरवाज़े के पीछे चुपचाप।\n\nमेरा नाम चू चू,\nचतुर छोटा चूहा।\nचीं चीं नाच के खेलूँ,\nखुश घर में रहता हूँ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mera_naam_chu_chu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/mera_naam_chu_chu.mp3"
+    },
+    {
+      "id": "nani_teri_morni",
+      "name": "नानी तेरी मोरनी",
+      "detail": "नानी की मोरनी सुंदर थी,\nमोरनी ने अंडे दिए।\nकोई आया, अंडे चुरा लिए,\nनानी भागी दौड़ी आई।\n\nमोरनी रोई, नानी परेशान,\nबाग़ में ढूँढा हर जगह।\nकुएँ के पीछे, पेड़ के नीचे,\nपर अंडे कहीं न मिले।\n\nअगली सुबह छोटी चूँ चूँ,\nनानी के छप्पर के अंदर।\nअंडे फूटे, चूज़े सुरक्षित,\nनरम घास में गुडुप गुडुप!\n\nनानी हँसी, मोरनी नाची,\nपंख चमके धूप में।\nचूज़े यहाँ वहाँ दौड़े,\nहर दिल में खुशी भर गई!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nani_teri_morni.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/nani_teri_morni.mp3"
+    },
+    {
+      "id": "machhli_jal_ki_rani",
+      "name": "मछली जल की रानी है",
+      "detail": "मछली जल की रानी है,\nजीवन उसका पानी है।\nहाथ लगाओ तो भागे,\nझटपट दूर चली जाए।\n\nचाँदी जैसी चमकीली खल,\nछोटी आँखें टिमटिमाती।\nछोटे पंख फड़फड़ाते,\nसुबह की धूप में चमचमाते।\n\nनदी में, तालाब में, समंदर में,\nनीले गहरे पानी में।\nमछलियाँ खुशी से तैरें,\nआज़ाद आज़ाद हों।\n\nमछली जल की रानी है,\nकभी उसे मत सताना।\nनदियाँ साफ नीली रखो,\nमछली हँसती रहे सदा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/machhli_jal_ki_rani.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/machhli_jal_ki_rani.mp3"
+    },
+    {
+      "id": "chanda_mama_door_ke",
+      "name": "चंदा मामा दूर के",
+      "detail": "चंदा मामा दूर के,\nमीठी मीठी पकाते।\nबड़ी थाली में पूरी,\nबच्चे को छोटी कटोरी में।\n\nचंदा मामा नीचे आओ,\nबच्चे को कहानी सुनाओ।\nपालना धीरे धीरे हिलाओ,\nरात की हवा शांत बनाओ।\n\nचाँदी के तारे टिमटिमाएँ,\nएक दो तीन चार गिनें।\nबच्चे की पलकें भारी,\nसपने दरवाज़े पर खड़े।\n\nचंदा मामा दूर के,\nधन्यवाद सुंदर रात के लिए।\nशुभरात्रि चाँद, शुभरात्रि तारे,\nसो जा बच्चे अब प्यारे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama_door_ke.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/chanda_mama_door_ke.mp3"
+    },
+    {
+      "id": "ek_do_teen",
+      "name": "एक दो तीन",
+      "detail": "एक, दो, तीन, चार, पाँच,\nछह, सात, आठ, नौ, दस!\nअंगूठा दिखाओ, उँगलियाँ दिखाओ,\nसब को फिर से गिनते जाओ।\n\nग्यारह, बारह, तेरह, चौदह, पंद्रह,\nसोलह, सत्रह, अठारह, उन्नीस, बीस!\nताल पर ताली बजाओ,\nगिनना बहुत मज़ेदार है।\n\nटोकरी में सेब गिनो,\nआसमान में तारे गिनो।\nपास बैठे दोस्त गिनो,\nउड़ते पंछी गिनो सब।\n\nएक, दो, तीन, चार, पाँच,\nसंख्या बुद्धि देती है सच।\nगाते गाते कहो सब,\nहर संख्या है इनाम सच!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ek_do_teen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/ek_do_teen.mp3"
+    },
+    {
+      "id": "hathi_raja",
+      "name": "हाथी राजा कहाँ चले",
+      "detail": "हाथी राजा हाथी राजा,\nकहाँ चले आज आप?\nलंबी सूँड हिलाते हुए,\nशान से चले आप।\n\n'जंगल में मैं जा रहा,\nपत्ते फूल लेने।\nसूँड से पानी पीता हूँ,\nघंटों नहाता हूँ।'\n\nहाथी राजा बड़ा बलवान,\nऊँचे पेड़ से भी ऊँचा।\nकान हिलते, सूँड झूले,\nराजा खुशी में बैठा।\n\nबच्चों को प्यारा हाथी राजा,\nचौड़ी पीठ पर बैठ जाते।\nहाथी सूँड हिलाता है,\nतुतारी बजाता चलता है!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hathi_raja.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/hathi_raja.mp3"
+    },
+    {
+      "id": "pooja_tulsi",
+      "name": "तुलसी की पूजा",
+      "detail": "तुलसी माँ तुलसी माँ,\nतेरे पत्तों को प्रणाम।\nसुबह शाम रोज़ करें,\nफूल और प्रार्थना अर्पित करें।\n\nघी का दीप जलाएँ,\nघंटी धीरे बजाएँ।\nशक्कर अर्पण करें,\nशुद्ध जल चढ़ाएँ।\n\nतुलसी तू औषधि,\nतुलसी तू पवित्र।\nपरिवार को स्वास्थ्य दे,\nघर को सुरक्षा दे।\n\nतुलसी माँ तुलसी माँ,\nघर में शांति भर दे।\nसब सुखी रहें सदा,\nहर दुःख मिट जाए!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pooja_tulsi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/pooja_tulsi.mp3"
+    },
+    {
+      "id": "nanachi_goshta",
+      "name": "नाना की कहानी",
+      "detail": "नाना नाना कहानी सुनाओ,\nहमारे पास आकर बैठो।\nपुराने वीर राजाओं की,\nजंगल के जानवरों की।\n\nशेर बलवान की कहानी,\nचतुर कौए की कहानी।\nधीमे कछुए की कहानी,\nसप्तरंगी इंद्रधनुष की।\n\nबच्चे पैरों के पास बैठते,\nआँखें खोलकर सुनते।\nहर कहानी में एक सीख,\nहर सीख एक मार्गदर्शन।\n\nनाना नाना कहानी सुनाओ,\nतारे निकलने तक सुनाओ।\nसच्चाई और हिम्मत के सपने दो,\nसही राह हमें दिखाओ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nanachi_goshta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/nanachi_goshta.mp3"
+    },
+    {
+      "id": "balgeet_pavsa",
+      "name": "बारिश का बालगीत",
+      "detail": "टप टप टप टप बारिश गिरे,\nज़मीन गीली गीली हो।\nहर बूँद टिप टिप करे,\nकितनी सुंदर आवाज़ करे।\n\nमेंढक कूदें टर्र टर्र,\nतालाब में और घास पर।\nबच्चे हँसें पानी में छपें,\nबादल उड़ते देखते हैं।\n\nएक काग़ज़ मोड़ो प्यारा,\nछोटी काग़ज़ की नाव बनाओ।\nछोटी नाली में डालो,\nअपनी नाव को तैरते देखो।\n\nटप टप टप टप बारिश गिरे,\nधरती हरी हरी मुस्काए।\nहर फूल बूँद पीए,\nकितना खुशहाल दृश्य!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balgeet_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/balgeet_pavsa.mp3"
+    },
+    {
+      "id": "majha_babu",
+      "name": "मेरा बच्चा",
+      "detail": "मेरा बाबू हँसे खेले,\nदिनभर मीठी मुस्कान।\nछोटे छोटे पैर नाचें,\nसबसे प्यारा मेरा बाबू।\n\nमाँ की गोद में सोता,\nतारों के सपने देखता।\nछोटी उँगली, छोटे पैर,\nगुलाब जैसी छोटी नाक।\n\nपापा ऊँचा उछालते,\nबाबू आसमान तक हँसे।\nदादी दूध पिलाती है,\nदादा लोरी सुनाते हैं।\n\nमेरा बाबू पवित्र उज्ज्वल,\nघर में खुशी भर देता।\nभगवान रोज़ आशीर्वाद दें,\nमज़बूत बड़ा हो सही से!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/majha_babu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/majha_babu.mp3"
+    },
+    {
+      "id": "abc_song",
+      "name": "ए बी सी गाना",
+      "detail": "ए बी सी डी ई एफ़ जी,\nएच आई जे के एल एम एन ओ पी।\nक्यू आर एस टी यू वी,\nडब्ल्यू एक्स वाई और ज़ेड।\nअब मुझे अक्षर आ गए,\nतुम भी मेरे साथ गाओ!\n\nए से एप्पल लाल गोल,\nबी से बॉल उछलती।\nसी से कैट म्याऊँ कहे,\nडी से डॉग भौं भौं।\n\nई से एलिफेंट बड़ा ग्रे,\nएफ़ से फ़िश तैरती है।\nजी से ग्रेप्स बेल पर,\nएच से हाउस जहाँ रहते।\n\nए बी सी डी ई एफ़ जी,\nसाथ में गाओ और नाचो!\nअक्षर मिलकर शब्द बनें,\nशब्दों से कहानी कहें!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/abc_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/abc_song.mp3"
+    },
+    {
+      "id": "butterfly_song",
+      "name": "तितली का गाना",
+      "detail": "तितली तितली इधर उधर उड़े,\nरंगीन पंख बिना आवाज़।\nफूल पर बैठे मीठे से,\nमधु मीठा चखे प्यारा।\n\nलाल, पीला, नीला, हरा,\nसबसे सुंदर पंख तेरे।\nपंख फैलाए, पंख ऊँचा,\nतितली आसमान छू ले।\n\nफूल से फूल पर उड़े,\nसुबह के नीले आसमान में।\nबाग़ गाते, बच्चे ताली,\nतितली पास उड़े जब भी।\n\nतितली तितली सिखा दे,\nधूप में नाचना कैसे।\nमुझे भी फड़फड़ाने दो,\nइस सुंदर धूप में खेलने दो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/butterfly_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/butterfly_song.mp3"
+    },
+    {
+      "id": "shapes_song",
+      "name": "आकार का गाना",
+      "detail": "गोल गोल घूमे वृत्त,\nकोना नहीं, सीधी रेखा नहीं।\nसूरज जैसा, चाँद जैसा,\nवृत्त कितना सुंदर लगे।\n\nवर्ग की चार समान भुजा,\nचार कोने सजे सज।\nखिड़की, किताब, फोटो फ्रेम,\nवर्ग दिन रात दिखते।\n\nत्रिकोण के तीन कोने,\nतीन भुजा मज़बूत करे।\nपहाड़, छत, आइसक्रीम कोन,\nत्रिकोण हर जगह दिखे।\n\nआयत लंबा और चौड़ा,\nचार कोने दो लंबी भुजा।\nदरवाज़े, मेज़, किताब, पलंग,\nआयत हर जगह देख लो!\n\nवृत्त, वर्ग, त्रिकोण, आयत,\nआकार हैं चारों ओर।\nमेरे साथ देखो सीखो,\nनए आकार मिलेंगे!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/shapes_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/shapes_song.mp3"
+    },
+    {
+      "id": "colors_song",
+      "name": "रंगों का गाना",
+      "detail": "लाल लाल लाल सेब,\nपीला पीला सूरज है।\nनीला नीला सागर,\nहरी हरी घास है।\n\nनारंगी नारंगी गाजर,\nबैंगनी बैंगनी बेर।\nगुलाबी गुलाबी फूल,\nभूरा भूरा ढोल।\n\nकाला काला कौआ उड़े,\nसफेद सफेद दूध पिए।\nहर चीज़ में रंग चमके,\nहर रंग सोचने पर मजबूर करे।\n\nइंद्रधनुष के सात रंग,\nबारिश के बाद आसमान में।\nलाल, नारंगी, पीला, हरा,\nनीला, जामुनी, बैंगनी, ऊँचे ऊँचे।\n\nसाथ में रंगों का गीत गाओ,\nताली बजाकर नाचो जाओ।\nरंगीन दुनिया, खुशहाल दुनिया,\nचलो रंगों का गीत सीखें!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/colors_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/colors_song.mp3"
+    },
+    {
+      "id": "baby_shark",
+      "name": "बेबी शार्क",
+      "detail": "बेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क, डू डू, डू डू डू डू,\nबेबी शार्क!\n\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क, डू डू, डू डू डू डू,\nमम्मी शार्क!\n\nडैडी शार्क, डू डू, डू डू डू डू,\nडैडी शार्क, डू डू, डू डू डू डू,\nडैडी शार्क, डू डू, डू डू डू डू,\nडैडी शार्क!\n\nदादी शार्क, डू डू, डू डू डू डू,\nदादी शार्क, डू डू, डू डू डू डू,\nदादी शार्क, डू डू, डू डू डू डू,\nदादी शार्क!\n\nदादा शार्क, डू डू, डू डू डू डू,\nदादा शार्क, डू डू, डू डू डू डू,\nदादा शार्क, डू डू, डू डू डू डू,\nदादा शार्क!\n\nशिकार चलो, डू डू, डू डू डू डू,\nदूर भागो, डू डू, डू डू डू डू,\nसुरक्षित अंत, डू डू, डू डू डू डू,\nखत्म हुआ!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baby_shark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/baby_shark.mp3"
+    },
+    {
+      "id": "five_little_monkeys",
+      "name": "पाँच छोटे बंदर",
+      "detail": "पाँच छोटे बंदर पलंग पर कूद रहे थे,\nएक गिरा और सिर टकराया।\nमाँ ने डॉक्टर को बुलाया, डॉक्टर बोले,\n'अब पलंग पर मत कूदो!'\n\nचार छोटे बंदर पलंग पर कूद रहे थे,\nएक गिरा और सिर टकराया।\nमाँ ने डॉक्टर को बुलाया, डॉक्टर बोले,\n'अब पलंग पर मत कूदो!'\n\nतीन छोटे बंदर पलंग पर कूद रहे थे,\nएक गिरा और सिर टकराया।\nमाँ ने डॉक्टर को बुलाया, डॉक्टर बोले,\n'अब पलंग पर मत कूदो!'\n\nदो छोटे बंदर पलंग पर कूद रहे थे,\nएक गिरा और सिर टकराया।\nमाँ ने डॉक्टर को बुलाया, डॉक्टर बोले,\n'अब पलंग पर मत कूदो!'\n\nएक छोटा बंदर पलंग पर कूद रहा था,\nवह गिरा और सिर टकराया।\nमाँ ने डॉक्टर को बुलाया, डॉक्टर बोले,\n'सभी बंदरों को तुरंत सुला दो!'",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_monkeys.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/five_little_monkeys.mp3"
+    },
+    {
+      "id": "hickory_dickory",
+      "name": "हिकरी डिकरी डॉक",
+      "detail": "हिकरी डिकरी डॉक,\nचूहा घड़ी पर चढ़ गया।\nघड़ी ने एक बजाया,\nचूहा नीचे उतर आया,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nचूहा घड़ी पर चढ़ गया।\nघड़ी ने दो बजाया,\nऔर उड़ता चला नीचे,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nचूहा घड़ी पर चढ़ गया।\nघड़ी ने तीन बजाया,\nऔर बिल में भागा,\nहिकरी डिकरी डॉक!\n\nहिकरी डिकरी डॉक,\nचूहा घड़ी पर चढ़ गया।\nघड़ी ने चार बजाया,\nफ़र्श पर गिरा,\nहिकरी डिकरी डॉक!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hickory_dickory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/hickory_dickory.mp3"
+    },
+    {
+      "id": "london_bridge",
+      "name": "लंदन का पुल टूटा",
+      "detail": "लंदन पुल गिर रहा है,\nगिर रहा है, गिर रहा है।\nलंदन पुल गिर रहा है,\nमेरी सुंदर रानी।\n\nलकड़ी और मिट्टी से बनाओ,\nलकड़ी मिट्टी, लकड़ी मिट्टी।\nलकड़ी और मिट्टी से बनाओ,\nमेरी सुंदर रानी।\n\nलकड़ी मिट्टी बह जाएगी,\nबह जाएगी, बह जाएगी।\nलकड़ी मिट्टी बह जाएगी,\nमेरी सुंदर रानी।\n\nलोहे और स्टील से बनाओ,\nलोहा स्टील, लोहा स्टील।\nलोहे और स्टील से बनाओ,\nमेरी सुंदर रानी।\n\nसोने चाँदी से बनाओ,\nसोना चाँदी, सोना चाँदी।\nसोने चाँदी से बनाओ,\nमेरी सुंदर रानी!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/london_bridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/london_bridge.mp3"
+    },
+    {
+      "id": "pat_a_cake",
+      "name": "पैट ए केक",
+      "detail": "पैट ए केक, पैट ए केक, बेकर आदमी,\nकेक बनाओ जितनी जल्दी बन सके।\nथाप थाप, बी का निशान लगाओ,\nओवन में रख दो बच्चे और मेरे लिए!\n\nपैट ए केक, पैट ए केक, बेकर आदमी,\nबिस्किट बनाओ जितनी जल्दी बन सके।\nगोल करो, काटो, मीठा निशान लगाओ,\nओवन में रखो, मीठा मज़ा!\n\nपैट ए केक, पैट ए केक, बेकर आदमी,\nरोटी बनाओ जितनी जल्दी बन सके।\nगूँधो, आकार दो, प्यार का निशान लगाओ,\nप्रार्थना से आशीर्वाद दो!\n\nबेकर बेकर, कितने दयालु आप,\nबच्चों को खाना खिलाते आप।\nताली बजाकर धन्यवाद कहें,\nगर्म रोटी और केक के लिए!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pat_a_cake.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/pat_a_cake.mp3"
+    },
+    {
+      "id": "little_miss_muffet",
+      "name": "छोटी मिस मफेट",
+      "detail": "छोटी मिस मफ़ेट स्टूल पर बैठी,\nदही और मट्ठा खा रही थी।\nवहाँ आया एक बड़ी मकड़ी,\nपास में बैठ गई,\nमिस मफ़ेट डरकर भाग गई!\n\nछोटी मिस मफ़ेट एक दिन वापस आई,\nनाश्ता पूरा करने के लिए।\nमकड़ी गई, सूरज चमक रहा था,\nमिस मफ़ेट मुस्कुरा कर बैठी।\n\nएक पंछी दोस्त के साथ बाँटा,\nबिना बोले गीत गुनगुनाया।\nअब वह बहादुर है, डरती नहीं,\nखेत बाग़ में किसी भी जीव से!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/little_miss_muffet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/little_miss_muffet.mp3"
+    },
+    {
+      "id": "jack_be_nimble",
+      "name": "जैक चुस्त है",
+      "detail": "जैक चुस्त है, जैक तेज़ है,\nजैक मोमबत्ती के ऊपर से कूदे!\n\nजैक ऊँची कूद, जैक नीची कूद,\nलौ के ऊपर से जैक कूदे।\n\nजैक बाएँ, जैक दाएँ,\nपूरी ताक़त से कूदे।\n\nजैक सँभले, जैक प्यारा,\nसुरक्षित कूदना ही अच्छा।\n\nजैक चुस्त है, जैक तेज़ है,\nहर कूद एक नया खेल है!\n\nछोटे दोस्तो, आओ मिलकर,\nऊँची कूदो, आसमान छूओ!\n\nहाथ में हाथ डालकर खेलो,\nखुशी खुशी मिलकर रहो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_be_nimble.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/jack_be_nimble.mp3"
+    },
+    {
+      "id": "star_light",
+      "name": "तारे की रोशनी",
+      "detail": "तारा रोशनी, तारा चमकीला,\nआज रात का पहला तारा।\nइच्छा करूँगा, इच्छा करूँगा,\nआज रात पूरी हो जाए।\n\nछोटा तारा, बहुत ऊँचा,\nआसमान में टिमटिमाता।\nपुराने नए रहस्य बताओ,\nसपने कानाफूसी करो जो सच हों।\n\nइच्छा करो, आँख बंद करो,\nआसमान के तारे गिनो।\nनींद भरी रात उतरती है,\nतारे शहर पर चमकते हैं।\n\nशुभरात्रि तारे, शुभरात्रि चाँद,\nसुबह सूरज जल्दी आएगा।\nसपने इंतज़ार करते गर्म तंग,\nतारा रोशनी, तारा चमकीला, शुभरात्रि!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/star_light.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/star_light.mp3"
+    },
+    {
+      "id": "ting_ting_ghanta",
+      "name": "टिंग टिंग घंटी बजी",
+      "detail": "टिंग टिंग टिंग घंटी बजे,\nअब उठने का समय है!\nहाथ तानो, मुँह धोओ,\nबिस्तर ठीक करो।\n\nटिंग टिंग टिंग स्कूल की घंटी,\nबस्ता जल्दी उठाओ।\nमाँ पापा को बाय बोलो,\nदौड़ो नहीं तो देर होगी।\n\nटिंग टिंग टिंग क्लास की घंटी,\nकुर्सी पर ठीक बैठो।\nकिताब खोलो, पेन उठाओ,\nशिक्षक की आवाज़ सुनो।\n\nटिंग टिंग टिंग खाने की घंटी,\nखाने और खेलने का समय।\nहर दोस्त से खाना बाँटो,\nखुशहाल स्कूल दिन हुर्रे!\n\nटिंग टिंग टिंग घर की घंटी,\nअब घर जाने का समय।\nमाँ को गले लगाओ, पापा को चूमो,\nसब बताओ जो सीखा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ting_ting_ghanta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/ting_ting_ghanta.mp3"
+    },
+    {
+      "id": "aai_gaan",
+      "name": "माँ का गाना",
+      "detail": "सो जा सो जा मेरे बच्चे,\nमाँ सुंदर गीत गाए।\nचाँद आसमान में झिलमिल,\nलोरी लोरी बच्चे सो जा।\n\nछोटी पलकें नरम मीठी,\nछोटी उँगली, छोटे पैर।\nमाँ पालना हिलाती है,\nसपनों की दुनिया में जाने को।\n\nफूलों के सपने देख,\nपेड़ों के सपने देख।\nनरम हवा के सपने,\nपवित्र देवदूतों के सपने।\n\nमाँ का प्यार गर्म गहरा,\nकभी खत्म नहीं होता।\nसो जा सो जा मेरे बच्चे,\nमाँ हमेशा यहीं है!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aai_gaan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/aai_gaan.mp3"
+    },
+    {
+      "id": "jhopdi_jhopdi",
+      "name": "झोंपड़ी झोंपड़ी",
+      "detail": "झोपड़ी झोपड़ी छोटी झोपड़ी,\nकिसान के खेत में खड़ी।\nमिट्टी घास लकड़ी की बनी,\nमज़बूत गर्म सहारा देती।\n\nअंदर रहते दयालु किसान,\nसूरज से पहले उठते हैं।\nखेत उगाते, गायें दूह,\nदिनभर मेहनत करते।\n\nबारिश आए, हवा बजे,\nझोपड़ी वीरता से खड़ी।\nकिसान के परिवार को आश्रय,\nआश्रय प्यार घर सभी को।\n\nझोपड़ी झोपड़ी छोटी झोपड़ी,\nईमानदार हाथों का सादा घर।\nतेरे खेतों से अन्न हमारा,\nकिसान को आशीर्वाद, धरती को प्रणाम!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jhopdi_jhopdi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/jhopdi_jhopdi.mp3"
+    },
+    {
+      "id": "rang_birangi_duniya",
+      "name": "रंग बिरंगी दुनिया",
+      "detail": "रंगीन दुनिया है ये,\nकितनी सुंदर और चमकीली!\nबाग़ में लाल फूल खिलते,\nनीला आसमान रोशनी में चमके।\n\nपैरों के नीचे हरी घास,\nपीली धूप गर्म मीठी।\nशाम को नारंगी सूर्यास्त,\nगुलाबी बादल तैरते प्यारे।\n\nबेल पर बैंगनी अंगूर,\nसुंदर दिन पर सफ़ेद बादल।\nभूरी मिट्टी अन्न देती,\nकाली रात थकान विश्राम।\n\nरंगीन दुनिया, रंगीन दुनिया,\nकितना प्यार करें तुम्हें।\nहर रंग कहानी कहे,\nहर रंग चमक कर दिखाए!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rang_birangi_duniya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/rang_birangi_duniya.mp3"
+    },
+    {
+      "id": "sunny_day",
+      "name": "धूप का सुंदर दिन",
+      "detail": "सूरज पूरब से उगा,\nसुनहरी किरणें चमकें।\nपंछी मीठा ज़ोर गाते,\nओस से फूल खिलते।\n\nबच्चे झटपट बिस्तर से उठते,\nजूते पहन बाहर दौड़ते।\nआसमान में पतंग उड़ते,\nसाइकिल पर सैर करते।\n\nबाग़ में, पार्क में हर जगह,\nदोस्त खेलें हँसते हँसते।\nतितली मधुमक्खी जाते,\nसुबह की किरण पीछे दौड़ते।\n\nकितना सुंदर धूप का दिन,\nगर्माहट और खुशी भरपूर।\nधन्यवाद सूरज, चमकने को,\nसभी को खुशी देने को!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sunny_day.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/sunny_day.mp3"
+    },
+    {
+      "id": "clean_up",
+      "name": "साफ करो घर",
+      "detail": "सफ़ाई करो सफ़ाई करो, हर कोई हर जगह,\nसफ़ाई करो सफ़ाई करो, हर कोई हिस्सा लो!\n\nजो खिलौना दिखे उठा लो,\nजहाँ था वहीं रखो।\nकिताबें शेल्फ़ पर ठीक रखो,\nख़ुद के हाथ से करो।\n\nमेज़ पोंछो, फ़र्श झाड़ो,\nअलमारी बंद करो, दरवाज़ा बंद करो।\nकपड़े तह करो, बिस्तर लगाओ,\nमन में अच्छे विचार रखो।\n\nसफ़ाई करो सफ़ाई करो, हर कोई गाओ,\nसफ़ाई करो सफ़ाई करो, खुशी का काम!\n\nसाफ़ घर खुशहाल घर,\nजहाँ छोटे बच्चे खेलें।\nसाफ़ हाथ, मुँह, मन, दिल,\nयही एक छोटा नियम है!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/clean_up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/clean_up.mp3"
+    },
+    {
+      "id": "sleeping_song",
+      "name": "सोने का गाना",
+      "detail": "पालना धीरे हिलाओ अब,\nबच्चे की आँखें नींद में।\nलोरी सुनते जाओ,\nसपने इंतज़ार कर रहे।\n\nएक तारा, दो तारे गिनो,\nआसमान के तीन तारे।\nचार पाँच छह तारे चमकें,\nपलकें बंद एक साँस के साथ।\n\nदेवदूत पलंग की रक्षा करें,\nमीठी लोरी कानाफूसी करें।\nमाँ का प्यार चारों ओर,\nरातभर सुरक्षित सब समय।\n\nसो जा मेरे प्यारे सो जा,\nकल एक और दिन है।\nधूप से दोस्तों से भरा,\nहँसी और खेल से भरा!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sleeping_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/sleeping_song.mp3"
+    },
+    {
+      "id": "number_song",
+      "name": "नंबर का गाना",
+      "detail": "एक एक एक, हाथी चले,\nदो दो दो, हंस आसमान में उड़ें।\nतीन तीन तीन, मेंढक कूदें कूदें,\nचार चार चार, शेर रुकते नहीं।\n\nपाँच पाँच पाँच, समुद्र में मछली,\nछह छह छह, पेड़ पर फूल।\nसात सात सात, इंद्रधनुष के रंग,\nआठ आठ आठ, धीमे घोंघे।\n\nनौ नौ नौ, घंटी बजे ज़ोर,\nदस दस दस, प्यारे बच्चे हमारे।\nऊपर गिनो और नीचे गिनो,\nसंख्या मदद करे चारों ओर!\n\nउँगली गिनो, पैर की उँगली गिनो,\nगुलाब की पंखुड़ी गिनो।\nसंख्या बुद्धि चतुराई दे,\nगिनने का अभ्यास, इनाम जीतो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/number_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/number_song.mp3"
+    },
+    {
+      "id": "animals_song",
+      "name": "जानवरों का गाना",
+      "detail": "शेर दहाड़े 'दहाड़ दहाड़ दहाड़!'\nकुत्ता कहे 'भौं भौं भौं!'\nबिल्ली कहे 'म्याऊँ म्याऊँ!'\nगाय कहे 'अंबा अंबा!'\n\nघोड़ा कहे 'हिन हिन हिन!'\nमेंढक कहे 'टर्र टर्र टर्र!'\nभेड़ कहे 'बा बा बा!'\nबतख कहे 'क्वैक क्वैक!'\n\nबकरी कहे 'मे मे मे!'\nसूअर कहे 'घुर्र घुर्र!'\nगधा कहे 'हीं चूं हीं चूं!'\nमुर्गा बोले 'कुकड़ू कूँ!'\n\nजानवर बड़े जानवर छोटे,\nहर एक की अलग आवाज़।\nध्यान से सुनो, साथ गाओ,\nकितना खुशहाल परिवार!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/animals_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/animals_song.mp3"
+    },
+    {
+      "id": "fruits_song",
+      "name": "फलों का गाना",
+      "detail": "आम आम मीठा पीला,\nकेला केला लंबा नरम।\nसेब सेब लाल गोल,\nसंतरा रसीला स्वाद।\n\nअंगूर अंगूर हरे छोटे,\nपपीता पपीता बड़ा लंबा।\nअनार बीजों से भरा,\nचीकू सचमुच बहुत मीठा!\n\nतरबूज़ ठंडा मीठा,\nअनानास मुकुट जैसा सुंदर।\nस्ट्रॉबेरी लाल चमकीली,\nअमरूद विटामिन से भरा।\n\nफल खाओ रोज़ रोज़,\nखेलने को मज़बूत हो जाओगे।\nहर निवाले में स्वास्थ्य,\nचमकते सीधे खड़े रहो!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/fruits_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/fruits_song.mp3"
+    },
+    {
+      "id": "balpan",
+      "name": "बचपन मेरा",
+      "detail": "ओ मेरा बचपन, ओ मेरा बचपन,\nकितना सुंदर तू है!\nखेल हँसना सीखना बढ़ना,\nहर तेज़ तारे से भी उज्ज्वल।\n\nमाँ पापा के प्यार में,\nदोस्तों के साथ हँसकर खेलता।\nदादी की कहानी, दादा की समझदारी,\nरोज़ कुछ नया सिखाती।\n\nछोटे कंधे पर स्कूल बैग,\nपेंसिल, किताब, चमकते जूते।\nदयालु शिक्षक, बड़े सबक,\nरोज़ कुछ नया मिलता।\n\nपार्क में झूला और फिसल पट्टी,\nअंधेरे तक साइकिल की सवारी।\nबारिश पकड़, सूरज का पीछा,\nबचपन सच में बहुत मज़ेदार!\n\nओ मेरा बचपन, ओ मेरा बचपन,\nतुझे मैं हमेशा सहेजूँगा।\nसारी यादें, सारी हँसी,\nकभी नहीं भूलूँगा कभी नहीं!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balpan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/hindi/baby_songs/balpan.mp3"
+    }
+  ]
+}

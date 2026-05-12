@@ -1,0 +1,246 @@
+{
+  "category": "animals",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "lion",
+      "name": "सिंह",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/lion.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/lion.mp3"
+    },
+    {
+      "id": "tiger",
+      "name": "वाघ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/tiger.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/tiger.mp3"
+    },
+    {
+      "id": "elephant",
+      "name": "हत्ती",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/elephant.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/elephant.mp3"
+    },
+    {
+      "id": "dog",
+      "name": "कुत्रा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/dog.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/dog.mp3"
+    },
+    {
+      "id": "cat",
+      "name": "मांजर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/cat.mp3"
+    },
+    {
+      "id": "cow",
+      "name": "गाय",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cow.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/cow.mp3"
+    },
+    {
+      "id": "buffalo",
+      "name": "म्हैस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/buffalo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/buffalo.mp3"
+    },
+    {
+      "id": "goat",
+      "name": "शेळी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/goat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/goat.mp3"
+    },
+    {
+      "id": "sheep",
+      "name": "मेंढी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/sheep.mp3"
+    },
+    {
+      "id": "horse",
+      "name": "घोडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/horse.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/horse.mp3"
+    },
+    {
+      "id": "camel",
+      "name": "ऊंट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/camel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/camel.mp3"
+    },
+    {
+      "id": "monkey",
+      "name": "माकड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/monkey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/monkey.mp3"
+    },
+    {
+      "id": "bear",
+      "name": "अस्वल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/bear.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/bear.mp3"
+    },
+    {
+      "id": "deer",
+      "name": "हरिण",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/deer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/deer.mp3"
+    },
+    {
+      "id": "fox",
+      "name": "कोल्हा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/fox.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/fox.mp3"
+    },
+    {
+      "id": "wolf",
+      "name": "लांडगा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/wolf.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/wolf.mp3"
+    },
+    {
+      "id": "leopard",
+      "name": "चित्ता",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/leopard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/leopard.mp3"
+    },
+    {
+      "id": "cheetah",
+      "name": "चीत्या",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/cheetah.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/cheetah.mp3"
+    },
+    {
+      "id": "kangaroo",
+      "name": "कांगारू",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/kangaroo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/kangaroo.mp3"
+    },
+    {
+      "id": "zebra",
+      "name": "झेब्रा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/zebra.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/zebra.mp3"
+    },
+    {
+      "id": "giraffe",
+      "name": "जिराफ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/giraffe.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/giraffe.mp3"
+    },
+    {
+      "id": "hippopotamus",
+      "name": "दरियाई घोडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/hippopotamus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/hippopotamus.mp3"
+    },
+    {
+      "id": "rhinoceros",
+      "name": "गेंडा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rhinoceros.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/rhinoceros.mp3"
+    },
+    {
+      "id": "squirrel",
+      "name": "खार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/squirrel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/squirrel.mp3"
+    },
+    {
+      "id": "rat",
+      "name": "उंदीर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/rat.mp3"
+    },
+    {
+      "id": "rabbit",
+      "name": "ससा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/rabbit.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/rabbit.mp3"
+    },
+    {
+      "id": "pig",
+      "name": "डुक्कर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/pig.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/pig.mp3"
+    },
+    {
+      "id": "donkey",
+      "name": "गाढव",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/donkey.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/donkey.mp3"
+    },
+    {
+      "id": "yak",
+      "name": "याक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/yak.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/yak.mp3"
+    },
+    {
+      "id": "bison",
+      "name": "बायसन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/bison.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/bison.mp3"
+    },
+    {
+      "id": "otter",
+      "name": "ऊद",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/otter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/otter.mp3"
+    },
+    {
+      "id": "weasel",
+      "name": "नेवला",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/weasel.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/weasel.mp3"
+    },
+    {
+      "id": "mongoose",
+      "name": "मुंगूस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/mongoose.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/mongoose.mp3"
+    },
+    {
+      "id": "porcupine",
+      "name": "साळिंदर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/porcupine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/porcupine.mp3"
+    },
+    {
+      "id": "armadillo",
+      "name": "आर्माडिलो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/armadillo.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/armadillo.mp3"
+    },
+    {
+      "id": "sloth",
+      "name": "स्लॉथ",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/sloth.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/sloth.mp3"
+    },
+    {
+      "id": "antelope",
+      "name": "हरिण (प्रकार)",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/antelope.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/antelope.mp3"
+    },
+    {
+      "id": "hyena",
+      "name": "तरस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/hyena.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/hyena.mp3"
+    },
+    {
+      "id": "lynx",
+      "name": "लिंक्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/lynx.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/lynx.mp3"
+    },
+    {
+      "id": "panther",
+      "name": "काळा बिबट्या",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/animals/panther.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/animals/panther.mp3"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "category": "vehicles",
+  "language": "marathi",
+  "items": [
+    {
+      "id": "car",
+      "name": "कार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/car.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/car.mp3"
+    },
+    {
+      "id": "bus",
+      "name": "बस",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/bus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/bus.mp3"
+    },
+    {
+      "id": "bike",
+      "name": "बाईक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/bike.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/bike.mp3"
+    },
+    {
+      "id": "truck",
+      "name": "ट्रक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/truck.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/truck.mp3"
+    },
+    {
+      "id": "auto",
+      "name": "रिक्षा",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/auto.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/auto.mp3"
+    },
+    {
+      "id": "train",
+      "name": "रेल्वे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/train.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/train.mp3"
+    },
+    {
+      "id": "aeroplane",
+      "name": "विमान",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/aeroplane.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/aeroplane.mp3"
+    },
+    {
+      "id": "ship",
+      "name": "जहाज",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/ship.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/ship.mp3"
+    },
+    {
+      "id": "boat",
+      "name": "नौका",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/boat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/boat.mp3"
+    },
+    {
+      "id": "cycle",
+      "name": "सायकल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/cycle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/cycle.mp3"
+    },
+    {
+      "id": "helicopter",
+      "name": "हेलिकॉप्टर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/helicopter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/helicopter.mp3"
+    },
+    {
+      "id": "metro",
+      "name": "मेट्रो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/metro.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/metro.mp3"
+    },
+    {
+      "id": "tram",
+      "name": "ट्राम",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/tram.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/tram.mp3"
+    },
+    {
+      "id": "van",
+      "name": "व्हॅन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/van.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/van.mp3"
+    },
+    {
+      "id": "jeep",
+      "name": "जीप",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/jeep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/jeep.mp3"
+    },
+    {
+      "id": "tractor",
+      "name": "ट्रॅक्टर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/tractor.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/tractor.mp3"
+    },
+    {
+      "id": "bulldozer",
+      "name": "बुलडोझर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/bulldozer.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/bulldozer.mp3"
+    },
+    {
+      "id": "crane",
+      "name": "क्रेन",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/crane.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/crane.mp3"
+    },
+    {
+      "id": "ambulance",
+      "name": "रुग्णवाहिका",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/ambulance.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/ambulance.mp3"
+    },
+    {
+      "id": "fire_engine",
+      "name": "दमकल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/fire_engine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/fire_engine.mp3"
+    },
+    {
+      "id": "police_car",
+      "name": "पोलीस गाडी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/police_car.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/police_car.mp3"
+    },
+    {
+      "id": "taxi",
+      "name": "टॅक्सी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/taxi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/taxi.mp3"
+    },
+    {
+      "id": "pickup",
+      "name": "पिकअप",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/pickup.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/pickup.mp3"
+    },
+    {
+      "id": "scooter",
+      "name": "स्कूटर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/scooter.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/scooter.mp3"
+    },
+    {
+      "id": "sports_car",
+      "name": "स्पोर्ट्स कार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/sports_car.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/sports_car.mp3"
+    },
+    {
+      "id": "electric_car",
+      "name": "इलेक्ट्रिक कार",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/electric_car.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/electric_car.mp3"
+    },
+    {
+      "id": "rocket",
+      "name": "रॉकेट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/rocket.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/rocket.mp3"
+    },
+    {
+      "id": "submarine",
+      "name": "पाणबुडी",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/submarine.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/submarine.mp3"
+    },
+    {
+      "id": "yacht",
+      "name": "यॉट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/yacht.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/yacht.mp3"
+    },
+    {
+      "id": "canoe",
+      "name": "कॅनो",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/canoe.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/canoe.mp3"
+    },
+    {
+      "id": "skateboard",
+      "name": "स्केटबोर्ड",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/skateboard.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/skateboard.mp3"
+    },
+    {
+      "id": "roller_skates",
+      "name": "रोलर स्केट्स",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/roller_skates.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/roller_skates.mp3"
+    },
+    {
+      "id": "snowmobile",
+      "name": "स्नोमोबाईल",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/snowmobile.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/snowmobile.mp3"
+    },
+    {
+      "id": "hovercraft",
+      "name": "होवरक्राफ्ट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/hovercraft.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/hovercraft.mp3"
+    },
+    {
+      "id": "segway",
+      "name": "सेगवे",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/segway.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/segway.mp3"
+    },
+    {
+      "id": "golf_cart",
+      "name": "गोल्फ कार्ट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/golf_cart.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/golf_cart.mp3"
+    },
+    {
+      "id": "forklift",
+      "name": "फोर्कलिफ्ट",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/forklift.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/forklift.mp3"
+    },
+    {
+      "id": "tank",
+      "name": "टँक",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/tank.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/tank.mp3"
+    },
+    {
+      "id": "fighter_jet",
+      "name": "लढाऊ विमान",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/fighter_jet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/fighter_jet.mp3"
+    },
+    {
+      "id": "glider",
+      "name": "ग्लायडर",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/vehicles/glider.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/marathi/vehicles/glider.mp3"
+    }
+  ]
+}

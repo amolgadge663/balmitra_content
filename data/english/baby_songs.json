@@ -1,0 +1,377 @@
+{
+  "category": "baby_songs",
+  "language": "english",
+  "items": [
+    {
+      "id": "twinkle_twinkle",
+      "name": "Twinkle Twinkle Little Star",
+      "detail": "Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\n\nWhen the blazing sun is gone,\nWhen he nothing shines upon,\nThen you show your little light,\nTwinkle, twinkle, through the night.\nTwinkle, twinkle, little star,\nHow I wonder what you are!\n\nIn the dark blue sky you keep,\nOften through my curtains peep,\nFor you never shut your eye,\nTill the sun is in the sky.\nTwinkle, twinkle, little star,\nHow I wonder what you are!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/twinkle_twinkle.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/twinkle_twinkle.mp3"
+    },
+    {
+      "id": "johny_johny",
+      "name": "Johny Johny Yes Papa",
+      "detail": "Johny, Johny!\nYes, Papa!\nEating sugar?\nNo, Papa!\nTelling lies?\nNo, Papa!\nOpen your mouth!\nHa! Ha! Ha!\n\nJohny, Johny!\nYes, Papa!\nDid your homework?\nYes, Papa!\nBrushed your teeth?\nYes, Papa!\nGood boy Johny!\nHa! Ha! Ha!\n\nJohny, Johny, listen well,\nAlways speak the truth, do tell.\nWash your hands and eat your food,\nBe a child who's kind and good.",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/johny_johny.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/johny_johny.mp3"
+    },
+    {
+      "id": "baa_baa_black_sheep",
+      "name": "Baa Baa Black Sheep",
+      "detail": "Baa, baa, black sheep,\nHave you any wool?\nYes sir, yes sir,\nThree bags full!\n\nOne for the master,\nOne for the dame,\nAnd one for the little boy\nWho lives down the lane.\n\nBaa, baa, black sheep,\nHave you any wool?\nYes sir, yes sir,\nThree bags full!\n\nThank you, thank you, black sheep,\nFor your wool so warm and deep.\nWe will make a cosy coat,\nSoft enough to keep us snug.",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baa_baa_black_sheep.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/baa_baa_black_sheep.mp3"
+    },
+    {
+      "id": "humpty_dumpty",
+      "name": "Humpty Dumpty",
+      "detail": "Humpty Dumpty sat on a wall,\nHumpty Dumpty had a great fall.\nAll the king's horses,\nAnd all the king's men,\nCouldn't put Humpty together again!\n\nHumpty Dumpty climbed up a tree,\nHumpty Dumpty fell on his knee.\nAll the king's horses,\nAnd all the king's men,\nHelped poor Humpty get up again!\n\nLittle Humpty, be careful now,\nDon't sit high on the garden wall.\nPlay on the ground where it is safe,\nSo you will never take a fall!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/humpty_dumpty.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/humpty_dumpty.mp3"
+    },
+    {
+      "id": "jack_jill",
+      "name": "Jack and Jill",
+      "detail": "Jack and Jill went up the hill,\nTo fetch a pail of water.\nJack fell down and broke his crown,\nAnd Jill came tumbling after.\n\nUp Jack got and home did trot,\nAs fast as he could caper.\nHe went to bed to mend his head,\nWith vinegar and brown paper.\n\nWhen Jill came in how she did grin,\nTo see Jack's paper plaster.\nMother vexed did whip her next,\nFor causing Jack's disaster.\n\nJack and Jill now play with care,\nWalking gently down the hill.\nHolding hands they reach the well,\nFilling pails with water still.",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_jill.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/jack_jill.mp3"
+    },
+    {
+      "id": "row_your_boat",
+      "name": "Row Row Row Your Boat",
+      "detail": "Row, row, row your boat,\nGently down the stream.\nMerrily, merrily, merrily, merrily,\nLife is but a dream!\n\nRow, row, row your boat,\nGently down the river.\nIf you see a polar bear,\nDon't forget to shiver!\n\nRow, row, row your boat,\nGently to the shore.\nIf you see a lion there,\nDon't forget to roar!\n\nRow, row, row your boat,\nGently down the sea.\nIf you see a little fish,\nDon't forget to say hi!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/row_your_boat.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/row_your_boat.mp3"
+    },
+    {
+      "id": "mary_lamb",
+      "name": "Mary Had a Little Lamb",
+      "detail": "Mary had a little lamb,\nIts fleece was white as snow.\nAnd everywhere that Mary went,\nThe lamb was sure to go.\n\nIt followed her to school one day,\nWhich was against the rule.\nIt made the children laugh and play,\nTo see a lamb at school.\n\nAnd so the teacher turned it out,\nBut still it lingered near.\nAnd waited patiently about,\nTill Mary did appear.\n\n'Why does the lamb love Mary so?'\nThe eager children cry.\n'Why, Mary loves the lamb, you know,'\nThe teacher did reply.",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mary_lamb.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/mary_lamb.mp3"
+    },
+    {
+      "id": "wheels_bus",
+      "name": "Wheels on the Bus",
+      "detail": "The wheels on the bus go round and round,\nRound and round, round and round.\nThe wheels on the bus go round and round,\nAll through the town!\n\nThe doors on the bus go open and shut,\nOpen and shut, open and shut.\nThe doors on the bus go open and shut,\nAll through the town!\n\nThe wipers on the bus go swish, swish, swish,\nSwish, swish, swish, swish, swish, swish.\nThe wipers on the bus go swish, swish, swish,\nAll through the town!\n\nThe horn on the bus goes beep, beep, beep,\nBeep, beep, beep, beep, beep, beep.\nThe horn on the bus goes beep, beep, beep,\nAll through the town!\n\nThe babies on the bus go wah, wah, wah,\nWah, wah, wah, wah, wah, wah.\nThe mommies on the bus go shh, shh, shh,\nAll through the town!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/wheels_bus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/wheels_bus.mp3"
+    },
+    {
+      "id": "old_macdonald",
+      "name": "Old MacDonald Had a Farm",
+      "detail": "Old MacDonald had a farm,\nE-I-E-I-O!\nAnd on his farm he had a cow,\nE-I-E-I-O!\nWith a moo-moo here, and a moo-moo there,\nHere a moo, there a moo,\nEverywhere a moo-moo.\nOld MacDonald had a farm,\nE-I-E-I-O!\n\nOld MacDonald had a farm,\nE-I-E-I-O!\nAnd on his farm he had a duck,\nE-I-E-I-O!\nWith a quack-quack here, and a quack-quack there,\nHere a quack, there a quack,\nEverywhere a quack-quack.\nOld MacDonald had a farm,\nE-I-E-I-O!\n\nOld MacDonald had a farm,\nE-I-E-I-O!\nAnd on his farm he had a sheep,\nE-I-E-I-O!\nWith a baa-baa here, and a baa-baa there,\nHere a baa, there a baa,\nEverywhere a baa-baa.\nOld MacDonald had a farm,\nE-I-E-I-O!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/old_macdonald.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/old_macdonald.mp3"
+    },
+    {
+      "id": "itsy_bitsy",
+      "name": "Itsy Bitsy Spider",
+      "detail": "The itsy bitsy spider climbed up the water spout.\nDown came the rain and washed the spider out.\nOut came the sun and dried up all the rain,\nAnd the itsy bitsy spider climbed up the spout again!\n\nThe itsy bitsy spider climbed up the kitchen wall.\nSwoosh went the broom and made the spider fall.\nOff went the broom and the spider had a rest,\nAnd the itsy bitsy spider climbed up the wall again!\n\nThe itsy bitsy spider climbed up the tall, tall tree.\nDown came the snow and froze the spider's knee.\nOut came the sun and warmed the spider's toes,\nAnd the itsy bitsy spider climbed up the tree again!\n\nNever, never give up, no matter what you do.\nLike the itsy bitsy spider, you can do it too!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/itsy_bitsy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/itsy_bitsy.mp3"
+    },
+    {
+      "id": "five_little_ducks",
+      "name": "Five Little Ducks",
+      "detail": "Five little ducks went out one day,\nOver the hills and far away.\nMother duck said, 'Quack, quack, quack, quack!'\nBut only four little ducks came back.\n\nFour little ducks went out one day,\nOver the hills and far away.\nMother duck said, 'Quack, quack, quack, quack!'\nBut only three little ducks came back.\n\nThree little ducks went out one day,\nOver the hills and far away.\nMother duck said, 'Quack, quack, quack, quack!'\nBut only two little ducks came back.\n\nTwo little ducks went out one day,\nOver the hills and far away.\nMother duck said, 'Quack, quack, quack, quack!'\nBut only one little duck came back.\n\nOne little duck went out one day,\nOver the hills and far away.\nMother duck said, 'Quack, quack, quack, quack!'\nBut no little ducks came back.\n\nSad mother duck went out one day,\nOver the hills and far away.\nMother duck said, 'QUACK, QUACK, QUACK, QUACK!'\nAnd all five little ducks came running back!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_ducks.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/five_little_ducks.mp3"
+    },
+    {
+      "id": "head_shoulders",
+      "name": "Head Shoulders Knees and Toes",
+      "detail": "Head, shoulders, knees and toes,\nKnees and toes!\nHead, shoulders, knees and toes,\nKnees and toes!\nAnd eyes and ears and mouth and nose,\nHead, shoulders, knees and toes,\nKnees and toes!\n\nHead, shoulders, knees and toes,\nKnees and toes!\nClap your hands and touch your nose,\nTouch your nose!\nAnd eyes and ears and mouth and nose,\nHead, shoulders, knees and toes,\nKnees and toes!\n\nMove a little faster now,\nFaster now!\nHead, shoulders, knees and toes,\nKnees and toes!\nLearn each part of your whole body,\nHead, shoulders, knees and toes,\nKnees and toes!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/head_shoulders.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/head_shoulders.mp3"
+    },
+    {
+      "id": "if_happy",
+      "name": "If You're Happy and You Know It",
+      "detail": "If you're happy and you know it, clap your hands!\n(clap clap)\nIf you're happy and you know it, clap your hands!\n(clap clap)\nIf you're happy and you know it,\nAnd you really want to show it,\nIf you're happy and you know it, clap your hands!\n(clap clap)\n\nIf you're happy and you know it, stomp your feet!\n(stomp stomp)\nIf you're happy and you know it, stomp your feet!\n(stomp stomp)\nIf you're happy and you know it,\nAnd you really want to show it,\nIf you're happy and you know it, stomp your feet!\n(stomp stomp)\n\nIf you're happy and you know it, shout 'Hurray!'\n(Hurray!)\nIf you're happy and you know it, shout 'Hurray!'\n(Hurray!)\nIf you're happy and you know it,\nAnd you really want to show it,\nIf you're happy and you know it, shout 'Hurray!'\n(Hurray!)\n\nIf you're happy and you know it, do all three!\n(clap stomp Hurray!)\nIf you're happy and you know it, do all three!\n(clap stomp Hurray!)\nIf you're happy and you know it,\nAnd you really want to show it,\nIf you're happy and you know it, do all three!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/if_happy.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/if_happy.mp3"
+    },
+    {
+      "id": "good_morning",
+      "name": "Good Morning Song",
+      "detail": "Good morning, good morning,\nA brand new day is here!\nThe sun is up, the birds are out,\nWake up my little dear.\n\nBrush your teeth and wash your face,\nComb your hair with care.\nDrink your milk, eat your fruit,\nThen say a morning prayer.\n\nPick up your bag and off to school,\nLearn something new today.\nMommy waves and Daddy smiles,\nFriends are on the way.\n\nGood morning, good morning,\nThe world is bright and new.\nA happy day begins with love,\nGood morning, I love you!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/good_morning.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/good_morning.mp3"
+    },
+    {
+      "id": "rain_rain_go_away",
+      "name": "Rain Rain Go Away",
+      "detail": "Rain, rain, go away,\nCome again another day.\nLittle Johnny wants to play,\nRain, rain, go away!\n\nRain, rain, go away,\nCome again some other day.\nAll the children want to play,\nRain, rain, go away!\n\nRain, rain, pour down,\nBut not upon our town.\nLet the grass grow green and tall,\nBut save a sunny day for all!\n\nRain, rain, go away,\nCome again on Sunday.\nToday is Monday, school is fun,\nLet us play under the sun!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rain_rain_go_away.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/rain_rain_go_away.mp3"
+    },
+    {
+      "id": "yere_yere_pavsa",
+      "name": "Come Come Oh Rain",
+      "detail": "Come, come, oh rain, I will give you a coin!\nThe coin turned out fake, and the rain poured down in flood.\n\nCome, come, oh rain, the trees are thirsty too!\nThe earth turns soft and wet, and the farmer smiles anew.\n\nCome, come, oh rain, the children run outside!\nWe splash in every puddle, we shout and laugh with joy.\n\nCome, come, oh rain, you feed the fields of grain!\nRice and wheat will grow for us, and flowers will bloom again.\n\nCome, come, oh rain, the rivers fill up high!\nThe peacock opens up his tail, the frogs begin to cry.\n\nCome, come, oh rain, you bless our land each year!\nThank you, dear sweet rain, you are a gift so dear!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/yere_yere_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/yere_yere_pavsa.mp3"
+    },
+    {
+      "id": "chanda_mama",
+      "name": "Come Oh Moon",
+      "detail": "Come, oh Moon Uncle, come to our home,\nBring a pitcher full of milk, do not roam.\n\nWe will sit in your soft moonlight,\nSing sweet songs in the silver night.\n\nBaby is tired, baby wants to sleep,\nMoon Uncle, please make his slumber deep.\n\nCount the stars one, two and three,\nTell our baby a story, Moon Uncle, please!\n\nWhen baby smiles you smile above,\nShining down with your gentle love.\n\nCome, oh Moon Uncle, don't go far,\nStay by our window, you sweet little star.",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/chanda_mama.mp3"
+    },
+    {
+      "id": "aala_paus",
+      "name": "The Rain Has Come",
+      "detail": "The rain has come, the rain has come,\nIt came riding on the wind!\nThe trees began to sway and bow,\nThe leaves began to drip and sing.\n\nPick up your umbrella now,\nWear your raincoat with a smile.\nWalk along the little stream,\nFloat a paper boat a while.\n\nFrogs are jumping in the pond,\nPeacocks dance beside the pine.\nFarmers sing and fields turn green,\nEvery drop is a gift divine.\n\nThe rain has come, the rain has come,\nJoy is falling from the sky.\nThank you, rain, for all you give,\nWe will sing as you go by!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aala_paus.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/aala_paus.mp3"
+    },
+    {
+      "id": "chittu_chirri",
+      "name": "The Little Sparrow Flies",
+      "detail": "Chittu Chirri, little sparrow,\nFlies up high into the sky.\nChirp, chirp, chirp, she sings so sweet,\nHopping on her tiny feet.\n\nShe picks a twig, she picks a straw,\nBuilds a nest upon the tree.\nLays her eggs with loving care,\nWaits for chicks to hatch and see.\n\nOut come the babies, soft and small,\nOpening their little beaks.\nMother flies and father flies,\nBringing food the whole long week.\n\nChittu Chirri, little sparrow,\nTeach us how to love and share.\nFly up free into the sky,\nMake your home up in the air!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chittu_chirri.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/chittu_chirri.mp3"
+    },
+    {
+      "id": "lakdi_ki_kathi",
+      "name": "Wooden Horse",
+      "detail": "Wooden stick, oh wooden stick,\nUpon the stick there rides a horse!\nA brave young king sits on the horse,\nRiding bravely on his course.\n\nClip clop, clip clop, goes the horse,\nThrough the field and down the lane.\nThe king waves to every friend,\nRiding back and forth again.\n\nHorse is not afraid of stones,\nHorse is not afraid of rain.\nWooden stick, oh wooden stick,\nYou never slow down, you never tire.\n\nChildren play with the wooden horse,\nRunning down the village street.\nWooden stick, oh wooden stick,\nYou are every child's sweet treat!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/lakdi_ki_kathi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/lakdi_ki_kathi.mp3"
+    },
+    {
+      "id": "mera_naam_chu_chu",
+      "name": "My Name is Chu Chu",
+      "detail": "My name is Chu Chu,\nI am a little mouse.\nI live inside a tiny hole,\nAt the corner of the house.\n\nI nibble cheese and little crumbs,\nI dance about at night.\nWhen the cat begins to purr,\nI hide away from sight.\n\nChu chu chu chu, run, run, run,\nRound the kitchen floor.\nChu chu chu chu, hide, hide, hide,\nBehind the bedroom door.\n\nMy name is Chu Chu,\nI am a clever little mouse.\nI squeak and dance and play all day,\nIn this happy happy house!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/mera_naam_chu_chu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/mera_naam_chu_chu.mp3"
+    },
+    {
+      "id": "nani_teri_morni",
+      "name": "Grandma's Peacock",
+      "detail": "Grandma had a pretty peacock,\nHer peacock laid some eggs.\nSomeone came and stole the eggs,\nGrandma ran on her tired legs.\n\nThe peacock cried and Grandma sighed,\nThey searched the garden round.\nBehind the well, beneath the tree,\nNo eggs were to be found.\n\nNext morning came a little chirp,\nFrom under Grandma's shed.\nThe eggs had hatched, the chicks were safe,\nCurled up in a cosy bed.\n\nGrandma smiled and peacock danced,\nFeathers flashing in the sun.\nLittle chicks ran all around,\nEvery heart was full of fun!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nani_teri_morni.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/nani_teri_morni.mp3"
+    },
+    {
+      "id": "machhli_jal_ki_rani",
+      "name": "Fish is the Queen of Water",
+      "detail": "Fish is the queen of the water,\nWater is her life, they say.\nReach your hand out, try to catch her,\nSwish, she quickly swims away.\n\nShiny scales of silver, gold,\nLittle eyes so round and bright.\nTiny fins they flip and flap,\nGliding in the morning light.\n\nIn the river, in the pond,\nIn the deep blue of the sea,\nFishes dance in happy schools,\nFree as free can ever be.\n\nFish is the queen of the water,\nNever ever hurt her, dear.\nKeep the rivers clean and blue,\nSo she smiles from ear to ear!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/machhli_jal_ki_rani.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/machhli_jal_ki_rani.mp3"
+    },
+    {
+      "id": "chanda_mama_door_ke",
+      "name": "Moon Uncle Far Away",
+      "detail": "Moon Uncle far away,\nCooking sweet and tasty treats.\nPuri on a big round plate,\nLittle baby has a bowl to eat.\n\nMoon Uncle, please come down,\nTell our baby a pretty tale.\nSwing the cradle slow and soft,\nLet the night wind softly sail.\n\nSilver stars are blinking bright,\nCounting them, one, two, three, four.\nBaby's eyelids grow so heavy,\nDreams are waiting at the door.\n\nMoon Uncle far away,\nThank you for the lovely night.\nGoodnight moon and goodnight stars,\nSleep, dear baby, hold on tight!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/chanda_mama_door_ke.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/chanda_mama_door_ke.mp3"
+    },
+    {
+      "id": "ek_do_teen",
+      "name": "One Two Three",
+      "detail": "One, two, three, four, five,\nSix, seven, eight, nine, ten!\nShow your thumb, show your fingers,\nCount them all again.\n\nEleven, twelve, thirteen, fourteen, fifteen,\nSixteen, seventeen, eighteen, nineteen, twenty!\nClap with the rhythm, clap with joy,\nCounting is fun, we've got plenty.\n\nCount the apples in the basket,\nCount the stars up in the sky.\nCount the friends who sit beside you,\nCount the birds that fly on high.\n\nOne, two, three, four, five,\nNumbers make us smart and wise.\nSing along, sing along,\nEvery number is a prize!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ek_do_teen.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/ek_do_teen.mp3"
+    },
+    {
+      "id": "hathi_raja",
+      "name": "Where Are You Going Elephant King",
+      "detail": "Elephant King, Elephant King,\nWhere are you going today?\nSwinging your long trunk so tall,\nMarching on your way.\n\n'I am going to the jungle green,\nTo pick some leaves and flowers.\nI drink water with my long trunk,\nAnd shower for many hours.'\n\nElephant King is big and strong,\nBigger than the tallest tree.\nEars that flap, a trunk that swings,\nHappy as a king can be.\n\nChildren love the Elephant King,\nRiding on his broad strong back.\nElephant King waves his trunk,\nTrumpeting 'toot, toot' on his track!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hathi_raja.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/hathi_raja.mp3"
+    },
+    {
+      "id": "pooja_tulsi",
+      "name": "Tulsi Worship Song",
+      "detail": "Tulsi, holy Tulsi,\nWe bow before your leaves.\nEvery morning, every evening,\nWe offer flowers and prayers.\n\nLight a lamp of shining ghee,\nRing the little bell so sweet.\nOffer sugar, offer water,\nAt your sacred feet.\n\nTulsi, you are medicine,\nTulsi, you are pure.\nBless our family with good health,\nKeep our home secure.\n\nTulsi, holy Tulsi,\nFill our house with peace.\nMay all beings be happy,\nMay all suffering cease!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pooja_tulsi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/pooja_tulsi.mp3"
+    },
+    {
+      "id": "nanachi_goshta",
+      "name": "Grandpa's Story Song",
+      "detail": "Grandpa, Grandpa, tell a story,\nSit beside us, Grandpa dear.\nStories of the brave old kings,\nStories of the jungle clear.\n\nTell us of the lion bold,\nTell us of the clever crow.\nTell us of the tortoise slow,\nTell us of the rainbow's glow.\n\nChildren sit around his feet,\nEyes wide open, hearts so bright.\nEvery story has a moral,\nEvery moral, a guiding light.\n\nGrandpa, Grandpa, tell a story,\nTill the stars come out to play.\nGive us dreams of truth and courage,\nLead us on a noble way!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/nanachi_goshta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/nanachi_goshta.mp3"
+    },
+    {
+      "id": "balgeet_pavsa",
+      "name": "Children's Rain Song",
+      "detail": "Pitter patter, pitter patter,\nRain is falling on the ground.\nEvery drop goes tip tap tip tap,\nMaking such a lovely sound.\n\nFrogs are jumping 'croak croak croak',\nIn the pond and in the grass.\nChildren laugh and splash about,\nWatching every cloud that pass.\n\nFold a sheet of paper neat,\nMake a little paper boat.\nPlace it in the tiny stream,\nWatch your little boat afloat.\n\nPitter patter, pitter patter,\nEarth is smiling wet and green.\nEvery flower drinks a drop,\nWhat a happy, happy scene!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balgeet_pavsa.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/balgeet_pavsa.mp3"
+    },
+    {
+      "id": "majha_babu",
+      "name": "My Little Baby",
+      "detail": "My little baby laughs and plays,\nMy little baby smiles all day.\nDancing little feet so small,\nSweetest baby of them all.\n\nIn Mama's arms he safely sleeps,\nDreaming of the moon and stars.\nLittle fingers, little toes,\nTiny nose just like a rose.\n\nPapa tosses baby high,\nBaby giggles up to sky.\nGrandma feeds him milk and sweets,\nGrandpa sings him lullabies.\n\nMy little baby, pure and bright,\nFills our home with joy and light.\nMay God bless you every day,\nGrow up strong and live life right!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/majha_babu.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/majha_babu.mp3"
+    },
+    {
+      "id": "abc_song",
+      "name": "ABC Song",
+      "detail": "A, B, C, D, E, F, G,\nH, I, J, K, L, M, N, O, P.\nQ, R, S, T, U, V,\nW, X, Y and Z.\nNow I know my ABCs,\nNext time won't you sing with me!\n\nA is for Apple, red and round,\nB is for Ball that bounces on the ground.\nC is for Cat that says meow,\nD is for Dog that barks bow-wow.\n\nE is for Elephant, strong and grey,\nF is for Fish that swims all day.\nG is for Grapes that grow on a vine,\nH is for House where we dine.\n\nA, B, C, D, E, F, G,\nSing along and dance with me!\nLetters join to make a word,\nWords make stories we have heard!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/abc_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/abc_song.mp3"
+    },
+    {
+      "id": "butterfly_song",
+      "name": "Butterfly Song",
+      "detail": "Butterfly, butterfly, flying all around,\nColourful wings without a sound.\nSitting on a flower pink and sweet,\nTasting nectar as a treat.\n\nRed and yellow, blue and green,\nPrettiest wings I've ever seen.\nSpread them wide, spread them high,\nButterfly touches the sky.\n\nFrom flower to flower she gently flies,\nUnder the soft blue morning skies.\nGardens sing and children cheer,\nWhen butterfly is flying near.\n\nButterfly, butterfly, teach me how,\nTo dance in the sunlight, right now.\nLet me flutter, let me play,\nOn this bright and sunny day!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/butterfly_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/butterfly_song.mp3"
+    },
+    {
+      "id": "shapes_song",
+      "name": "Shapes Song",
+      "detail": "Round and round goes the circle,\nNo corners, no straight line.\nLike the sun and like the moon,\nA circle is so fine.\n\nSquare has four equal sides,\nFour corners, neat and tight.\nWindows, books and picture frames,\nAre squares both day and night.\n\nTriangle has three corners,\nThree sides make it strong.\nMountains, roofs and ice-cream cones,\nTriangles go along.\n\nRectangle is long and wide,\nFour corners and two long sides.\nDoors and tables, beds and books,\nRectangles are everywhere you look!\n\nCircle, square, triangle, rectangle,\nShapes are all around.\nLook and learn the shapes with me,\nNew shapes can be found!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/shapes_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/shapes_song.mp3"
+    },
+    {
+      "id": "colors_song",
+      "name": "Colors Song",
+      "detail": "Red, red, red is an apple,\nYellow, yellow is a sun.\nBlue, blue, blue is the ocean,\nGreen, green is the grass.\n\nOrange, orange is a carrot,\nPurple, purple is a plum.\nPink, pink, pink is a flower,\nBrown, brown is a drum.\n\nBlack, black is the crow that flies,\nWhite, white is the milk I drink.\nColours shine in everything,\nEvery colour makes you think.\n\nSeven colours in the rainbow,\nAfter rain up in the sky.\nRed, orange, yellow, green,\nBlue, indigo, violet, high and high.\n\nSing the colour song with me,\nClap your hands and dance along.\nA colourful world, a happy world,\nLet us learn the colour song!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/colors_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/colors_song.mp3"
+    },
+    {
+      "id": "baby_shark",
+      "name": "Baby Shark",
+      "detail": "Baby shark, doo doo, doo doo doo doo,\nBaby shark, doo doo, doo doo doo doo,\nBaby shark, doo doo, doo doo doo doo,\nBaby shark!\n\nMommy shark, doo doo, doo doo doo doo,\nMommy shark, doo doo, doo doo doo doo,\nMommy shark, doo doo, doo doo doo doo,\nMommy shark!\n\nDaddy shark, doo doo, doo doo doo doo,\nDaddy shark, doo doo, doo doo doo doo,\nDaddy shark, doo doo, doo doo doo doo,\nDaddy shark!\n\nGrandma shark, doo doo, doo doo doo doo,\nGrandma shark, doo doo, doo doo doo doo,\nGrandma shark, doo doo, doo doo doo doo,\nGrandma shark!\n\nGrandpa shark, doo doo, doo doo doo doo,\nGrandpa shark, doo doo, doo doo doo doo,\nGrandpa shark, doo doo, doo doo doo doo,\nGrandpa shark!\n\nLet's go hunt, doo doo, doo doo doo doo,\nRun away, doo doo, doo doo doo doo,\nSafe at last, doo doo, doo doo doo doo,\nIt's the end!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/baby_shark.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/baby_shark.mp3"
+    },
+    {
+      "id": "five_little_monkeys",
+      "name": "Five Little Monkeys",
+      "detail": "Five little monkeys jumping on the bed,\nOne fell off and bumped his head.\nMama called the doctor and the doctor said,\n'No more monkeys jumping on the bed!'\n\nFour little monkeys jumping on the bed,\nOne fell off and bumped his head.\nMama called the doctor and the doctor said,\n'No more monkeys jumping on the bed!'\n\nThree little monkeys jumping on the bed,\nOne fell off and bumped his head.\nMama called the doctor and the doctor said,\n'No more monkeys jumping on the bed!'\n\nTwo little monkeys jumping on the bed,\nOne fell off and bumped his head.\nMama called the doctor and the doctor said,\n'No more monkeys jumping on the bed!'\n\nOne little monkey jumping on the bed,\nHe fell off and bumped his head.\nMama called the doctor and the doctor said,\n'Put those monkeys straight to bed!'",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/five_little_monkeys.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/five_little_monkeys.mp3"
+    },
+    {
+      "id": "hickory_dickory",
+      "name": "Hickory Dickory Dock",
+      "detail": "Hickory dickory dock,\nThe mouse ran up the clock.\nThe clock struck one,\nThe mouse ran down,\nHickory dickory dock!\n\nHickory dickory dock,\nThe mouse ran up the clock.\nThe clock struck two,\nAnd down he flew,\nHickory dickory dock!\n\nHickory dickory dock,\nThe mouse ran up the clock.\nThe clock struck three,\nAnd he did flee,\nHickory dickory dock!\n\nHickory dickory dock,\nThe mouse ran up the clock.\nThe clock struck four,\nHe hit the floor,\nHickory dickory dock!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/hickory_dickory.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/hickory_dickory.mp3"
+    },
+    {
+      "id": "london_bridge",
+      "name": "London Bridge is Falling Down",
+      "detail": "London Bridge is falling down,\nFalling down, falling down.\nLondon Bridge is falling down,\nMy fair lady.\n\nBuild it up with wood and clay,\nWood and clay, wood and clay.\nBuild it up with wood and clay,\nMy fair lady.\n\nWood and clay will wash away,\nWash away, wash away.\nWood and clay will wash away,\nMy fair lady.\n\nBuild it up with iron and steel,\nIron and steel, iron and steel.\nBuild it up with iron and steel,\nMy fair lady.\n\nIron and steel will bend and bow,\nBend and bow, bend and bow.\nIron and steel will bend and bow,\nMy fair lady.\n\nBuild it up with gold and silver,\nGold and silver, gold and silver.\nBuild it up with gold and silver,\nMy fair lady!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/london_bridge.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/london_bridge.mp3"
+    },
+    {
+      "id": "pat_a_cake",
+      "name": "Pat a Cake",
+      "detail": "Pat-a-cake, pat-a-cake, baker's man,\nBake me a cake as fast as you can.\nPat it and prick it and mark it with B,\nAnd put it in the oven for baby and me!\n\nPat-a-cake, pat-a-cake, baker's man,\nMake me a biscuit as fast as you can.\nRoll it and cut it and mark it with sweet,\nAnd put it in the oven, a yummy treat!\n\nPat-a-cake, pat-a-cake, baker's man,\nBake me bread as fast as you can.\nKnead it and shape it and mark it with love,\nAnd bless it with a prayer above!\n\nBaker, baker, what a kind man,\nFeeding the children as best you can.\nWe clap our hands and thank you so,\nFor the warm bread and cake we know!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/pat_a_cake.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/pat_a_cake.mp3"
+    },
+    {
+      "id": "little_miss_muffet",
+      "name": "Little Miss Muffet",
+      "detail": "Little Miss Muffet sat on a tuffet,\nEating her curds and whey.\nThere came a big spider,\nWho sat down beside her,\nAnd frightened Miss Muffet away!\n\nLittle Miss Muffet came back one day,\nReady to finish her breakfast today.\nThe spider was gone and the sun was bright,\nMiss Muffet sat down with a smile of delight.\n\nShe shared her bowl with a friendly bird,\nAnd whispered a song without a word.\nNow she is braver and never afraid,\nOf any small creature in field or glade!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/little_miss_muffet.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/little_miss_muffet.mp3"
+    },
+    {
+      "id": "jack_be_nimble",
+      "name": "Jack Be Nimble",
+      "detail": "Jack be nimble, Jack be quick,\nJack jump over the candlestick!\n\nJack jump high, Jack jump low,\nJack jump over the burning glow.\n\nJack jump left, Jack jump right,\nJack jump with all his might.\n\nJack be careful, Jack be kind,\nJumping safely is what you'll find.\n\nJack be nimble, Jack be quick,\nEvery jump is one more trick!\n\nLittle friends, come and try,\nJump up high, reach the sky!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jack_be_nimble.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/jack_be_nimble.mp3"
+    },
+    {
+      "id": "star_light",
+      "name": "Star Light Star Bright",
+      "detail": "Star light, star bright,\nThe first star I see tonight.\nI wish I may, I wish I might,\nHave the wish I wish tonight.\n\nLittle star, way up high,\nTwinkling softly in the sky.\nTell me secrets old and new,\nWhisper dreams that may come true.\n\nMake a wish and close your eyes,\nCount the stars up in the skies.\nSleepy night is falling down,\nStars are shining on our town.\n\nGoodnight stars and goodnight moon,\nMorning sun will come back soon.\nDreams are waiting, warm and tight,\nStar light, star bright, goodnight!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/star_light.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/star_light.mp3"
+    },
+    {
+      "id": "ting_ting_ghanta",
+      "name": "Ting Ting the Bell Rings",
+      "detail": "Ting, ting, ting, the bell is ringing,\nTime to wake up now!\nStretch your arms and wash your face,\nMake your bed somehow.\n\nTing, ting, ting, the school bell rings,\nPick up your school bag fast.\nSay goodbye to Mom and Dad,\nRun so you are not last.\n\nTing, ting, ting, the class bell rings,\nSit upon your chair.\nOpen your book, pick up your pen,\nTeacher's voice is in the air.\n\nTing, ting, ting, the lunch bell rings,\nTime to eat and play.\nShare your food with every friend,\nA happy school day, hooray!\n\nTing, ting, ting, the home bell rings,\nHome is where we go.\nHug your mom and kiss your dad,\nTell them all you know!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/ting_ting_ghanta.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/ting_ting_ghanta.mp3"
+    },
+    {
+      "id": "aai_gaan",
+      "name": "Mommy's Lullaby",
+      "detail": "Sleep, my baby, sleep, my dear,\nMama is singing, don't you fear.\nMoon is peeping in the sky,\nHushaby, my baby, hushaby.\n\nLittle eyelids, soft and sweet,\nLittle fingers, little feet.\nMama rocks you to and fro,\nOff to dreamland gently go.\n\nDream of flowers, dream of trees,\nDream of soft and gentle breeze.\nDream of angels pure and bright,\nWatching over you all night.\n\nMama's love is warm and deep,\nNever ending, like the sea.\nSleep, my baby, sleep, my dear,\nMama is always, always here!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/aai_gaan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/aai_gaan.mp3"
+    },
+    {
+      "id": "jhopdi_jhopdi",
+      "name": "Little Hut Song",
+      "detail": "Little hut, little hut,\nStanding in the farmer's field.\nMade of mud and straw and wood,\nStrong and warm, a tiny shield.\n\nInside lives a farmer kind,\nWaking up before the sun.\nTending crops and feeding cows,\nWorking till the day is done.\n\nRain may fall and wind may blow,\nLittle hut stands brave and tall.\nSheltering the farmer's family,\nShelter, love and home for all.\n\nLittle hut, little hut,\nHumble home of honest hands.\nFrom your fields our food is grown,\nBless the farmer, bless the land!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/jhopdi_jhopdi.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/jhopdi_jhopdi.mp3"
+    },
+    {
+      "id": "rang_birangi_duniya",
+      "name": "Colorful World",
+      "detail": "What a colourful world we live in,\nSo beautiful and bright!\nRed flowers blooming in the garden,\nBlue sky up in the light.\n\nGreen grass beneath our little feet,\nYellow sunshine warm and sweet.\nOrange sunsets in the evening,\nPink clouds floating with a greet.\n\nPurple grapes upon the vine,\nWhite clouds on a day so fine.\nBrown earth gives us all our food,\nBlack night rests the weary mood.\n\nColourful world, colourful world,\nHow we love you through and through.\nEvery colour tells a story,\nEvery colour shines on you!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/rang_birangi_duniya.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/rang_birangi_duniya.mp3"
+    },
+    {
+      "id": "sunny_day",
+      "name": "What a Sunny Day",
+      "detail": "The sun has risen in the east,\nGolden rays come shining through.\nBirds are singing sweet and loud,\nFlowers open fresh with dew.\n\nChildren jump out of their beds,\nPut their shoes on, run outside.\nKites are flying in the wind,\nBicycles take them for a ride.\n\nOn the grass and in the park,\nFriends are playing, laughing bright.\nButterflies and bees go by,\nChasing beams of morning light.\n\nWhat a beautiful sunny day,\nFull of warmth and full of cheer.\nThank you, sun, for shining down,\nBringing joy to all who're here!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sunny_day.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/sunny_day.mp3"
+    },
+    {
+      "id": "clean_up",
+      "name": "Clean Up Song",
+      "detail": "Clean up, clean up, everybody everywhere,\nClean up, clean up, everybody do your share!\n\nPick up every toy you see,\nPut them back where they should be.\nBooks go neatly on the shelf,\nDo it, do it by yourself.\n\nWipe the table, sweep the floor,\nShut the cupboard, shut the door.\nFold your clothes and make your bed,\nKeep clean thoughts inside your head.\n\nClean up, clean up, everybody sing,\nClean up, clean up, it's a happy thing!\n\nA clean home is a happy home,\nWhere little children love to roam.\nClean hands, clean face, clean heart, clean mind,\nThis is the little rule we find!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/clean_up.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/clean_up.mp3"
+    },
+    {
+      "id": "sleeping_song",
+      "name": "Bedtime Lullaby",
+      "detail": "Swing the cradle gently now,\nBaby's eyes are sleepy too.\nListen to the lullaby,\nDreams are waiting just for you.\n\nCount one star, count two stars,\nCount three stars up in the sky.\nFour and five and six stars bright,\nClose your eyelids with a sigh.\n\nAngels guard your little bed,\nWhispering the softest song.\nMama's love is all around,\nAll night safe and all night long.\n\nSleep, my little darling sleep,\nTomorrow is another day.\nFull of sunshine, full of friends,\nFull of laughter, full of play!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/sleeping_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/sleeping_song.mp3"
+    },
+    {
+      "id": "number_song",
+      "name": "Number Song",
+      "detail": "One, one, one, an elephant walks by,\nTwo, two, two, the swans fly in the sky.\nThree, three, three, the frogs go hop hop hop,\nFour, four, four, the tigers never stop.\n\nFive, five, five, the fishes in the sea,\nSix, six, six, the flowers on the tree.\nSeven, seven, seven, the colours in the bow,\nEight, eight, eight, the snails that move so slow.\n\nNine, nine, nine, the bells ring loud and clear,\nTen, ten, ten, the children we hold dear.\nCounting up and counting down,\nNumbers help us all around!\n\nCount your fingers, count your toes,\nCount the petals on a rose.\nNumbers make us smart and wise,\nPractice counting, win a prize!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/number_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/number_song.mp3"
+    },
+    {
+      "id": "animals_song",
+      "name": "Animals Song",
+      "detail": "The lion roars, 'Roar, roar, roar!'\nThe dog says, 'Bow, wow, wow!'\nThe cat says, 'Meow, meow, meow!'\nThe cow says, 'Moo, moo, moo!'\n\nThe horse says, 'Neigh, neigh, neigh!'\nThe frog says, 'Croak, croak, croak!'\nThe sheep says, 'Baa, baa, baa!'\nThe duck says, 'Quack, quack, quack!'\n\nThe goat says, 'Meh, meh, meh!'\nThe pig says, 'Oink, oink, oink!'\nThe donkey says, 'Hee-haw, hee-haw!'\nThe rooster crows, 'Cock-a-doodle-doo!'\n\nAnimals big and animals small,\nEach one speaks a different call.\nListen closely, sing with me,\nWhat a happy family!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/animals_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/animals_song.mp3"
+    },
+    {
+      "id": "fruits_song",
+      "name": "Fruits Song",
+      "detail": "Mango, mango, sweet and yellow,\nBanana, banana, long and mellow.\nApple, apple, red and round,\nOrange, orange, juicy sound.\n\nGrapes, grapes, green and small,\nPapaya, papaya, big and tall.\nPomegranate full of seeds,\nSapodilla, yum indeed!\n\nWatermelon, cool and sweet,\nPineapple, a crowny treat.\nStrawberry, red and bright,\nGuava gives us vitamin might.\n\nEat your fruits every day,\nThey will make you strong to play.\nHealthy fruits in every bite,\nKeep you shining and upright!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/fruits_song.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/fruits_song.mp3"
+    },
+    {
+      "id": "balpan",
+      "name": "My Childhood",
+      "detail": "Oh my childhood, oh my childhood,\nHow beautiful you are!\nPlaying, laughing, learning, growing,\nBrighter than the brightest star.\n\nIn the love of Mom and Dad,\nWith my friends I laugh and play.\nGrandma's stories, Grandpa's wisdom,\nTeach me something every day.\n\nSchool bag on my little shoulder,\nPencil, book and shining shoes.\nTeachers kind and lessons bolder,\nEvery day there's news to use.\n\nSwing and slide in the park,\nCycle rides until it's dark.\nCatch the rain, chase the sun,\nChildhood truly is so much fun!\n\nOh my childhood, oh my childhood,\nI will cherish you forever.\nAll the memories, all the laughter,\nFade from me, no, never, never!",
+      "image": "https://amolgadge663.github.io/balmitra_content/images/baby_songs/balpan.png",
+      "audio": "https://amolgadge663.github.io/balmitra_content/audios/english/baby_songs/balpan.mp3"
+    }
+  ]
+}
